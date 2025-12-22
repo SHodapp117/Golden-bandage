@@ -1,0 +1,479 @@
+2025-12-22 12:30:48,208 - INFO - Starting MLS injury data collection...
+2025-12-22 12:30:48,208 - INFO - Seasons: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+2025-12-22 12:30:48,208 - INFO - Processing season 2015
+2025-12-22 12:30:56,185 - INFO - Found 20 MLS teams for 2015
+2025-12-22 12:30:56,185 - INFO - Processing team: Los Angeles Galaxy
+2025-12-22 12:31:01,009 - INFO - Found 41 players
+2025-12-22 12:31:04,620 - INFO - Found 2 injuries for Dan Kennedy
+2025-12-22 12:31:08,061 - INFO - Found 1 injuries for Clément Diop
+2025-12-22 12:31:11,737 - INFO - Found 2 injuries for Brian Rowe
+2025-12-22 12:31:18,509 - INFO - Found 3 injuries for Jelle Van Damme
+2025-12-22 12:31:22,259 - INFO - Found 2 injuries for Omar González
+2025-12-22 12:31:25,871 - INFO - Found 4 injuries for Leonardo
+2025-12-22 12:31:32,647 - INFO - Found 3 injuries for Daniel Steres
+2025-12-22 12:31:43,029 - INFO - Found 10 injuries for Ashley Cole
+2025-12-22 12:31:46,476 - INFO - Found 3 injuries for Robbie Rogers
+2025-12-22 12:31:49,922 - INFO - Found 2 injuries for Todd Dunivant
+2025-12-22 12:31:53,343 - INFO - Found 3 injuries for A. J. DeLaGarza
+2025-12-22 12:31:56,672 - INFO - Found 1 injuries for Dan Gargan
+2025-12-22 12:32:03,619 - INFO - Found 11 injuries for Nigel de Jong
+2025-12-22 12:32:07,132 - INFO - Found 3 injuries for Jeff Larentowicz
+2025-12-22 12:32:10,545 - INFO - Found 1 injuries for Kenney Walker
+2025-12-22 12:32:19,310 - INFO - Found 15 injuries for Steven Gerrard
+2025-12-22 12:32:22,684 - INFO - Found 2 injuries for Juninho
+2025-12-22 12:32:26,326 - INFO - Found 1 injuries for Mika Väyrynen
+2025-12-22 12:32:29,710 - INFO - Found 3 injuries for Baggio Husidic
+2025-12-22 12:32:36,814 - INFO - Found 10 injuries for Sebastian Lletget
+2025-12-22 12:32:43,956 - INFO - Found 3 injuries for Emmanuel Boateng
+2025-12-22 12:32:50,680 - INFO - Found 2 injuries for Ariel Lassiter
+2025-12-22 12:32:54,284 - INFO - Found 13 injuries for Giovani dos Santos
+2025-12-22 12:32:57,743 - INFO - Found 2 injuries for Landon Donovan
+2025-12-22 12:33:01,294 - INFO - Found 15 injuries for Robbie Keane
+2025-12-22 12:33:04,812 - INFO - Found 2 injuries for Edson Buddle
+2025-12-22 12:33:08,255 - INFO - Found 2 injuries for Mike Magee
+2025-12-22 12:33:11,733 - INFO - Found 5 injuries for Alan Gordon
+2025-12-22 12:33:15,184 - INFO - Found 6 injuries for Gyasi Zardes
+2025-12-22 12:33:18,559 - INFO - Found 1 injuries for Jack McBean
+2025-12-22 12:33:22,888 - INFO - Found 4 injuries for José Villarreal
+2025-12-22 12:33:26,525 - INFO - Found 2 injuries for Bradford Jamieson IV
+2025-12-22 12:33:29,530 - INFO - Processing team: Seattle Sounders FC
+2025-12-22 12:33:33,764 - INFO - Found 43 players
+2025-12-22 12:33:37,258 - INFO - Found 10 injuries for Stefan Frei
+2025-12-22 12:33:44,120 - INFO - Found 5 injuries for Tyler Miller
+2025-12-22 12:33:51,883 - INFO - Found 5 injuries for Román Torres
+2025-12-22 12:33:55,444 - INFO - Found 10 injuries for Brad Evans
+2025-12-22 12:33:58,891 - INFO - Found 9 injuries for Chad Marshall
+2025-12-22 12:34:05,700 - INFO - Found 3 injuries for Andy Rose
+2025-12-22 12:34:09,209 - INFO - Found 1 injuries for Damion Lowe
+2025-12-22 12:34:16,248 - INFO - Found 1 injuries for Tony Alfaro
+2025-12-22 12:34:19,624 - INFO - Found 1 injuries for Leonardo González
+2025-12-22 12:34:23,109 - INFO - Found 2 injuries for Joevin Jones
+2025-12-22 12:34:30,015 - INFO - Found 2 injuries for Dylan Remick
+2025-12-22 12:34:33,510 - INFO - Found 4 injuries for Tyrone Mears
+2025-12-22 12:34:36,859 - INFO - Found 4 injuries for Oniel Fisher
+2025-12-22 12:34:40,576 - INFO - Found 11 injuries for Osvaldo Alonso
+2025-12-22 12:34:44,084 - INFO - Found 3 injuries for Erik Friberg
+2025-12-22 12:34:50,819 - INFO - Found 3 injuries for Álvaro Fernández
+2025-12-22 12:34:54,223 - INFO - Found 2 injuries for Gonzalo Pineda
+2025-12-22 12:34:57,654 - INFO - Found 1 injuries for Nathan Sturgis
+2025-12-22 12:35:01,434 - INFO - Found 5 injuries for Cristian Roldán
+2025-12-22 12:35:04,944 - INFO - Found 13 injuries for Andreas Ivanschitz
+2025-12-22 12:35:08,445 - INFO - Found 12 injuries for Nicolás Lodeiro
+2025-12-22 12:35:11,855 - INFO - Found 2 injuries for Michael Farfán
+2025-12-22 12:35:18,722 - INFO - Found 3 injuries for Marco Pappa
+2025-12-22 12:35:25,583 - INFO - Found 2 injuries for Lamar Neagle
+2025-12-22 12:35:29,052 - INFO - Found 3 injuries for Aaron Kovar
+2025-12-22 12:35:36,124 - INFO - Found 11 injuries for Clint Dempsey
+2025-12-22 12:35:39,805 - INFO - Found 13 injuries for Obafemi Martins
+2025-12-22 12:35:43,234 - INFO - Found 10 injuries for Nelson Haedo Valdez
+2025-12-22 12:35:50,404 - INFO - Found 4 injuries for Chad Barrett
+2025-12-22 12:35:53,774 - INFO - Found 1 injuries for Andy Craven
+2025-12-22 12:35:57,229 - INFO - Found 1 injuries for Oalex Anderson
+2025-12-22 12:36:00,739 - INFO - Found 9 injuries for Jordan Morris
+2025-12-22 12:36:07,038 - INFO - Processing team: New York City FC
+2025-12-22 12:36:12,794 - INFO - Found 27 players
+2025-12-22 12:36:19,953 - INFO - Found 2 injuries for Josh Saunders
+2025-12-22 12:36:26,822 - INFO - Found 11 injuries for Maxime Chanot
+2025-12-22 12:36:33,569 - INFO - Found 4 injuries for Jefferson Mena
+2025-12-22 12:36:37,063 - INFO - Found 3 injuries for Jason Hernández
+2025-12-22 12:36:40,486 - INFO - Found 2 injuries for Ethan White
+2025-12-22 12:36:47,584 - INFO - Found 15 injuries for Ronald Matarrita
+2025-12-22 12:36:51,214 - INFO - Found 9 injuries for Andoni Iraola
+2025-12-22 12:36:54,614 - INFO - Found 2 injuries for R. J. Allen
+2025-12-22 12:36:58,001 - INFO - Found 1 injuries for Shannon Gómez
+2025-12-22 12:37:01,525 - INFO - Found 12 injuries for Andrea Pirlo
+2025-12-22 12:37:05,010 - INFO - Found 3 injuries for Mikey Lopez
+2025-12-22 12:37:08,546 - INFO - Found 14 injuries for Frank Lampard
+2025-12-22 12:37:11,971 - INFO - Found 4 injuries for Mix Diskerud
+2025-12-22 12:37:15,347 - INFO - Found 1 injuries for Federico Bravo
+2025-12-22 12:37:18,815 - INFO - Found 2 injuries for Mehdi Ballouchy
+2025-12-22 12:37:26,231 - INFO - Found 5 injuries for Stiven Mendoza
+2025-12-22 12:37:29,620 - INFO - Found 4 injuries for Jack Harrison
+2025-12-22 12:37:33,083 - INFO - Found 3 injuries for Tommy McNamara
+2025-12-22 12:37:36,486 - INFO - Found 1 injuries for Tony Taylor
+2025-12-22 12:37:40,097 - INFO - Found 14 injuries for David Villa
+2025-12-22 12:37:43,893 - INFO - Found 3 injuries for Patrick Mullins
+2025-12-22 12:37:47,380 - INFO - Found 13 injuries for Khiry Shelton
+2025-12-22 12:37:50,385 - INFO - Processing team: Toronto FC
+2025-12-22 12:37:54,500 - INFO - Found 29 players
+2025-12-22 12:37:58,090 - INFO - Found 2 injuries for Clint Irwin
+2025-12-22 12:38:01,523 - INFO - Found 1 injuries for Quillan Roberts
+2025-12-22 12:38:04,792 - INFO - Found 2 injuries for Alex Bono
+2025-12-22 12:38:08,315 - INFO - Found 8 injuries for Damien Perquis
+2025-12-22 12:38:11,703 - INFO - Found 6 injuries for Drew Moor
+2025-12-22 12:38:15,357 - INFO - Found 9 injuries for Josh Williams
+2025-12-22 12:38:18,733 - INFO - Found 4 injuries for Eriq Zavaleta
+2025-12-22 12:38:22,146 - INFO - Found 11 injuries for Nick Hagglund
+2025-12-22 12:38:25,641 - INFO - Found 4 injuries for Ashtone Morgan
+2025-12-22 12:38:29,099 - INFO - Found 5 injuries for Justin Morrow
+2025-12-22 12:38:32,401 - INFO - Found 5 injuries for Daniel Lovitz
+2025-12-22 12:38:35,781 - INFO - Found 2 injuries for Raheem Edwards
+2025-12-22 12:38:39,300 - INFO - Found 8 injuries for Steven Beitashour
+2025-12-22 12:38:42,761 - INFO - Found 2 injuries for Mark Bloom
+2025-12-22 12:38:46,245 - INFO - Found 6 injuries for Benoît Cheyrou
+2025-12-22 12:38:53,141 - INFO - Found 8 injuries for Michael Bradley
+2025-12-22 12:38:56,590 - INFO - Found 5 injuries for Will Johnson
+2025-12-22 12:38:59,988 - INFO - Found 1 injuries for Armando Cooper
+2025-12-22 12:39:03,443 - INFO - Found 2 injuries for Mark Delgado
+2025-12-22 12:39:07,106 - INFO - Found 1 injuries for Jay Chapman
+2025-12-22 12:39:10,520 - INFO - Found 11 injuries for Jonathan Osorio
+2025-12-22 12:39:21,301 - INFO - Found 4 injuries for Tsubasa Endoh
+2025-12-22 12:39:25,421 - INFO - Found 15 injuries for Sebastian Giovinco
+2025-12-22 12:39:29,112 - INFO - Found 15 injuries for Jozy Altidore
+2025-12-22 12:39:32,628 - INFO - Found 3 injuries for Tosaint Ricketts
+2025-12-22 12:39:39,040 - INFO - Processing team: Real Salt Lake City
+2025-12-22 12:39:43,636 - INFO - Found 36 players
+2025-12-22 12:39:47,309 - INFO - Found 6 injuries for Nick Rimando
+2025-12-22 12:39:50,756 - INFO - Found 6 injuries for Jeff Attinella
+2025-12-22 12:39:57,626 - INFO - Found 4 injuries for Aaron Maund
+2025-12-22 12:40:01,342 - INFO - Found 2 injuries for Jámison Olave
+2025-12-22 12:40:04,787 - INFO - Found 5 injuries for Chris Schuler
+2025-12-22 12:40:08,364 - INFO - Found 2 injuries for Elías Enoc Vásquez
+2025-12-22 12:40:11,872 - INFO - Found 7 injuries for Justen Glad
+2025-12-22 12:40:15,427 - INFO - Found 1 injuries for Phanuel Kavita
+2025-12-22 12:40:19,064 - INFO - Found 4 injuries for Demar Phillips
+2025-12-22 12:40:26,532 - INFO - Found 1 injuries for Abdoulie Mansally
+2025-12-22 12:40:29,930 - INFO - Found 1 injuries for Danilo Acosta
+2025-12-22 12:40:33,365 - INFO - Found 4 injuries for Tony Beltran
+2025-12-22 12:40:40,254 - INFO - Found 1 injuries for Boyd Okwuonu
+2025-12-22 12:40:43,667 - INFO - Found 4 injuries for Andrew Brody
+2025-12-22 12:40:47,335 - INFO - Found 5 injuries for Sunny
+2025-12-22 12:40:50,798 - INFO - Found 3 injuries for Kyle Beckerman
+2025-12-22 12:40:57,868 - INFO - Found 2 injuries for Luke Mulholland
+2025-12-22 12:41:01,247 - INFO - Found 2 injuries for Omar Holness
+2025-12-22 12:41:04,579 - INFO - Found 2 injuries for Ricardo Velazco
+2025-12-22 12:41:07,968 - INFO - Found 5 injuries for Javier Morales
+2025-12-22 12:41:11,497 - INFO - Found 1 injuries for Luis Gil
+2025-12-22 12:41:18,403 - INFO - Found 10 injuries for Joao Plata
+2025-12-22 12:41:21,996 - INFO - Found 1 injuries for Sebastián Saucedo
+2025-12-22 12:41:25,412 - INFO - Found 2 injuries for Juan Manuel Martínez
+2025-12-22 12:41:29,010 - INFO - Found 4 injuries for Jordan Allen
+2025-12-22 12:41:32,482 - INFO - Found 8 injuries for Yura Movsisyan
+2025-12-22 12:41:35,901 - INFO - Found 1 injuries for Sebastián Jaime
+2025-12-22 12:41:39,336 - INFO - Found 2 injuries for Olmes García
+2025-12-22 12:41:42,788 - INFO - Found 5 injuries for Luis Silva
+2025-12-22 12:41:46,213 - INFO - Found 1 injuries for Devon Sandoval
+2025-12-22 12:41:52,728 - INFO - Processing team: Philadelphia Union
+2025-12-22 12:41:56,733 - INFO - Found 28 players
+2025-12-22 12:42:00,170 - INFO - Found 3 injuries for Matt Jones
+2025-12-22 12:42:03,606 - INFO - Found 11 injuries for Andre Blake
+2025-12-22 12:42:06,986 - INFO - Found 2 injuries for John McCarthy
+2025-12-22 12:42:10,372 - INFO - Found 1 injuries for Anderson Conceição
+2025-12-22 12:42:13,822 - INFO - Found 2 injuries for Ken Tribbett
+2025-12-22 12:42:17,267 - INFO - Found 3 injuries for Richie Marquez
+2025-12-22 12:42:20,710 - INFO - Found 4 injuries for Joshua Yaro
+2025-12-22 12:42:27,504 - INFO - Found 2 injuries for Fabinho
+2025-12-22 12:42:34,715 - INFO - Found 3 injuries for Keegan Rosenberry
+2025-12-22 12:42:38,238 - INFO - Found 7 injuries for Maurice Edu
+2025-12-22 12:42:41,703 - INFO - Found 3 injuries for Brian Carroll
+2025-12-22 12:42:45,179 - INFO - Found 4 injuries for Warren Creavalle
+2025-12-22 12:42:48,829 - INFO - Found 10 injuries for Alejandro Bedoya
+2025-12-22 12:42:52,289 - INFO - Found 2 injuries for Vincent Nogueira
+2025-12-22 12:42:55,736 - INFO - Found 1 injuries for Cole Missimo
+2025-12-22 12:42:59,272 - INFO - Found 11 injuries for Ilsinho
+2025-12-22 12:43:02,739 - INFO - Found 1 injuries for Leo Fernandes
+2025-12-22 12:43:06,590 - INFO - Found 15 injuries for Tranquillo Barnetta
+2025-12-22 12:43:10,452 - INFO - Found 5 injuries for Roland Alberg
+2025-12-22 12:43:14,089 - INFO - Found 5 injuries for Chris Pontius
+2025-12-22 12:43:17,512 - INFO - Found 1 injuries for Wálter Restrepo
+2025-12-22 12:43:20,941 - INFO - Found 10 injuries for Fabian Herbers
+2025-12-22 12:43:27,744 - INFO - Found 3 injuries for Sébastien Le Toux
+2025-12-22 12:43:31,279 - INFO - Found 4 injuries for C.J. Sapong
+2025-12-22 12:43:34,964 - INFO - Found 3 injuries for Charlie Davies
+2025-12-22 12:43:37,970 - INFO - Processing team: Orlando City SC
+2025-12-22 12:43:42,274 - INFO - Found 31 players
+2025-12-22 12:43:45,817 - INFO - Found 2 injuries for Joe Bendik
+2025-12-22 12:43:49,317 - INFO - Found 1 injuries for Earl Edwards Jr.
+2025-12-22 12:43:52,770 - INFO - Found 5 injuries for David Mateos
+2025-12-22 12:43:56,271 - INFO - Found 9 injuries for Aurélien Collin
+2025-12-22 12:43:59,849 - INFO - Found 1 injuries for Seb Hines
+2025-12-22 12:44:03,418 - INFO - Found 5 injuries for José Aja
+2025-12-22 12:44:06,796 - INFO - Found 5 injuries for Pedro Ribeiro
+2025-12-22 12:44:13,675 - INFO - Found 3 injuries for Tommy Redding
+2025-12-22 12:44:17,855 - INFO - Found 1 injuries for Conor Donovan
+2025-12-22 12:44:24,613 - INFO - Found 2 injuries for Mikey Ambrose
+2025-12-22 12:44:28,245 - INFO - Found 4 injuries for Kevin Alston
+2025-12-22 12:44:31,687 - INFO - Found 9 injuries for Rafael Ramos
+2025-12-22 12:44:38,941 - INFO - Found 3 injuries for Richie Laryea
+2025-12-22 12:44:42,428 - INFO - Found 2 injuries for Darwin Cerén
+2025-12-22 12:44:46,080 - INFO - Found 6 injuries for Antonio Nocerino
+2025-12-22 12:44:53,009 - INFO - Found 5 injuries for Cristian Higuita
+2025-12-22 12:44:56,495 - INFO - Found 2 injuries for Tony Rocha
+2025-12-22 12:44:59,868 - INFO - Found 3 injuries for Harrison Heath
+2025-12-22 12:45:03,387 - INFO - Found 9 injuries for Adrian Winter
+2025-12-22 12:45:06,906 - INFO - Found 8 injuries for Brek Shea
+2025-12-22 12:45:10,426 - INFO - Found 12 injuries for Kaká
+2025-12-22 12:45:13,880 - INFO - Found 13 injuries for Júlio Baptista
+2025-12-22 12:45:17,384 - INFO - Found 3 injuries for Matías Pérez García
+2025-12-22 12:45:20,838 - INFO - Found 6 injuries for Kevin Molino
+2025-12-22 12:45:24,452 - INFO - Found 1 injuries for Carlos Rivas
+2025-12-22 12:45:27,898 - INFO - Found 9 injuries for Cyle Larin
+2025-12-22 12:45:31,321 - INFO - Found 1 injuries for Hadji Barry
+2025-12-22 12:45:34,326 - INFO - Processing team: Portland Timbers
+2025-12-22 12:45:38,898 - INFO - Found 30 players
+2025-12-22 12:45:42,544 - INFO - Found 4 injuries for Adam Kwarasey
+2025-12-22 12:45:46,180 - INFO - Found 4 injuries for Jake Gleeson
+2025-12-22 12:45:56,380 - INFO - Found 3 injuries for Kendall McIntosh
+2025-12-22 12:45:59,957 - INFO - Found 9 injuries for Liam Ridgewell
+2025-12-22 12:46:03,519 - INFO - Found 9 injuries for Steven Taylor
+2025-12-22 12:46:07,221 - INFO - Found 1 injuries for Nat Borchers
+2025-12-22 12:46:10,799 - INFO - Found 2 injuries for Jermaine Taylor
+2025-12-22 12:46:14,323 - INFO - Found 1 injuries for Amobi Okugo
+2025-12-22 12:46:17,969 - INFO - Found 7 injuries for Gbenga Arokoyo
+2025-12-22 12:46:21,321 - INFO - Found 1 injuries for Taylor Peay
+2025-12-22 12:46:24,834 - INFO - Found 9 injuries for Vytautas Andriuskevicius
+2025-12-22 12:46:28,275 - INFO - Found 2 injuries for Chris Klute
+2025-12-22 12:46:31,817 - INFO - Found 2 injuries for Zarek Valentin
+2025-12-22 12:46:35,325 - INFO - Found 10 injuries for Alvas Powell
+2025-12-22 12:46:42,123 - INFO - Found 4 injuries for Ben Zemanski
+2025-12-22 12:46:45,486 - INFO - Found 7 injuries for Diego Chará
+2025-12-22 12:46:48,865 - INFO - Found 9 injuries for Darlington Nagbe
+2025-12-22 12:46:52,428 - INFO - Found 2 injuries for Ned Grabavoy
+2025-12-22 12:46:55,929 - INFO - Found 1 injuries for Jack Barmby
+2025-12-22 12:46:59,403 - INFO - Found 4 injuries for Diego Váleri
+2025-12-22 12:47:03,184 - INFO - Found 7 injuries for Dairon Asprilla
+2025-12-22 12:47:06,717 - INFO - Found 1 injuries for Lucas Melano
+2025-12-22 12:47:10,231 - INFO - Found 4 injuries for Fanendo Adi
+2025-12-22 12:47:13,744 - INFO - Found 3 injuries for Darren Mattocks
+2025-12-22 12:47:17,125 - INFO - Found 1 injuries for Jack McInerney
+2025-12-22 12:47:20,748 - INFO - Found 1 injuries for Neco Brett
+2025-12-22 12:47:27,153 - INFO - Processing team: Montreal Impact
+2025-12-22 12:47:31,217 - INFO - Found 31 players
+2025-12-22 12:47:34,675 - INFO - Found 1 injuries for Eric Kronberg
+2025-12-22 12:47:38,048 - INFO - Found 2 injuries for Evan Bush
+2025-12-22 12:47:41,538 - INFO - Found 6 injuries for Maxime Crépeau
+2025-12-22 12:47:48,539 - INFO - Found 4 injuries for Laurent Ciman
+2025-12-22 12:47:51,910 - INFO - Found 1 injuries for Wandrille Lefèvre
+2025-12-22 12:47:55,358 - INFO - Found 1 injuries for Kyle Fisher
+2025-12-22 12:47:58,889 - INFO - Found 15 injuries for Víctor Cabrera
+2025-12-22 12:48:02,328 - INFO - Found 2 injuries for Donny Toia
+2025-12-22 12:48:05,856 - INFO - Found 2 injuries for Ambroise Oyongo
+2025-12-22 12:48:16,494 - INFO - Found 2 injuries for Hassoun Camara
+2025-12-22 12:48:23,398 - INFO - Found 6 injuries for Marco Donadel
+2025-12-22 12:48:26,870 - INFO - Found 6 injuries for Patrice Bernier
+2025-12-22 12:48:30,304 - INFO - Found 3 injuries for Calum Mallace
+2025-12-22 12:48:33,857 - INFO - Found 2 injuries for Eric Alexander
+2025-12-22 12:48:44,082 - INFO - Found 5 injuries for Ignacio Piatti
+2025-12-22 12:48:47,493 - INFO - Found 3 injuries for Harry Shipp
+2025-12-22 12:48:50,908 - INFO - Found 1 injuries for David Choinière
+2025-12-22 12:48:54,317 - INFO - Found 1 injuries for Lucas Ontivero
+2025-12-22 12:48:57,726 - INFO - Found 1 injuries for Dominic Oduro
+2025-12-22 12:49:01,358 - INFO - Found 10 injuries for Johan Venegas
+2025-12-22 12:49:05,059 - INFO - Found 15 injuries for Didier Drogba
+2025-12-22 12:49:08,696 - INFO - Found 4 injuries for Matteo Mancosu
+2025-12-22 12:49:12,404 - INFO - Found 1 injuries for Michael Salazar
+2025-12-22 12:49:15,777 - INFO - Found 1 injuries for Anthony Jackson-Hamel
+2025-12-22 12:49:19,185 - INFO - Found 2 injuries for Cameron Porter
+2025-12-22 12:49:22,191 - INFO - Processing team: Colorado Rapids
+2025-12-22 12:49:26,211 - INFO - Found 29 players
+2025-12-22 12:49:29,769 - INFO - Found 4 injuries for Tim Howard
+2025-12-22 12:49:33,148 - INFO - Found 3 injuries for Zac MacMath
+2025-12-22 12:49:36,678 - INFO - Found 3 injuries for John Berner
+2025-12-22 12:49:40,069 - INFO - Found 2 injuries for Trey Mitchell
+2025-12-22 12:49:46,792 - INFO - Found 3 injuries for Bobby Burling
+2025-12-22 12:49:53,740 - INFO - Found 5 injuries for Axel Sjöberg
+2025-12-22 12:49:57,182 - INFO - Found 5 injuries for Jared Watts
+2025-12-22 12:50:00,596 - INFO - Found 3 injuries for Joe Greenspan
+2025-12-22 12:50:04,130 - INFO - Found 4 injuries for Marc Burch
+2025-12-22 12:50:07,662 - INFO - Found 5 injuries for Dillon Serna
+2025-12-22 12:50:11,048 - INFO - Found 9 injuries for Eric Miller
+2025-12-22 12:50:17,925 - INFO - Found 14 injuries for Jermaine Jones
+2025-12-22 12:50:21,317 - INFO - Found 2 injuries for Dillon Powers
+2025-12-22 12:50:28,642 - INFO - Found 3 injuries for Sam Cronin
+2025-12-22 12:50:32,101 - INFO - Found 1 injuries for Conor Doyle
+2025-12-22 12:50:38,899 - INFO - Found 1 injuries for Zach Pfeffer
+2025-12-22 12:50:42,863 - INFO - Found 15 injuries for Shkëlzen Gashi
+2025-12-22 12:50:46,247 - INFO - Found 3 injuries for Marco Pappa
+2025-12-22 12:50:49,756 - INFO - Found 9 injuries for Marlon Hairston
+2025-12-22 12:50:53,253 - INFO - Found 4 injuries for Kevin Doyle
+2025-12-22 12:50:56,808 - INFO - Found 3 injuries for Sébastien Le Toux
+2025-12-22 12:51:00,274 - INFO - Found 5 injuries for Luis Solignac
+2025-12-22 12:51:03,773 - INFO - Found 1 injuries for Caleb Calvert
+2025-12-22 12:51:07,145 - INFO - Found 7 injuries for Dominique Badji
+2025-12-22 12:51:10,150 - INFO - Processing team: FC Dallas
+2025-12-22 12:51:14,406 - INFO - Found 30 players
+2025-12-22 12:51:18,140 - INFO - Found 1 injuries for Chris Seitz
+2025-12-22 12:51:21,898 - INFO - Found 3 injuries for Jesse González
+2025-12-22 12:51:28,700 - INFO - Found 2 injuries for Zach Loyd
+2025-12-22 12:51:32,325 - INFO - Found 2 injuries for Atiba Harris
+2025-12-22 12:51:35,755 - INFO - Found 1 injuries for Norberto Paparatto
+2025-12-22 12:51:39,131 - INFO - Found 1 injuries for Aubrey David
+2025-12-22 12:51:42,592 - INFO - Found 8 injuries for Walker Zimmerman
+2025-12-22 12:51:46,296 - INFO - Found 7 injuries for Matt Hedges
+2025-12-22 12:51:53,262 - INFO - Found 4 injuries for Maynor Figueroa
+2025-12-22 12:51:56,737 - INFO - Found 2 injuries for Moisés Hernández
+2025-12-22 12:52:00,148 - INFO - Found 3 injuries for Ryan Hollingshead
+2025-12-22 12:52:03,575 - INFO - Found 1 injuries for Agustín Jara
+2025-12-22 12:52:07,032 - INFO - Found 11 injuries for Carlos Gruezo
+2025-12-22 12:52:13,872 - INFO - Found 3 injuries for Víctor Ulloa
+2025-12-22 12:52:17,602 - INFO - Found 5 injuries for Kellyn Acosta
+2025-12-22 12:52:21,142 - INFO - Found 4 injuries for Mauro Rosales
+2025-12-22 12:52:24,566 - INFO - Found 4 injuries for Mauro Díaz
+2025-12-22 12:52:31,607 - INFO - Found 10 injuries for Fabián Castillo
+2025-12-22 12:52:38,598 - INFO - Found 2 injuries for Michael Barrios
+2025-12-22 12:52:42,559 - INFO - Found 2 injuries for Coy Craft
+2025-12-22 12:52:45,974 - INFO - Found 2 injuries for Maximiliano Urruti
+2025-12-22 12:52:49,455 - INFO - Found 2 injuries for Carlos Ruiz
+2025-12-22 12:52:52,864 - INFO - Found 1 injuries for Tesho Akindele
+2025-12-22 12:52:59,732 - INFO - Found 1 injuries for Getterson Alves
+2025-12-22 12:53:02,738 - INFO - Processing team: Vancouver Whitecaps FC
+2025-12-22 12:53:07,015 - INFO - Found 40 players
+2025-12-22 12:53:10,485 - INFO - Found 3 injuries for David Ousted
+2025-12-22 12:53:20,917 - INFO - Found 1 injuries for David Edgar
+2025-12-22 12:53:24,609 - INFO - Found 6 injuries for Diego Rodríguez
+2025-12-22 12:53:28,187 - INFO - Found 11 injuries for Kendall Waston
+2025-12-22 12:53:31,953 - INFO - Found 1 injuries for Pa-Modou Kah
+2025-12-22 12:53:35,460 - INFO - Found 4 injuries for Christian Dean
+2025-12-22 12:53:38,815 - INFO - Found 2 injuries for Tim Parker
+2025-12-22 12:53:42,177 - INFO - Found 1 injuries for Cole Seiler
+2025-12-22 12:53:45,724 - INFO - Found 7 injuries for Marcel de Jong
+2025-12-22 12:53:49,305 - INFO - Found 1 injuries for Jordan Harvey
+2025-12-22 12:53:52,805 - INFO - Found 10 injuries for Sam Adekugbe
+2025-12-22 12:53:56,268 - INFO - Found 3 injuries for Brett Levis
+2025-12-22 12:53:59,747 - INFO - Found 15 injuries for Alphonso Davies
+2025-12-22 12:54:03,537 - INFO - Found 4 injuries for Jordan Smith
+2025-12-22 12:54:10,523 - INFO - Found 2 injuries for Matías Laba
+2025-12-22 12:54:17,473 - INFO - Found 7 injuries for Russell Teibert
+2025-12-22 12:54:24,480 - INFO - Found 2 injuries for Gershon Koffie
+2025-12-22 12:54:27,877 - INFO - Found 1 injuries for Ben McKendry
+2025-12-22 12:54:31,636 - INFO - Found 4 injuries for Mauro Rosales
+2025-12-22 12:54:35,146 - INFO - Found 1 injuries for Fraser Aird
+2025-12-22 12:54:39,041 - INFO - Found 7 injuries for Pedro Morales
+2025-12-22 12:54:42,623 - INFO - Found 2 injuries for Nicolás Mezquida
+2025-12-22 12:54:46,051 - INFO - Found 9 injuries for Kianz Froese
+2025-12-22 12:54:49,617 - INFO - Found 5 injuries for Kekuta Manneh
+2025-12-22 12:54:53,098 - INFO - Found 11 injuries for Christian Bolaños
+2025-12-22 12:54:56,432 - INFO - Found 3 injuries for Cristian Techera
+2025-12-22 12:54:59,928 - INFO - Found 2 injuries for Marco Bustos
+2025-12-22 12:55:03,400 - INFO - Found 5 injuries for Masato Kudo
+2025-12-22 12:55:06,925 - INFO - Found 2 injuries for Blas Pérez
+2025-12-22 12:55:14,863 - INFO - Found 6 injuries for Giles Barnes
+2025-12-22 12:55:18,312 - INFO - Found 8 injuries for Octavio Rivero
+2025-12-22 12:55:21,690 - INFO - Found 3 injuries for Darren Mattocks
+2025-12-22 12:55:28,628 - INFO - Found 4 injuries for Erik Hurtado
+2025-12-22 12:55:31,633 - INFO - Processing team: New York Red Bulls
+2025-12-22 12:55:35,632 - INFO - Found 31 players
+2025-12-22 12:55:39,106 - INFO - Found 5 injuries for Luis Robles
+2025-12-22 12:55:42,558 - INFO - Found 4 injuries for Ryan Meara
+2025-12-22 12:55:49,445 - INFO - Found 7 injuries for Ronald Zubar
+2025-12-22 12:55:53,057 - INFO - Found 9 injuries for Aurélien Collin
+2025-12-22 12:55:56,745 - INFO - Found 3 injuries for Gideon Baah
+2025-12-22 12:56:00,064 - INFO - Found 3 injuries for Damien Perrinelle
+2025-12-22 12:56:07,275 - INFO - Found 6 injuries for Aaron Long
+2025-12-22 12:56:14,155 - INFO - Found 7 injuries for Kemar Lawrence
+2025-12-22 12:56:17,584 - INFO - Found 1 injuries for Justin Bilyeu
+2025-12-22 12:56:21,037 - INFO - Found 8 injuries for Sal Zizzo
+2025-12-22 12:56:24,452 - INFO - Found 3 injuries for Connor Lade
+2025-12-22 12:56:28,131 - INFO - Found 2 injuries for Chris Duvall
+2025-12-22 12:56:31,565 - INFO - Found 15 injuries for Tyler Adams
+2025-12-22 12:56:35,055 - INFO - Found 4 injuries for Dax McCarty
+2025-12-22 12:56:38,422 - INFO - Found 3 injuries for Felipe Martins
+2025-12-22 12:56:41,878 - INFO - Found 2 injuries for Sean Davis
+2025-12-22 12:56:45,331 - INFO - Found 4 injuries for Mike Grella
+2025-12-22 12:56:48,770 - INFO - Found 1 injuries for Sacha Kljestan
+2025-12-22 12:56:52,250 - INFO - Found 6 injuries for Daniel Royer
+2025-12-22 12:56:55,704 - INFO - Found 5 injuries for Gonzalo Verón
+2025-12-22 12:56:59,353 - INFO - Found 5 injuries for Derrick Etienne Jr.
+2025-12-22 12:57:02,984 - INFO - Found 4 injuries for Shaun Wright-Phillips
+2025-12-22 12:57:06,587 - INFO - Found 4 injuries for Lloyd Sam
+2025-12-22 12:57:10,110 - INFO - Found 3 injuries for Alex Muyl
+2025-12-22 12:57:13,638 - INFO - Found 8 injuries for Omer Damari
+2025-12-22 12:57:17,138 - INFO - Found 3 injuries for Bradley Wright-Phillips
+2025-12-22 12:57:26,961 - INFO - Processing team: Columbus Crew SC
+2025-12-22 12:57:31,413 - INFO - Found 30 players
+2025-12-22 12:57:34,851 - INFO - Found 3 injuries for Steve Clark
+2025-12-22 12:57:38,581 - INFO - Found 12 injuries for Zack Steffen
+2025-12-22 12:57:42,089 - INFO - Found 3 injuries for Brad Stuver
+2025-12-22 12:57:45,578 - INFO - Found 3 injuries for Michael Parkhurst
+2025-12-22 12:57:49,144 - INFO - Found 10 injuries for Gastón Sauro
+2025-12-22 12:57:52,603 - INFO - Found 2 injuries for Tyson Wahl
+2025-12-22 12:57:56,048 - INFO - Found 1 injuries for Nicolai Næss
+2025-12-22 12:58:00,066 - INFO - Found 8 injuries for Amro Tarek
+2025-12-22 12:58:03,717 - INFO - Found 1 injuries for Chad Barson
+2025-12-22 12:58:07,329 - INFO - Found 7 injuries for Waylon Francis
+2025-12-22 12:58:10,686 - INFO - Found 3 injuries for Corey Ashe
+2025-12-22 12:58:14,425 - INFO - Found 5 injuries for Harrison Afful
+2025-12-22 12:58:17,824 - INFO - Found 3 injuries for Héctor Jiménez
+2025-12-22 12:58:21,352 - INFO - Found 6 injuries for Wil Trapp
+2025-12-22 12:58:24,887 - INFO - Found 2 injuries for Ben Swanson
+2025-12-22 12:58:28,501 - INFO - Found 5 injuries for Rodrigo Saravia
+2025-12-22 12:58:31,916 - INFO - Found 1 injuries for Cristian Martínez
+2025-12-22 12:58:35,314 - INFO - Found 2 injuries for Mohammed Saeid
+2025-12-22 12:58:38,744 - INFO - Found 1 injuries for Tony Tchani
+2025-12-22 12:58:42,282 - INFO - Found 3 injuries for Dilly Duka
+2025-12-22 12:58:49,243 - INFO - Found 8 injuries for Federico Higuaín
+2025-12-22 12:58:52,875 - INFO - Found 2 injuries for Emil Larsen
+2025-12-22 12:58:56,471 - INFO - Found 2 injuries for Cedrick
+2025-12-22 12:59:03,526 - INFO - Found 4 injuries for Ethan Finlay
+2025-12-22 12:59:06,908 - INFO - Found 2 injuries for Kei Kamara
+2025-12-22 12:59:10,711 - INFO - Found 9 injuries for Ola Kamara
+2025-12-22 12:59:14,075 - INFO - Found 4 injuries for Conor Casey
+2025-12-22 12:59:17,495 - INFO - Found 2 injuries for Adam Jahn
+2025-12-22 12:59:20,500 - INFO - Processing team: San Jose Earthquakes
+2025-12-22 12:59:24,842 - INFO - Found 28 players
+2025-12-22 12:59:28,210 - INFO - Found 1 injuries for David Bingham
+2025-12-22 12:59:32,076 - INFO - Found 1 injuries for Bryan Meredith
+2025-12-22 12:59:35,453 - INFO - Found 1 injuries for Andrew Tarbell
+2025-12-22 12:59:38,786 - INFO - Found 2 injuries for Víctor Bernárdez
+2025-12-22 12:59:42,234 - INFO - Found 3 injuries for Andrés Imperiale
+2025-12-22 12:59:45,818 - INFO - Found 4 injuries for Clarence Goodson
+2025-12-22 12:59:49,213 - INFO - Found 1 injuries for Matheus Silva
+2025-12-22 12:59:52,720 - INFO - Found 2 injuries for Jordan Stewart
+2025-12-22 12:59:56,134 - INFO - Found 2 injuries for Shaun Francis
+2025-12-22 12:59:59,532 - INFO - Found 1 injuries for Kip Colvey
+2025-12-22 13:00:03,014 - INFO - Found 3 injuries for Marvell Wynne
+2025-12-22 13:00:06,832 - INFO - Found 2 injuries for Kofi Sarkodie
+2025-12-22 13:00:11,009 - INFO - Found 2 injuries for Tommy Thompson
+2025-12-22 13:00:14,390 - INFO - Found 6 injuries for Aníbal Godoy
+2025-12-22 13:00:17,976 - INFO - Found 2 injuries for Darwin Cerén
+2025-12-22 13:00:21,483 - INFO - Found 3 injuries for Fatai Alashe
+2025-12-22 13:00:24,934 - INFO - Found 1 injuries for Cordell Cato
+2025-12-22 13:00:28,345 - INFO - Found 3 injuries for Matías Pérez García
+2025-12-22 13:00:32,134 - INFO - Found 4 injuries for Simon Dawkins
+2025-12-22 13:00:35,624 - INFO - Found 6 injuries for Shea Salinas
+2025-12-22 13:00:39,178 - INFO - Found 7 injuries for Alberto Quintero
+2025-12-22 13:00:42,643 - INFO - Found 3 injuries for Innocent Emeghara
+2025-12-22 13:00:49,610 - INFO - Found 3 injuries for Henok Goitom
+2025-12-22 13:00:53,023 - INFO - Found 4 injuries for Quincy Amarikwa
+2025-12-22 13:00:57,006 - INFO - Found 4 injuries for Chad Barrett
+2025-12-22 13:01:00,428 - INFO - Found 2 injuries for Adam Jahn
+2025-12-22 13:01:03,782 - INFO - Found 1 injuries for Mark Sherrod
+2025-12-22 13:01:06,787 - INFO - Processing team: Chicago Fire
+2025-12-22 13:01:11,127 - INFO - Found 28 players
+2025-12-22 13:01:14,689 - INFO - Found 6 injuries for Sean Johnson
+2025-12-22 13:01:17,978 - INFO - Found 4 injuries for Matt Lampson
+2025-12-22 13:01:21,744 - INFO - Found 4 injuries for Patrick McLain
+2025-12-22 13:01:25,261 - INFO - Found 3 injuries for Johan Kappelhof
+2025-12-22 13:01:28,869 - INFO - Found 3 injuries for João Meira
+2025-12-22 13:01:32,739 - INFO - Found 2 injuries for Jonathan Campbell
+2025-12-22 13:01:36,188 - INFO - Found 1 injuries for Michael Harrington
+2025-12-22 13:01:39,773 - INFO - Found 1 injuries for Patrick Doody
+2025-12-22 13:01:43,148 - INFO - Found 1 injuries for Brandon Vincent
+2025-12-22 13:01:46,713 - INFO - Found 3 injuries for Eric Gehrig
+2025-12-22 13:01:54,426 - INFO - Found 10 injuries for John Goossens
+2025-12-22 13:01:57,856 - INFO - Found 3 injuries for Khaly Thiam
+2025-12-22 13:02:01,248 - INFO - Found 14 injuries for Matt Polster
+2025-12-22 13:02:04,674 - INFO - Found 3 injuries for Drew Conner
+2025-12-22 13:02:08,131 - INFO - Found 2 injuries for Răzvan Cociș
+2025-12-22 13:02:15,005 - INFO - Found 3 injuries for Nick LaBrocca
+2025-12-22 13:02:18,411 - INFO - Found 1 injuries for Collin Fernandez
+2025-12-22 13:02:21,903 - INFO - Found 2 injuries for Arturo Álvarez
+2025-12-22 13:02:25,335 - INFO - Found 2 injuries for Joey Calistri
+2025-12-22 13:02:28,760 - INFO - Found 3 injuries for David Accam
+2025-12-22 13:02:32,410 - INFO - Found 12 injuries for Michael de Leeuw
+2025-12-22 13:02:39,269 - INFO - Found 8 injuries for Gilberto
+2025-12-22 13:02:42,913 - INFO - Found 5 injuries for Luis Solignac
+2025-12-22 13:02:46,410 - INFO - Found 2 injuries for David Arshakyan
+2025-12-22 13:02:50,321 - INFO - Found 1 injuries for Alex Morrell
+2025-12-22 13:02:53,324 - INFO - Processing team: Sporting Kansas City
+2025-12-22 13:02:57,735 - INFO - Found 30 players
+2025-12-22 13:03:01,176 - INFO - Found 6 injuries for Tim Melia
+2025-12-22 13:03:08,245 - INFO - Found 6 injuries for Alec Kann
+2025-12-22 13:03:11,910 - INFO - Found 11 injuries for Nuno André Coelho
+2025-12-22 13:03:15,399 - INFO - Found 9 injuries for Matt Besler
+2025-12-22 13:03:18,839 - INFO - Found 6 injuries for Ike Opara
+2025-12-22 13:03:22,477 - INFO - Found 1 injuries for Lawrence Olum
+2025-12-22 13:03:25,860 - INFO - Found 3 injuries for Kevin Ellis
+2025-12-22 13:03:29,479 - INFO - Found 5 injuries for Éver Alvarado
+2025-12-22 13:03:32,975 - INFO - Found 5 injuries for Seth Sinovic
+2025-12-22 13:03:36,404 - INFO - Found 5 injuries for Jimmy Medranda
