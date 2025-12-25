@@ -189,15 +189,130 @@ class TransfermarktScraper:
         logger.info(f"Found {len(players)} players")
         return players
 
+    def get_player_transfer_history(self, player_url: str) -> List[Dict]:
+        """
+        Get transfer history for a player to determine team at time of injury
+
+        Args:
+            player_url: URL of the player page
+
+        Returns:
+            List of transfer dictionaries with date and team info
+        """
+        # Convert player profile URL to transfer history URL
+        transfer_url = player_url.replace('/profil/', '/transfers/')
+        soup = self._get_page(transfer_url)
+
+        if not soup:
+            return []
+
+        transfers = []
+
+        # Find the transfer history table
+        transfer_table = soup.find('table', {'class': 'items'})
+        if transfer_table:
+            for row in transfer_table.find_all('tr', {'class': ['odd', 'even']}):
+                cells = row.find_all('td')
+                if len(cells) >= 4:
+                    try:
+                        # Extract date, left club, joined club
+                        date_cell = cells[0]
+                        left_club_cell = cells[1]
+                        joined_club_cell = cells[2]
+
+                        # Get date
+                        date_text = date_cell.get_text(strip=True)
+
+                        # Get club names from image titles or links
+                        left_club = None
+                        joined_club = None
+
+                        # Try to get left club
+                        left_img = left_club_cell.find('img', {'class': 'tiny_wappen'})
+                        if left_img and 'title' in left_img.attrs:
+                            left_club = left_img['title']
+                        else:
+                            left_link = left_club_cell.find('a')
+                            if left_link:
+                                left_club = left_link.get_text(strip=True)
+
+                        # Try to get joined club
+                        joined_img = joined_club_cell.find('img', {'class': 'tiny_wappen'})
+                        if joined_img and 'title' in joined_img.attrs:
+                            joined_club = joined_img['title']
+                        else:
+                            joined_link = joined_club_cell.find('a')
+                            if joined_link:
+                                joined_club = joined_link.get_text(strip=True)
+
+                        if date_text and joined_club:
+                            transfers.append({
+                                'date': date_text,
+                                'from_team': left_club,
+                                'to_team': joined_club
+                            })
+
+                    except Exception as e:
+                        logger.debug(f"Error parsing transfer row: {e}")
+                        continue
+
+        logger.debug(f"Found {len(transfers)} transfers")
+        return transfers
+
+    def match_injury_to_team(self, injury_season: str, transfers: List[Dict]) -> str:
+        """
+        Match an injury season to the correct team based on transfer history
+
+        Args:
+            injury_season: Season string like "15/16"
+            transfers: List of transfer records
+
+        Returns:
+            Team name at time of injury, or None if can't determine
+        """
+        # Parse season to get year
+        try:
+            if '/' in injury_season:
+                year = injury_season.split('/')[0]
+                if len(year) == 2:
+                    injury_year = int('20' + year) if int(year) < 50 else int('19' + year)
+                else:
+                    injury_year = int(year)
+            else:
+                return None
+
+            # Find the team during that season
+            # Transfers are typically listed with dates like "Jul 1, 2016"
+            current_team = None
+
+            for transfer in transfers:
+                # Parse transfer date
+                date_str = transfer['date']
+                try:
+                    # Try to extract year from various date formats
+                    year_match = re.search(r'(19|20)\d{2}', date_str)
+                    if year_match:
+                        transfer_year = int(year_match.group(0))
+                        if transfer_year <= injury_year:
+                            current_team = transfer['to_team']
+                except:
+                    continue
+
+            return current_team
+
+        except Exception as e:
+            logger.debug(f"Error matching injury to team: {e}")
+            return None
+
     def get_player_injuries(self, player_url: str, player_name: str, position: str, team: str) -> List[Dict]:
         """
-        Get injury history for a specific player
+        Get injury history for a specific player with correct team attributions
 
         Args:
             player_url: URL of the player page
             player_name: Name of the player
             position: Player position
-            team: Player team
+            team: Player's current team (fallback if team not found in injury table)
 
         Returns:
             List of injury dictionaries
@@ -222,20 +337,38 @@ class TransfermarktScraper:
                         date_from = cells[2].text.strip()
                         date_until = cells[3].text.strip()
                         days_out = cells[4].text.strip()
-                        games_missed = cells[5].text.strip() if len(cells) > 5 else "N/A"
+                        games_missed_cell = cells[5] if len(cells) > 5 else None
 
                         # Extract numeric days
                         days_match = re.search(r'(\d+)', days_out)
                         days_numeric = int(days_match.group(1)) if days_match else None
 
-                        # Extract numeric games
-                        games_match = re.search(r'(\d+)', games_missed)
-                        games_numeric = int(games_match.group(1)) if games_match else None
+                        # Extract numeric games and team from games_missed cell
+                        games_numeric = None
+                        injury_team = team  # Default to current team
+
+                        if games_missed_cell:
+                            # Get games missed number
+                            games_text = games_missed_cell.text.strip()
+                            games_match = re.search(r'(\d+)', games_text)
+                            games_numeric = int(games_match.group(1)) if games_match else None
+
+                            # Extract team from image in the games_missed cell
+                            team_img = games_missed_cell.find('img')
+                            if team_img and 'title' in team_img.attrs:
+                                injury_team = team_img['title']
+                                logger.debug(f"Found team from injury table: {injury_team}")
+                            else:
+                                # Try to find team link
+                                team_link = games_missed_cell.find('a', href=re.compile(r'/verein/'))
+                                if team_link:
+                                    injury_team = team_link.get('title', team_link.text.strip())
+                                    logger.debug(f"Found team from link: {injury_team}")
 
                         injuries.append({
                             'player_name': player_name,
                             'position': position,
-                            'team': team,
+                            'team': injury_team,
                             'season': season,
                             'injury_type': injury_type,
                             'injury_date': date_from,

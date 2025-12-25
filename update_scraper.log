@@ -1,0 +1,2913 @@
+======================================================================
+MLS Injury Data - 2025 Season Update
+======================================================================
+
+Updating data for seasons: 2024, 2025
+This will add any new injuries since the last scrape
+Rate limit: 3 seconds between requests
+
+Seasons:   0%|          | 0/2 [00:00<?, ?it/s]2025-12-24 11:11:18,314 - INFO - Processing season 2024
+2025-12-24 11:11:22,781 - INFO - Found 30 MLS teams for 2024
+
+Teams (2024):   0%|          | 0/30 [00:00<?, ?it/s][A2025-12-24 11:11:22,782 - INFO - Processing team: Inter Miami CF
+2025-12-24 11:11:26,493 - INFO - Found 25 players
+
+
+Inter Miami CF:   0%|          | 0/25 [00:00<?, ?it/s][A[A
+
+Inter Miami CF:   4%|▍         | 1/25 [00:03<01:23,  3.49s/it][A[A2025-12-24 11:11:33,377 - INFO - Found 8 injuries for Óscar Ustari
+
+
+Inter Miami CF:   8%|▊         | 2/25 [00:06<01:19,  3.44s/it][A[A
+
+Inter Miami CF:  12%|█▏        | 3/25 [00:10<01:14,  3.39s/it][A[A
+
+Inter Miami CF:  16%|█▌        | 4/25 [00:13<01:10,  3.36s/it][A[A2025-12-24 11:11:43,477 - INFO - Found 3 injuries for Gonzalo Luján
+
+
+Inter Miami CF:  20%|██        | 5/25 [00:16<01:07,  3.39s/it][A[A2025-12-24 11:11:46,875 - INFO - Found 8 injuries for Maximiliano Falcón
+
+
+Inter Miami CF:  24%|██▍       | 6/25 [00:20<01:04,  3.39s/it][A[A2025-12-24 11:11:50,305 - INFO - Found 4 injuries for Ian Fray
+
+
+Inter Miami CF:  28%|██▊       | 7/25 [00:23<01:01,  3.41s/it][A[A
+
+Inter Miami CF:  32%|███▏      | 8/25 [00:27<00:57,  3.39s/it][A[A2025-12-24 11:11:57,138 - INFO - Found 2 injuries for Noah Allen
+
+
+Inter Miami CF:  36%|███▌      | 9/25 [00:30<00:54,  3.42s/it][A[A2025-12-24 11:12:00,661 - INFO - Found 15 injuries for Jordi Alba
+
+
+Inter Miami CF:  40%|████      | 10/25 [00:34<00:51,  3.45s/it][A[A2025-12-24 11:12:04,114 - INFO - Found 6 injuries for Marcelo Weigandt
+
+
+Inter Miami CF:  44%|████▍     | 11/25 [00:37<00:48,  3.45s/it][A[A
+
+Inter Miami CF:  48%|████▊     | 12/25 [00:41<00:44,  3.46s/it][A[A2025-12-24 11:12:10,997 - INFO - Found 3 injuries for David Ruíz
+
+
+Inter Miami CF:  52%|█████▏    | 13/25 [00:44<00:41,  3.44s/it][A[A2025-12-24 11:12:14,529 - INFO - Found 2 injuries for Yannick Bright
+
+
+Inter Miami CF:  56%|█████▌    | 14/25 [00:48<00:38,  3.47s/it][A[A2025-12-24 11:12:18,191 - INFO - Found 15 injuries for Sergio Busquets
+
+
+Inter Miami CF:  60%|██████    | 15/25 [00:51<00:35,  3.53s/it][A[A2025-12-24 11:12:21,659 - INFO - Found 1 injuries for Rodrigo De Paul
+
+
+Inter Miami CF:  64%|██████▍   | 16/25 [00:55<00:31,  3.51s/it][A[A
+
+Inter Miami CF:  68%|██████▊   | 17/25 [00:58<00:28,  3.57s/it][A[A
+
+Inter Miami CF:  72%|███████▏  | 18/25 [01:02<00:24,  3.50s/it][A[A2025-12-24 11:12:32,180 - INFO - Found 5 injuries for Baltasar Rodríguez
+
+
+Inter Miami CF:  76%|███████▌  | 19/25 [01:05<00:20,  3.49s/it][A[A2025-12-24 11:12:35,636 - INFO - Found 1 injuries for Mateo Silvetti
+
+
+Inter Miami CF:  80%|████████  | 20/25 [01:09<00:17,  3.48s/it][A[A2025-12-24 11:12:39,102 - INFO - Found 6 injuries for Fafà Picault
+
+
+Inter Miami CF:  84%|████████▍ | 21/25 [01:12<00:13,  3.48s/it][A[A2025-12-24 11:12:42,926 - INFO - Found 15 injuries for Lionel Messi
+
+
+Inter Miami CF:  88%|████████▊ | 22/25 [01:16<00:10,  3.58s/it][A[A2025-12-24 11:12:46,261 - INFO - Found 2 injuries for Tadeo Allende
+
+
+Inter Miami CF:  92%|█████████▏| 23/25 [01:19<00:07,  3.51s/it][A[A2025-12-24 11:12:49,717 - INFO - Found 15 injuries for Luis Suárez
+
+
+Inter Miami CF:  96%|█████████▌| 24/25 [01:23<00:03,  3.49s/it][A[A2025-12-24 11:12:53,094 - INFO - Found 2 injuries for Allen Obando
+
+
+Inter Miami CF: 100%|██████████| 25/25 [01:26<00:00,  3.46s/it][A[A
+
+                                                               [A[A
+Teams (2024):   3%|▎         | 1/30 [01:33<45:06, 93.32s/it][A2025-12-24 11:12:56,101 - INFO - Processing team: FC Cincinnati
+2025-12-24 11:13:00,155 - INFO - Found 29 players
+
+
+FC Cincinnati:   0%|          | 0/29 [00:00<?, ?it/s][A[A2025-12-24 11:13:03,520 - INFO - Found 2 injuries for Roman Celentano
+
+
+FC Cincinnati:   3%|▎         | 1/29 [00:03<01:34,  3.37s/it][A[A2025-12-24 11:13:07,258 - INFO - Found 1 injuries for Evan Louro
+
+
+FC Cincinnati:   7%|▋         | 2/29 [00:07<01:36,  3.58s/it][A[A2025-12-24 11:13:10,811 - INFO - Found 6 injuries for Alec Kann
+
+
+FC Cincinnati:  10%|█         | 3/29 [00:10<01:32,  3.57s/it][A[A
+
+FC Cincinnati:  14%|█▍        | 4/29 [00:14<01:27,  3.48s/it][A[A2025-12-24 11:13:17,690 - INFO - Found 5 injuries for Miles Robinson
+
+
+FC Cincinnati:  17%|█▋        | 5/29 [00:17<01:24,  3.50s/it][A[A2025-12-24 11:13:21,120 - INFO - Found 7 injuries for Matt Miazga
+
+
+FC Cincinnati:  21%|██        | 6/29 [00:20<01:19,  3.48s/it][A[A
+
+FC Cincinnati:  24%|██▍       | 7/29 [00:24<01:15,  3.45s/it][A[A2025-12-24 11:13:27,785 - INFO - Found 7 injuries for Teenage Hadebe
+
+
+FC Cincinnati:  28%|██▊       | 8/29 [00:27<01:11,  3.39s/it][A[A2025-12-24 11:13:31,105 - INFO - Found 11 injuries for Nick Hagglund
+
+
+FC Cincinnati:  31%|███       | 9/29 [00:30<01:07,  3.37s/it][A[A2025-12-24 11:13:34,500 - INFO - Found 2 injuries for Lukas Engel
+
+
+FC Cincinnati:  34%|███▍      | 10/29 [00:34<01:04,  3.38s/it][A[A2025-12-24 11:13:37,903 - INFO - Found 7 injuries for Brad Smith
+
+
+FC Cincinnati:  38%|███▊      | 11/29 [00:37<01:00,  3.39s/it][A[A2025-12-24 11:13:41,314 - INFO - Found 10 injuries for Alvas Powell
+
+
+FC Cincinnati:  41%|████▏     | 12/29 [00:41<00:57,  3.39s/it][A[A2025-12-24 11:13:44,727 - INFO - Found 7 injuries for Obinna Nwobodo
+
+
+FC Cincinnati:  45%|████▍     | 13/29 [00:44<00:54,  3.40s/it][A[A2025-12-24 11:13:48,183 - INFO - Found 1 injuries for Pavel Bucha
+
+
+FC Cincinnati:  48%|████▊     | 14/29 [00:48<00:51,  3.42s/it][A[A
+
+FC Cincinnati:  52%|█████▏    | 15/29 [00:51<00:47,  3.39s/it][A[A2025-12-24 11:13:54,932 - INFO - Found 1 injuries for Tah Anunga
+
+
+FC Cincinnati:  55%|█████▌    | 16/29 [00:54<00:44,  3.40s/it][A[A
+
+FC Cincinnati:  59%|█████▊    | 17/29 [00:58<00:40,  3.39s/it][A[A2025-12-24 11:14:01,758 - INFO - Found 9 injuries for Evander
+
+
+FC Cincinnati:  62%|██████▏   | 18/29 [01:01<00:37,  3.41s/it][A[A2025-12-24 11:14:05,394 - INFO - Found 12 injuries for Yuya Kubo
+
+
+FC Cincinnati:  66%|██████▌   | 19/29 [01:05<00:34,  3.48s/it][A[A2025-12-24 11:14:08,739 - INFO - Found 1 injuries for Gerardo Valenzuela
+
+
+FC Cincinnati:  69%|██████▉   | 20/29 [01:08<00:30,  3.44s/it][A[A2025-12-24 11:14:12,097 - INFO - Found 5 injuries for Luca Orellano
+
+
+FC Cincinnati:  72%|███████▏  | 21/29 [01:11<00:27,  3.41s/it][A[A2025-12-24 11:14:15,518 - INFO - Found 1 injuries for Dominik Marczuk
+
+
+FC Cincinnati:  76%|███████▌  | 22/29 [01:15<00:23,  3.42s/it][A[A
+
+FC Cincinnati:  79%|███████▉  | 23/29 [01:18<00:20,  3.40s/it][A[A2025-12-24 11:14:22,200 - INFO - Found 1 injuries for Kévin Denkey
+
+
+FC Cincinnati:  83%|████████▎ | 24/29 [01:22<00:16,  3.38s/it][A[A2025-12-24 11:14:25,616 - INFO - Found 3 injuries for Brenner
+
+
+FC Cincinnati:  86%|████████▌ | 25/29 [01:25<00:13,  3.39s/it][A[A2025-12-24 11:14:28,965 - INFO - Found 1 injuries for Ayoub Jabbari
+
+
+FC Cincinnati:  90%|████████▉ | 26/29 [01:28<00:10,  3.38s/it][A[A
+
+FC Cincinnati:  93%|█████████▎| 27/29 [01:32<00:06,  3.38s/it][A[A
+
+FC Cincinnati:  97%|█████████▋| 28/29 [01:35<00:03,  3.45s/it][A[A2025-12-24 11:14:39,582 - INFO - Found 2 injuries for Kei Kamara
+
+
+FC Cincinnati: 100%|██████████| 29/29 [01:39<00:00,  3.50s/it][A[A
+
+                                                              [A[A
+Teams (2024):   7%|▋         | 2/30 [03:19<47:09, 101.07s/it][A2025-12-24 11:14:42,590 - INFO - Processing team: Los Angeles FC
+2025-12-24 11:14:46,405 - INFO - Found 31 players
+
+
+Los Angeles FC:   0%|          | 0/31 [00:00<?, ?it/s][A[A2025-12-24 11:14:49,890 - INFO - Found 14 injuries for Hugo Lloris
+
+
+Los Angeles FC:   3%|▎         | 1/31 [00:03<01:44,  3.49s/it][A[A2025-12-24 11:14:53,323 - INFO - Found 5 injuries for Thomas Hasal
+
+
+Los Angeles FC:   6%|▋         | 2/31 [00:06<01:40,  3.46s/it][A[A2025-12-24 11:14:56,647 - INFO - Found 2 injuries for David Ochoa
+
+
+Los Angeles FC:  10%|▉         | 3/31 [00:10<01:35,  3.40s/it][A[A2025-12-24 11:15:00,192 - INFO - Found 5 injuries for Ryan Porteous
+
+
+Los Angeles FC:  13%|█▎        | 4/31 [00:13<01:33,  3.45s/it][A[A2025-12-24 11:15:03,705 - INFO - Found 1 injuries for Eddie Segura
+
+
+Los Angeles FC:  16%|█▌        | 5/31 [00:17<01:30,  3.48s/it][A[A2025-12-24 11:15:07,135 - INFO - Found 2 injuries for Nkosi Tafari
+
+
+Los Angeles FC:  19%|█▉        | 6/31 [00:20<01:26,  3.46s/it][A[A2025-12-24 11:15:10,495 - INFO - Found 6 injuries for Aaron Long
+
+
+Los Angeles FC:  23%|██▎       | 7/31 [00:24<01:22,  3.43s/it][A[A2025-12-24 11:15:14,239 - INFO - Found 2 injuries for Lorenzo Dellavalle
+
+
+Los Angeles FC:  26%|██▌       | 8/31 [00:27<01:21,  3.53s/it][A[A
+
+Los Angeles FC:  29%|██▉       | 9/31 [00:31<01:16,  3.48s/it][A[A
+
+Los Angeles FC:  32%|███▏      | 10/31 [00:34<01:12,  3.43s/it][A[A2025-12-24 11:15:24,429 - INFO - Found 3 injuries for Ryan Hollingshead
+
+
+Los Angeles FC:  35%|███▌      | 11/31 [00:38<01:08,  3.45s/it][A[A2025-12-24 11:15:27,888 - INFO - Found 7 injuries for Sergi Palencia
+
+
+Los Angeles FC:  39%|███▊      | 12/31 [00:41<01:05,  3.45s/it][A[A2025-12-24 11:15:31,332 - INFO - Found 2 injuries for Igor Jesus
+
+
+Los Angeles FC:  42%|████▏     | 13/31 [00:44<01:02,  3.45s/it][A[A2025-12-24 11:15:34,986 - INFO - Found 3 injuries for Jailson
+
+
+Los Angeles FC:  45%|████▌     | 14/31 [00:48<00:59,  3.51s/it][A[A2025-12-24 11:15:38,627 - INFO - Found 1 injuries for Adam Saldaña
+
+
+Los Angeles FC:  48%|████▊     | 15/31 [00:52<00:56,  3.55s/it][A[A2025-12-24 11:15:42,082 - INFO - Found 8 injuries for Timothy Tillman
+
+
+Los Angeles FC:  52%|█████▏    | 16/31 [00:55<00:52,  3.52s/it][A[A2025-12-24 11:15:45,532 - INFO - Found 2 injuries for Mark Delgado
+
+
+Los Angeles FC:  55%|█████▍    | 17/31 [00:59<00:49,  3.50s/it][A[A2025-12-24 11:15:49,025 - INFO - Found 2 injuries for Frankie Amaya
+
+
+Los Angeles FC:  58%|█████▊    | 18/31 [01:02<00:45,  3.50s/it][A[A2025-12-24 11:15:52,555 - INFO - Found 4 injuries for Odin Holm
+
+
+Los Angeles FC:  61%|██████▏   | 19/31 [01:06<00:42,  3.51s/it][A[A2025-12-24 11:15:56,348 - INFO - Found 4 injuries for Mathieu Choinière
+
+
+Los Angeles FC:  65%|██████▍   | 20/31 [01:09<00:39,  3.59s/it][A[A
+
+Los Angeles FC:  68%|██████▊   | 21/31 [01:13<00:35,  3.53s/it][A[A2025-12-24 11:16:03,447 - INFO - Found 1 injuries for Ryan Raposo
+
+
+Los Angeles FC:  71%|███████   | 22/31 [01:17<00:32,  3.59s/it][A[A
+
+Los Angeles FC:  74%|███████▍  | 23/31 [01:20<00:28,  3.52s/it][A[A2025-12-24 11:16:10,269 - INFO - Found 15 injuries for Heung-min Son
+
+
+Los Angeles FC:  77%|███████▋  | 24/31 [01:23<00:24,  3.50s/it][A[A
+
+Los Angeles FC:  81%|████████  | 25/31 [01:27<00:20,  3.46s/it][A[A2025-12-24 11:16:17,096 - INFO - Found 1 injuries for David Martínez
+
+
+Los Angeles FC:  84%|████████▍ | 26/31 [01:30<00:17,  3.46s/it][A[A2025-12-24 11:16:20,583 - INFO - Found 2 injuries for Yaw Yeboah
+
+
+Los Angeles FC:  87%|████████▋ | 27/31 [01:34<00:13,  3.47s/it][A[A2025-12-24 11:16:23,986 - INFO - Found 2 injuries for Alexandru Băluță
+
+
+Los Angeles FC:  90%|█████████ | 28/31 [01:37<00:10,  3.45s/it][A[A
+
+Los Angeles FC:  94%|█████████▎| 29/31 [01:41<00:06,  3.48s/it][A[A2025-12-24 11:16:31,114 - INFO - Found 2 injuries for Nathan Ordaz
+
+
+Los Angeles FC:  97%|█████████▋| 30/31 [01:44<00:03,  3.51s/it][A[A2025-12-24 11:16:34,558 - INFO - Found 4 injuries for Jeremy Ebobisse
+
+
+Los Angeles FC: 100%|██████████| 31/31 [01:48<00:00,  3.49s/it][A[A
+
+                                                               [A[A
+Teams (2024):  10%|█         | 3/30 [05:14<48:20, 107.42s/it][A2025-12-24 11:16:37,570 - INFO - Processing team: Atlanta United FC
+2025-12-24 11:16:41,408 - INFO - Found 29 players
+
+
+Atlanta United FC:   0%|          | 0/29 [00:00<?, ?it/s][A[A
+
+Atlanta United FC:   3%|▎         | 1/29 [00:03<01:41,  3.61s/it][A[A2025-12-24 11:16:48,410 - INFO - Found 3 injuries for Josh Cohen
+
+
+Atlanta United FC:   7%|▋         | 2/29 [00:07<01:34,  3.48s/it][A[A2025-12-24 11:16:51,836 - INFO - Found 3 injuries for Brad Guzan
+
+
+Atlanta United FC:  10%|█         | 3/29 [00:10<01:29,  3.46s/it][A[A2025-12-24 11:16:55,806 - INFO - Found 4 injuries for Enea Mihaj
+
+
+Atlanta United FC:  14%|█▍        | 4/29 [00:14<01:31,  3.66s/it][A[A2025-12-24 11:16:59,222 - INFO - Found 3 injuries for Stian Gregersen
+
+
+Atlanta United FC:  17%|█▋        | 5/29 [00:17<01:25,  3.57s/it][A[A2025-12-24 11:17:02,718 - INFO - Found 1 injuries for Juan Berrocal
+
+
+Atlanta United FC:  21%|██        | 6/29 [00:21<01:21,  3.55s/it][A[A
+
+Atlanta United FC:  24%|██▍       | 7/29 [00:24<01:16,  3.48s/it][A[A2025-12-24 11:17:09,449 - INFO - Found 6 injuries for Pedro Amador
+
+
+Atlanta United FC:  28%|██▊       | 8/29 [00:28<01:12,  3.45s/it][A[A
+
+Atlanta United FC:  31%|███       | 9/29 [00:31<01:08,  3.43s/it][A[A2025-12-24 11:17:16,277 - INFO - Found 6 injuries for Brooks Lennon
+
+
+Atlanta United FC:  34%|███▍      | 10/29 [00:34<01:05,  3.43s/it][A[A2025-12-24 11:17:19,707 - INFO - Found 4 injuries for Ronald Hernández
+
+
+Atlanta United FC:  38%|███▊      | 11/29 [00:38<01:01,  3.43s/it][A[A
+
+Atlanta United FC:  41%|████▏     | 12/29 [00:41<00:58,  3.41s/it][A[A
+
+Atlanta United FC:  45%|████▍     | 13/29 [00:45<00:54,  3.39s/it][A[A2025-12-24 11:17:29,836 - INFO - Found 7 injuries for Tristan Muyumba
+
+
+Atlanta United FC:  48%|████▊     | 14/29 [00:48<00:50,  3.40s/it][A[A2025-12-24 11:17:33,367 - INFO - Found 1 injuries for Adyn Torres
+
+
+Atlanta United FC:  52%|█████▏    | 15/29 [00:51<00:48,  3.44s/it][A[A2025-12-24 11:17:36,762 - INFO - Found 5 injuries for Steven Alzate
+
+
+Atlanta United FC:  55%|█████▌    | 16/29 [00:55<00:44,  3.43s/it][A[A2025-12-24 11:17:40,211 - INFO - Found 1 injuries for Ajani Fortune
+
+
+Atlanta United FC:  59%|█████▊    | 17/29 [00:58<00:41,  3.43s/it][A[A
+
+Atlanta United FC:  62%|██████▏   | 18/29 [01:02<00:37,  3.40s/it][A[A
+
+Atlanta United FC:  66%|██████▌   | 19/29 [01:05<00:34,  3.43s/it][A[A
+
+Atlanta United FC:  69%|██████▉   | 20/29 [01:09<00:30,  3.44s/it][A[A2025-12-24 11:17:53,945 - INFO - Found 10 injuries for Aleksey Miranchuk
+
+
+Atlanta United FC:  72%|███████▏  | 21/29 [01:12<00:27,  3.44s/it][A[A
+
+Atlanta United FC:  76%|███████▌  | 22/29 [01:16<00:24,  3.48s/it][A[A2025-12-24 11:18:00,971 - INFO - Found 5 injuries for Saba Lobjanidze
+
+
+Atlanta United FC:  79%|███████▉  | 23/29 [01:19<00:20,  3.47s/it][A[A
+
+Atlanta United FC:  83%|████████▎ | 24/29 [01:22<00:17,  3.43s/it][A[A2025-12-24 11:18:07,744 - INFO - Found 13 injuries for Miguel Almirón
+
+
+Atlanta United FC:  86%|████████▌ | 25/29 [01:26<00:13,  3.43s/it][A[A
+
+Atlanta United FC:  90%|████████▉ | 26/29 [01:29<00:10,  3.41s/it][A[A2025-12-24 11:18:14,559 - INFO - Found 7 injuries for Emmanuel Latte Lath
+
+
+Atlanta United FC:  93%|█████████▎| 27/29 [01:33<00:06,  3.43s/it][A[A2025-12-24 11:18:17,965 - INFO - Found 7 injuries for Jamal Thiaré
+
+
+Atlanta United FC:  97%|█████████▋| 28/29 [01:36<00:03,  3.42s/it][A[A2025-12-24 11:18:21,347 - INFO - Found 2 injuries for Cayman Togashi
+
+
+Atlanta United FC: 100%|██████████| 29/29 [01:39<00:00,  3.41s/it][A[A
+
+                                                                  [A[A
+Teams (2024):  13%|█▎        | 4/30 [07:01<46:26, 107.17s/it][A2025-12-24 11:18:24,354 - INFO - Processing team: Vancouver Whitecaps FC
+2025-12-24 11:18:28,026 - INFO - Found 30 players
+
+
+Vancouver Whitecaps :   0%|          | 0/30 [00:00<?, ?it/s][A[A2025-12-24 11:18:31,590 - INFO - Found 1 injuries for Yohei Takaoka
+
+
+Vancouver Whitecaps :   3%|▎         | 1/30 [00:03<01:43,  3.57s/it][A[A
+
+Vancouver Whitecaps :   7%|▋         | 2/30 [00:06<01:36,  3.45s/it][A[A
+
+Vancouver Whitecaps :  10%|█         | 3/30 [00:10<01:31,  3.41s/it][A[A2025-12-24 11:18:41,724 - INFO - Found 3 injuries for Mathías Laborda
+
+
+Vancouver Whitecaps :  13%|█▎        | 4/30 [00:13<01:28,  3.41s/it][A[A2025-12-24 11:18:45,164 - INFO - Found 7 injuries for Tristan Blackmon
+
+
+Vancouver Whitecaps :  17%|█▋        | 5/30 [00:17<01:25,  3.42s/it][A[A2025-12-24 11:18:48,529 - INFO - Found 2 injuries for Ranko Veselinović
+
+
+Vancouver Whitecaps :  20%|██        | 6/30 [00:20<01:21,  3.40s/it][A[A2025-12-24 11:18:51,890 - INFO - Found 6 injuries for Joedrick Pupe
+
+
+Vancouver Whitecaps :  23%|██▎       | 7/30 [00:23<01:17,  3.39s/it][A[A2025-12-24 11:18:55,390 - INFO - Found 9 injuries for Sebastian Schonlau
+
+
+Vancouver Whitecaps :  27%|██▋       | 8/30 [00:27<01:15,  3.42s/it][A[A2025-12-24 11:18:58,895 - INFO - Found 4 injuries for Belal Halbouni
+
+
+Vancouver Whitecaps :  30%|███       | 9/30 [00:30<01:12,  3.45s/it][A[A
+
+Vancouver Whitecaps :  33%|███▎      | 10/30 [00:34<01:08,  3.44s/it][A[A
+
+Vancouver Whitecaps :  37%|███▋      | 11/30 [00:37<01:04,  3.42s/it][A[A2025-12-24 11:19:09,166 - INFO - Found 10 injuries for Sam Adekugbe
+
+
+Vancouver Whitecaps :  40%|████      | 12/30 [00:41<01:01,  3.44s/it][A[A
+
+Vancouver Whitecaps :  43%|████▎     | 13/30 [00:44<00:58,  3.42s/it][A[A2025-12-24 11:19:15,879 - INFO - Found 1 injuries for Giuseppe Bovalina
+
+
+Vancouver Whitecaps :  47%|████▋     | 14/30 [00:47<00:54,  3.39s/it][A[A
+
+Vancouver Whitecaps :  50%|█████     | 15/30 [00:51<00:50,  3.38s/it][A[A2025-12-24 11:19:22,794 - INFO - Found 5 injuries for Andrés Cubas
+
+
+Vancouver Whitecaps :  53%|█████▎    | 16/30 [00:54<00:48,  3.44s/it][A[A2025-12-24 11:19:26,243 - INFO - Found 2 injuries for Ralph Priso
+
+
+Vancouver Whitecaps :  57%|█████▋    | 17/30 [00:58<00:44,  3.44s/it][A[A
+
+Vancouver Whitecaps :  60%|██████    | 18/30 [01:01<00:40,  3.39s/it][A[A2025-12-24 11:19:32,864 - INFO - Found 1 injuries for Sebastian Berhalter
+
+
+Vancouver Whitecaps :  63%|██████▎   | 19/30 [01:04<00:37,  3.38s/it][A[A
+
+Vancouver Whitecaps :  67%|██████▋   | 20/30 [01:08<00:34,  3.43s/it][A[A2025-12-24 11:19:40,020 - INFO - Found 4 injuries for Ali Ahmed
+
+
+Vancouver Whitecaps :  70%|███████   | 21/30 [01:11<00:31,  3.48s/it][A[A2025-12-24 11:19:43,446 - INFO - Found 11 injuries for Ryan Gauld
+
+
+Vancouver Whitecaps :  73%|███████▎  | 22/30 [01:15<00:27,  3.47s/it][A[A
+
+Vancouver Whitecaps :  77%|███████▋  | 23/30 [01:18<00:24,  3.44s/it][A[A2025-12-24 11:19:50,230 - INFO - Found 2 injuries for Kenji Cabrera
+
+
+Vancouver Whitecaps :  80%|████████  | 24/30 [01:22<00:20,  3.43s/it][A[A2025-12-24 11:19:53,661 - INFO - Found 3 injuries for Emmanuel Sabbi
+
+
+Vancouver Whitecaps :  83%|████████▎ | 25/30 [01:25<00:17,  3.43s/it][A[A2025-12-24 11:19:57,060 - INFO - Found 15 injuries for Thomas Müller
+
+
+Vancouver Whitecaps :  87%|████████▋ | 26/30 [01:29<00:13,  3.42s/it][A[A2025-12-24 11:20:00,506 - INFO - Found 10 injuries for Brian White
+
+
+Vancouver Whitecaps :  90%|█████████ | 27/30 [01:32<00:10,  3.43s/it][A[A2025-12-24 11:20:03,865 - INFO - Found 4 injuries for Daniel Ríos
+
+
+Vancouver Whitecaps :  93%|█████████▎| 28/30 [01:35<00:06,  3.41s/it][A[A
+
+Vancouver Whitecaps :  97%|█████████▋| 29/30 [01:39<00:03,  3.37s/it][A[A
+
+Vancouver Whitecaps : 100%|██████████| 30/30 [01:42<00:00,  3.37s/it][A[A
+
+                                                                     [A[A
+Teams (2024):  17%|█▋        | 5/30 [08:50<44:57, 107.89s/it][A2025-12-24 11:20:13,511 - INFO - Processing team: Portland Timbers
+2025-12-24 11:20:17,576 - INFO - Found 28 players
+
+
+Portland Timbers:   0%|          | 0/28 [00:00<?, ?it/s][A[A2025-12-24 11:20:21,198 - INFO - Found 6 injuries for Maxime Crépeau
+
+
+Portland Timbers:   4%|▎         | 1/28 [00:03<01:37,  3.62s/it][A[A2025-12-24 11:20:24,592 - INFO - Found 3 injuries for James Pantemis
+
+
+Portland Timbers:   7%|▋         | 2/28 [00:07<01:30,  3.49s/it][A[A
+
+Portland Timbers:  11%|█         | 3/28 [00:10<01:25,  3.40s/it][A[A2025-12-24 11:20:31,298 - INFO - Found 1 injuries for Trey Muse
+
+
+Portland Timbers:  14%|█▍        | 4/28 [00:13<01:21,  3.40s/it][A[A2025-12-24 11:20:34,725 - INFO - Found 1 injuries for Kamal Miller
+
+
+Portland Timbers:  18%|█▊        | 5/28 [00:17<01:18,  3.41s/it][A[A2025-12-24 11:20:38,095 - INFO - Found 1 injuries for Finn Surman
+
+
+Portland Timbers:  21%|██▏       | 6/28 [00:20<01:14,  3.40s/it][A[A2025-12-24 11:20:41,553 - INFO - Found 4 injuries for Zac McGraw
+
+
+Portland Timbers:  25%|██▌       | 7/28 [00:23<01:11,  3.42s/it][A[A2025-12-24 11:20:45,427 - INFO - Found 7 injuries for Dario Župarić
+
+
+Portland Timbers:  29%|██▊       | 8/28 [00:27<01:11,  3.56s/it][A[A2025-12-24 11:20:48,747 - INFO - Found 2 injuries for Jimer Fory
+
+
+Portland Timbers:  32%|███▏      | 9/28 [00:31<01:06,  3.49s/it][A[A
+
+Portland Timbers:  36%|███▌      | 10/28 [00:34<01:02,  3.45s/it][A[A2025-12-24 11:20:55,559 - INFO - Found 1 injuries for Juan Mosquera
+
+
+Portland Timbers:  39%|███▉      | 11/28 [00:37<00:58,  3.45s/it][A[A2025-12-24 11:20:58,947 - INFO - Found 3 injuries for Brandon Bye
+
+
+Portland Timbers:  43%|████▎     | 12/28 [00:41<00:54,  3.43s/it][A[A2025-12-24 11:21:02,325 - INFO - Found 9 injuries for Eric Miller
+
+
+Portland Timbers:  46%|████▋     | 13/28 [00:44<00:51,  3.41s/it][A[A2025-12-24 11:21:05,716 - INFO - Found 3 injuries for David Ayala
+
+
+Portland Timbers:  50%|█████     | 14/28 [00:48<00:47,  3.41s/it][A[A
+
+Portland Timbers:  54%|█████▎    | 15/28 [00:51<00:44,  3.39s/it][A[A2025-12-24 11:21:12,571 - INFO - Found 14 injuries for Felipe Carballo
+
+
+Portland Timbers:  57%|█████▋    | 16/28 [00:54<00:41,  3.42s/it][A[A2025-12-24 11:21:15,987 - INFO - Found 4 injuries for Cristhian Paredes
+
+
+Portland Timbers:  61%|██████    | 17/28 [00:58<00:37,  3.42s/it][A[A2025-12-24 11:21:19,407 - INFO - Found 7 injuries for Diego Chará
+
+
+Portland Timbers:  64%|██████▍   | 18/28 [01:01<00:34,  3.42s/it][A[A2025-12-24 11:21:22,912 - INFO - Found 6 injuries for David Da Costa
+
+
+Portland Timbers:  68%|██████▊   | 19/28 [01:05<00:31,  3.45s/it][A[A2025-12-24 11:21:26,385 - INFO - Found 15 injuries for Matías Rojas
+
+
+Portland Timbers:  71%|███████▏  | 20/28 [01:08<00:27,  3.45s/it][A[A2025-12-24 11:21:29,722 - INFO - Found 2 injuries for Antony
+
+
+Portland Timbers:  75%|███████▌  | 21/28 [01:12<00:23,  3.42s/it][A[A
+
+Portland Timbers:  79%|███████▊  | 22/28 [01:15<00:20,  3.44s/it][A[A2025-12-24 11:21:36,572 - INFO - Found 2 injuries for Ariel Lassiter
+
+
+Portland Timbers:  82%|████████▏ | 23/28 [01:18<00:17,  3.42s/it][A[A2025-12-24 11:21:40,117 - INFO - Found 1 injuries for Omir Fernandez
+
+
+Portland Timbers:  86%|████████▌ | 24/28 [01:22<00:13,  3.45s/it][A[A2025-12-24 11:21:43,524 - INFO - Found 1 injuries for Kevin Kelsy
+
+
+Portland Timbers:  89%|████████▉ | 25/28 [01:25<00:10,  3.44s/it][A[A2025-12-24 11:21:46,940 - INFO - Found 8 injuries for Felipe Mora
+
+
+Portland Timbers:  93%|█████████▎| 26/28 [01:29<00:06,  3.43s/it][A[A2025-12-24 11:21:50,338 - INFO - Found 12 injuries for Jonathan Rodríguez
+
+
+Portland Timbers:  96%|█████████▋| 27/28 [01:32<00:03,  3.42s/it][A[A
+
+Portland Timbers: 100%|██████████| 28/28 [01:36<00:00,  3.37s/it][A[A
+
+                                                                 [A[A
+Teams (2024):  20%|██        | 6/30 [10:33<42:30, 106.26s/it][A2025-12-24 11:21:56,607 - INFO - Processing team: Los Angeles Galaxy
+2025-12-24 11:22:00,693 - INFO - Found 30 players
+
+
+Los Angeles Galaxy:   0%|          | 0/30 [00:00<?, ?it/s][A[A
+
+Los Angeles Galaxy:   3%|▎         | 1/30 [00:03<01:38,  3.39s/it][A[A2025-12-24 11:22:07,566 - INFO - Found 1 injuries for JT Marcinkowski
+
+
+Los Angeles Galaxy:   7%|▋         | 2/30 [00:06<01:36,  3.44s/it][A[A
+
+Los Angeles Galaxy:  10%|█         | 3/30 [00:10<01:33,  3.46s/it][A[A2025-12-24 11:22:14,444 - INFO - Found 2 injuries for Jakob Glesnes
+
+
+Los Angeles Galaxy:  13%|█▎        | 4/30 [00:13<01:29,  3.44s/it][A[A2025-12-24 11:22:17,824 - INFO - Found 3 injuries for Carlos Garcés
+
+
+Los Angeles Galaxy:  17%|█▋        | 5/30 [00:17<01:25,  3.42s/it][A[A2025-12-24 11:22:21,305 - INFO - Found 9 injuries for Zanka
+
+
+Los Angeles Galaxy:  20%|██        | 6/30 [00:20<01:22,  3.44s/it][A[A
+
+Los Angeles Galaxy:  23%|██▎       | 7/30 [00:24<01:19,  3.48s/it][A[A
+
+Los Angeles Galaxy:  27%|██▋       | 8/30 [00:27<01:15,  3.43s/it][A[A2025-12-24 11:22:31,662 - INFO - Found 13 injuries for Maya Yoshida
+
+
+Los Angeles Galaxy:  30%|███       | 9/30 [00:30<01:12,  3.44s/it][A[A2025-12-24 11:22:35,049 - INFO - Found 4 injuries for Eriq Zavaleta
+
+
+Los Angeles Galaxy:  33%|███▎      | 10/30 [00:34<01:08,  3.42s/it][A[A2025-12-24 11:22:38,728 - INFO - Found 3 injuries for Julián Aude
+
+
+Los Angeles Galaxy:  37%|███▋      | 11/30 [00:38<01:06,  3.50s/it][A[A2025-12-24 11:22:42,131 - INFO - Found 2 injuries for John Nelson
+
+
+Los Angeles Galaxy:  40%|████      | 12/30 [00:41<01:02,  3.47s/it][A[A2025-12-24 11:22:45,531 - INFO - Found 1 injuries for Miki Yamane
+
+
+Los Angeles Galaxy:  43%|████▎     | 13/30 [00:44<00:58,  3.45s/it][A[A2025-12-24 11:22:48,914 - INFO - Found 2 injuries for Mauricio Cuevas
+
+
+Los Angeles Galaxy:  47%|████▋     | 14/30 [00:48<00:54,  3.43s/it][A[A
+
+Los Angeles Galaxy:  50%|█████     | 15/30 [00:51<00:51,  3.40s/it][A[A
+
+Los Angeles Galaxy:  53%|█████▎    | 16/30 [00:54<00:47,  3.39s/it][A[A2025-12-24 11:22:59,048 - INFO - Found 3 injuries for Lucas Sanabria
+
+
+Los Angeles Galaxy:  57%|█████▋    | 17/30 [00:58<00:44,  3.40s/it][A[A
+
+Los Angeles Galaxy:  60%|██████    | 18/30 [01:01<00:41,  3.46s/it][A[A2025-12-24 11:23:06,038 - INFO - Found 3 injuries for Riqui Puig
+
+
+Los Angeles Galaxy:  63%|██████▎   | 19/30 [01:05<00:37,  3.44s/it][A[A2025-12-24 11:23:09,380 - INFO - Found 1 injuries for Elijah Wynder
+
+
+Los Angeles Galaxy:  67%|██████▋   | 20/30 [01:08<00:34,  3.41s/it][A[A
+
+Los Angeles Galaxy:  70%|███████   | 21/30 [01:12<00:31,  3.45s/it][A[A2025-12-24 11:23:16,566 - INFO - Found 15 injuries for Marco Reus
+
+
+Los Angeles Galaxy:  73%|███████▎  | 22/30 [01:15<00:28,  3.51s/it][A[A
+
+Los Angeles Galaxy:  77%|███████▋  | 23/30 [01:19<00:24,  3.50s/it][A[A2025-12-24 11:23:23,469 - INFO - Found 2 injuries for Diego Fagúndez
+
+
+Los Angeles Galaxy:  80%|████████  | 24/30 [01:22<00:20,  3.48s/it][A[A2025-12-24 11:23:26,931 - INFO - Found 2 injuries for Gino Vivi
+
+
+Los Angeles Galaxy:  83%|████████▎ | 25/30 [01:26<00:17,  3.47s/it][A[A2025-12-24 11:23:30,466 - INFO - Found 3 injuries for Gabriel Pec
+
+
+Los Angeles Galaxy:  87%|████████▋ | 26/30 [01:29<00:13,  3.49s/it][A[A2025-12-24 11:23:33,869 - INFO - Found 7 injuries for Joseph Paintsil
+
+
+Los Angeles Galaxy:  90%|█████████ | 27/30 [01:33<00:10,  3.46s/it][A[A2025-12-24 11:23:37,428 - INFO - Found 2 injuries for Matheus Nascimento
+
+
+Los Angeles Galaxy:  93%|█████████▎| 28/30 [01:36<00:06,  3.49s/it][A[A2025-12-24 11:23:40,847 - INFO - Found 1 injuries for Miguel Berry
+
+
+Los Angeles Galaxy:  97%|█████████▋| 29/30 [01:40<00:03,  3.47s/it][A[A2025-12-24 11:23:44,276 - INFO - Found 4 injuries for Christian Ramirez
+
+
+Los Angeles Galaxy: 100%|██████████| 30/30 [01:43<00:00,  3.46s/it][A[A
+
+                                                                   [A[A
+Teams (2024):  23%|██▎       | 7/30 [12:24<41:17, 107.70s/it][A2025-12-24 11:23:47,285 - INFO - Processing team: Seattle Sounders FC
+2025-12-24 11:23:51,289 - INFO - Found 32 players
+
+
+Seattle Sounders FC:   0%|          | 0/32 [00:00<?, ?it/s][A[A2025-12-24 11:23:54,659 - INFO - Found 1 injuries for Andrew Thomas
+
+
+Seattle Sounders FC:   3%|▎         | 1/32 [00:03<01:44,  3.37s/it][A[A2025-12-24 11:23:58,089 - INFO - Found 10 injuries for Stefan Frei
+
+
+Seattle Sounders FC:   6%|▋         | 2/32 [00:06<01:42,  3.41s/it][A[A
+
+Seattle Sounders FC:   9%|▉         | 3/32 [00:10<01:38,  3.40s/it][A[A
+
+Seattle Sounders FC:  12%|█▎        | 4/32 [00:13<01:34,  3.37s/it][A[A2025-12-24 11:24:08,195 - INFO - Found 3 injuries for Jackson Ragen
+
+
+Seattle Sounders FC:  16%|█▌        | 5/32 [00:16<01:31,  3.38s/it][A[A2025-12-24 11:24:11,599 - INFO - Found 3 injuries for Yeimar Gómez Andrade
+
+
+Seattle Sounders FC:  19%|█▉        | 6/32 [00:20<01:28,  3.39s/it][A[A2025-12-24 11:24:14,981 - INFO - Found 2 injuries for Ryan Sailor
+
+
+Seattle Sounders FC:  22%|██▏       | 7/32 [00:23<01:24,  3.39s/it][A[A
+
+Seattle Sounders FC:  25%|██▌       | 8/32 [00:27<01:20,  3.37s/it][A[A2025-12-24 11:24:21,784 - INFO - Found 5 injuries for Kee-hee Kim
+
+
+Seattle Sounders FC:  28%|██▊       | 9/32 [00:30<01:18,  3.40s/it][A[A
+
+Seattle Sounders FC:  31%|███▏      | 10/32 [00:33<01:14,  3.38s/it][A[A2025-12-24 11:24:28,549 - INFO - Found 4 injuries for Nouhou
+
+
+Seattle Sounders FC:  34%|███▍      | 11/32 [00:37<01:11,  3.40s/it][A[A2025-12-24 11:24:32,227 - INFO - Found 4 injuries for Reed Baker-Whiting
+
+
+Seattle Sounders FC:  38%|███▊      | 12/32 [00:40<01:09,  3.48s/it][A[A
+
+Seattle Sounders FC:  41%|████      | 13/32 [00:44<01:06,  3.50s/it][A[A2025-12-24 11:24:39,187 - INFO - Found 2 injuries for Álex Roldán
+
+
+Seattle Sounders FC:  44%|████▍     | 14/32 [00:47<01:02,  3.48s/it][A[A
+
+Seattle Sounders FC:  47%|████▋     | 15/32 [00:51<00:59,  3.48s/it][A[A2025-12-24 11:24:46,015 - INFO - Found 1 injuries for Cody Baker
+
+
+Seattle Sounders FC:  50%|█████     | 16/32 [00:54<00:55,  3.44s/it][A[A2025-12-24 11:24:49,405 - INFO - Found 1 injuries for Danny Leyva
+
+
+Seattle Sounders FC:  53%|█████▎    | 17/32 [00:58<00:51,  3.42s/it][A[A
+
+Seattle Sounders FC:  56%|█████▋    | 18/32 [01:01<00:47,  3.39s/it][A[A2025-12-24 11:24:56,168 - INFO - Found 2 injuries for Obed Vargas
+
+
+Seattle Sounders FC:  59%|█████▉    | 19/32 [01:04<00:44,  3.41s/it][A[A2025-12-24 11:24:59,593 - INFO - Found 5 injuries for Cristian Roldán
+
+
+Seattle Sounders FC:  62%|██████▎   | 20/32 [01:08<00:40,  3.41s/it][A[A2025-12-24 11:25:02,942 - INFO - Found 2 injuries for Hassani Dotson
+
+
+Seattle Sounders FC:  66%|██████▌   | 21/32 [01:11<00:37,  3.39s/it][A[A2025-12-24 11:25:06,491 - INFO - Found 6 injuries for João Paulo
+
+
+Seattle Sounders FC:  69%|██████▉   | 22/32 [01:15<00:34,  3.44s/it][A[A2025-12-24 11:25:10,109 - INFO - Found 8 injuries for Albert Rusnák
+
+
+Seattle Sounders FC:  72%|███████▏  | 23/32 [01:18<00:31,  3.49s/it][A[A2025-12-24 11:25:13,489 - INFO - Found 2 injuries for Paul Rothrock
+
+
+Seattle Sounders FC:  75%|███████▌  | 24/32 [01:22<00:27,  3.46s/it][A[A2025-12-24 11:25:16,865 - INFO - Found 6 injuries for Ryan Kent
+
+
+Seattle Sounders FC:  78%|███████▊  | 25/32 [01:25<00:24,  3.43s/it][A[A2025-12-24 11:25:20,516 - INFO - Found 9 injuries for Pedro de la Vega
+
+
+Seattle Sounders FC:  81%|████████▏ | 26/32 [01:29<00:20,  3.50s/it][A[A2025-12-24 11:25:24,003 - INFO - Found 7 injuries for Paul Arriola
+
+
+Seattle Sounders FC:  84%|████████▍ | 27/32 [01:32<00:17,  3.50s/it][A[A
+
+Seattle Sounders FC:  88%|████████▊ | 28/32 [01:36<00:13,  3.44s/it][A[A2025-12-24 11:25:31,075 - INFO - Found 9 injuries for Jesús Ferreira
+
+
+Seattle Sounders FC:  91%|█████████ | 29/32 [01:39<00:10,  3.54s/it][A[A2025-12-24 11:25:34,471 - INFO - Found 9 injuries for Jordan Morris
+
+
+Seattle Sounders FC:  94%|█████████▍| 30/32 [01:43<00:06,  3.49s/it][A[A2025-12-24 11:25:37,886 - INFO - Found 5 injuries for Danny Musovski
+
+
+Seattle Sounders FC:  97%|█████████▋| 31/32 [01:46<00:03,  3.47s/it][A[A
+
+Seattle Sounders FC: 100%|██████████| 32/32 [01:49<00:00,  3.43s/it][A[A
+
+                                                                    [A[A
+Teams (2024):  27%|██▋       | 8/30 [14:21<40:34, 110.65s/it][A2025-12-24 11:25:44,238 - INFO - Processing team: San Diego FC
+2025-12-24 11:25:48,952 - INFO - Found 33 players
+
+
+San Diego FC:   0%|          | 0/33 [00:00<?, ?it/s][A[A2025-12-24 11:25:52,342 - INFO - Found 1 injuries for CJ dos Santos
+
+
+San Diego FC:   3%|▎         | 1/33 [00:03<01:48,  3.39s/it][A[A2025-12-24 11:25:55,719 - INFO - Found 3 injuries for Pablo Sisniega
+
+
+San Diego FC:   6%|▌         | 2/33 [00:06<01:44,  3.38s/it][A[A
+
+San Diego FC:   9%|▉         | 3/33 [00:10<01:42,  3.40s/it][A[A2025-12-24 11:26:02,763 - INFO - Found 5 injuries for Paddy McNair
+
+
+San Diego FC:  12%|█▏        | 4/33 [00:13<01:41,  3.49s/it][A[A2025-12-24 11:26:06,274 - INFO - Found 4 injuries for Christopher McVey
+
+
+San Diego FC:  15%|█▌        | 5/33 [00:17<01:37,  3.50s/it][A[A2025-12-24 11:26:09,703 - INFO - Found 4 injuries for Andrés Reyes
+
+
+San Diego FC:  18%|█▊        | 6/33 [00:20<01:33,  3.47s/it][A[A2025-12-24 11:26:13,059 - INFO - Found 1 injuries for Manu Duah
+
+
+San Diego FC:  21%|██        | 7/33 [00:24<01:29,  3.43s/it][A[A
+
+San Diego FC:  24%|██▍       | 8/33 [00:27<01:25,  3.43s/it][A[A2025-12-24 11:26:19,860 - INFO - Found 1 injuries for Luca Bombino
+
+
+San Diego FC:  27%|██▋       | 9/33 [00:30<01:21,  3.41s/it][A[A2025-12-24 11:26:23,267 - INFO - Found 2 injuries for Franco Negri
+
+
+San Diego FC:  30%|███       | 10/33 [00:34<01:18,  3.41s/it][A[A2025-12-24 11:26:26,746 - INFO - Found 8 injuries for Aiden Harangi
+
+
+San Diego FC:  33%|███▎      | 11/33 [00:37<01:15,  3.43s/it][A[A
+
+San Diego FC:  36%|███▋      | 12/33 [00:41<01:11,  3.41s/it][A[A2025-12-24 11:26:33,547 - INFO - Found 1 injuries for Willy Kumado
+
+
+San Diego FC:  39%|███▉      | 13/33 [00:44<01:08,  3.42s/it][A[A2025-12-24 11:26:36,858 - INFO - Found 1 injuries for Oscar Verhoeven
+
+
+San Diego FC:  42%|████▏     | 14/33 [00:47<01:04,  3.39s/it][A[A
+
+San Diego FC:  45%|████▌     | 15/33 [00:51<01:01,  3.44s/it][A[A
+
+San Diego FC:  48%|████▊     | 16/33 [00:54<00:57,  3.38s/it][A[A2025-12-24 11:26:47,103 - INFO - Found 3 injuries for Jeppe Tverskov
+
+
+San Diego FC:  52%|█████▏    | 17/33 [00:58<00:54,  3.40s/it][A[A2025-12-24 11:26:50,415 - INFO - Found 1 injuries for Pedro Soma
+
+
+San Diego FC:  55%|█████▍    | 18/33 [01:01<00:50,  3.37s/it][A[A2025-12-24 11:26:53,786 - INFO - Found 6 injuries for Aníbal Godoy
+
+
+San Diego FC:  58%|█████▊    | 19/33 [01:04<00:47,  3.37s/it][A[A2025-12-24 11:26:57,074 - INFO - Found 5 injuries for Luca de la Torre
+
+
+San Diego FC:  61%|██████    | 20/33 [01:08<00:43,  3.35s/it][A[A2025-12-24 11:27:00,449 - INFO - Found 1 injuries for Alejandro Alvarado
+
+
+San Diego FC:  64%|██████▎   | 21/33 [01:11<00:40,  3.36s/it][A[A
+
+San Diego FC:  67%|██████▋   | 22/33 [01:14<00:36,  3.35s/it][A[A2025-12-24 11:27:07,062 - INFO - Found 3 injuries for Emmanuel Boateng
+
+
+San Diego FC:  70%|██████▉   | 23/33 [01:18<00:33,  3.33s/it][A[A
+
+San Diego FC:  73%|███████▎  | 24/33 [01:21<00:29,  3.33s/it][A[A2025-12-24 11:27:14,152 - INFO - Found 15 injuries for Hirving Lozano
+
+
+San Diego FC:  76%|███████▌  | 25/33 [01:25<00:27,  3.46s/it][A[A2025-12-24 11:27:17,586 - INFO - Found 6 injuries for Lewis Morgan
+
+
+San Diego FC:  79%|███████▉  | 26/33 [01:28<00:24,  3.45s/it][A[A2025-12-24 11:27:21,019 - INFO - Found 4 injuries for Alex Mighten
+
+
+San Diego FC:  82%|████████▏ | 27/33 [01:32<00:20,  3.45s/it][A[A2025-12-24 11:27:24,426 - INFO - Found 2 injuries for Amahl Pellegrino
+
+
+San Diego FC:  85%|████████▍ | 28/33 [01:35<00:17,  3.43s/it][A[A2025-12-24 11:27:27,855 - INFO - Found 4 injuries for Anders Dreyer
+
+
+San Diego FC:  88%|████████▊ | 29/33 [01:38<00:13,  3.43s/it][A[A2025-12-24 11:27:31,342 - INFO - Found 10 injuries for Marcus Ingvartsen
+
+
+San Diego FC:  91%|█████████ | 30/33 [01:42<00:10,  3.45s/it][A[A2025-12-24 11:27:34,714 - INFO - Found 3 injuries for Corey Baird
+
+
+San Diego FC:  94%|█████████▍| 31/33 [01:45<00:06,  3.43s/it][A[A2025-12-24 11:27:38,093 - INFO - Found 1 injuries for Tomás Ángel
+
+
+San Diego FC:  97%|█████████▋| 32/33 [01:49<00:03,  3.41s/it][A[A
+
+San Diego FC: 100%|██████████| 33/33 [01:52<00:00,  3.39s/it][A[A
+
+                                                             [A[A
+Teams (2024):  30%|███       | 9/30 [16:21<39:46, 113.64s/it][A2025-12-24 11:27:44,454 - INFO - Processing team: Columbus Crew
+2025-12-24 11:27:48,099 - INFO - Found 28 players
+
+
+Columbus Crew:   0%|          | 0/28 [00:00<?, ?it/s][A[A2025-12-24 11:27:51,782 - INFO - Found 1 injuries for Patrick Schulte
+
+
+Columbus Crew:   4%|▎         | 1/28 [00:03<01:39,  3.69s/it][A[A2025-12-24 11:27:55,390 - INFO - Found 2 injuries for Nicholas Hagen
+
+
+Columbus Crew:   7%|▋         | 2/28 [00:07<01:34,  3.64s/it][A[A
+
+Columbus Crew:  11%|█         | 3/28 [00:10<01:28,  3.52s/it][A[A2025-12-24 11:28:02,679 - INFO - Found 2 injuries for Evan Bush
+
+
+Columbus Crew:  14%|█▍        | 4/28 [00:14<01:28,  3.67s/it][A[A
+
+Columbus Crew:  18%|█▊        | 5/28 [00:17<01:20,  3.51s/it][A[A2025-12-24 11:28:09,289 - INFO - Found 3 injuries for Malte Amundsen
+
+
+Columbus Crew:  21%|██▏       | 6/28 [00:21<01:16,  3.47s/it][A[A2025-12-24 11:28:12,658 - INFO - Found 1 injuries for Yevgen Cheberko
+
+
+Columbus Crew:  25%|██▌       | 7/28 [00:24<01:12,  3.44s/it][A[A2025-12-24 11:28:16,295 - INFO - Found 5 injuries for Rudy Camacho
+
+
+Columbus Crew:  29%|██▊       | 8/28 [00:28<01:09,  3.50s/it][A[A2025-12-24 11:28:20,171 - INFO - Found 1 injuries for Cesar Ruvalcaba
+
+
+Columbus Crew:  32%|███▏      | 9/28 [00:32<01:08,  3.62s/it][A[A
+
+Columbus Crew:  36%|███▌      | 10/28 [00:35<01:04,  3.56s/it][A[A2025-12-24 11:28:26,999 - INFO - Found 2 injuries for Andrés Herrera
+
+
+Columbus Crew:  39%|███▉      | 11/28 [00:38<00:59,  3.51s/it][A[A2025-12-24 11:28:30,604 - INFO - Found 1 injuries for Steven Moreira
+
+
+Columbus Crew:  43%|████▎     | 12/28 [00:42<00:56,  3.54s/it][A[A2025-12-24 11:28:34,017 - INFO - Found 1 injuries for Amar Sejdić
+
+
+Columbus Crew:  46%|████▋     | 13/28 [00:45<00:52,  3.50s/it][A[A2025-12-24 11:28:37,385 - INFO - Found 1 injuries for Dylan Chambost
+
+
+Columbus Crew:  50%|█████     | 14/28 [00:49<00:48,  3.46s/it][A[A2025-12-24 11:28:40,762 - INFO - Found 4 injuries for Sean Zawadzki
+
+
+Columbus Crew:  54%|█████▎    | 15/28 [00:52<00:44,  3.44s/it][A[A2025-12-24 11:28:44,366 - INFO - Found 9 injuries for Darlington Nagbe
+
+
+Columbus Crew:  57%|█████▋    | 16/28 [00:56<00:41,  3.49s/it][A[A2025-12-24 11:28:47,723 - INFO - Found 1 injuries for Taha Habroune
+
+
+Columbus Crew:  61%|██████    | 17/28 [00:59<00:37,  3.45s/it][A[A2025-12-24 11:28:51,126 - INFO - Found 1 injuries for Derrick Jones
+
+
+Columbus Crew:  64%|██████▍   | 18/28 [01:03<00:34,  3.43s/it][A[A
+
+Columbus Crew:  68%|██████▊   | 19/28 [01:06<00:30,  3.42s/it][A[A2025-12-24 11:28:57,877 - INFO - Found 4 injuries for Mohamed Farsi
+
+
+Columbus Crew:  71%|███████▏  | 20/28 [01:09<00:27,  3.40s/it][A[A2025-12-24 11:29:01,294 - INFO - Found 2 injuries for Hugo Picard
+
+
+Columbus Crew:  75%|███████▌  | 21/28 [01:13<00:23,  3.41s/it][A[A2025-12-24 11:29:04,671 - INFO - Found 9 injuries for Diego Rossi
+
+
+Columbus Crew:  79%|███████▊  | 22/28 [01:16<00:20,  3.40s/it][A[A
+
+Columbus Crew:  82%|████████▏ | 23/28 [01:20<00:17,  3.41s/it][A[A
+
+Columbus Crew:  86%|████████▌ | 24/28 [01:23<00:13,  3.41s/it][A[A2025-12-24 11:29:14,933 - INFO - Found 11 injuries for Lassi Lappalainen
+
+
+Columbus Crew:  89%|████████▉ | 25/28 [01:26<00:10,  3.41s/it][A[A2025-12-24 11:29:18,722 - INFO - Found 9 injuries for Wessam Abou Ali
+
+
+Columbus Crew:  93%|█████████▎| 26/28 [01:30<00:07,  3.53s/it][A[A
+
+Columbus Crew:  96%|█████████▋| 27/28 [01:34<00:03,  3.51s/it][A[A
+
+Columbus Crew: 100%|██████████| 28/28 [01:37<00:00,  3.46s/it][A[A
+
+                                                              [A[A
+Teams (2024):  33%|███▎      | 10/30 [18:05<36:53, 110.70s/it][A2025-12-24 11:29:28,561 - INFO - Processing team: New York City FC
+2025-12-24 11:29:32,632 - INFO - Found 32 players
+
+
+New York City FC:   0%|          | 0/32 [00:00<?, ?it/s][A[A2025-12-24 11:29:36,441 - INFO - Found 2 injuries for Matt Freese
+
+
+New York City FC:   3%|▎         | 1/32 [00:03<01:58,  3.81s/it][A[A
+
+New York City FC:   6%|▋         | 2/32 [00:07<01:45,  3.53s/it][A[A
+
+New York City FC:   9%|▉         | 3/32 [00:10<01:43,  3.55s/it][A[A
+
+New York City FC:  12%|█▎        | 4/32 [00:14<01:37,  3.48s/it][A[A2025-12-24 11:29:50,088 - INFO - Found 5 injuries for Thiago Martins
+
+
+New York City FC:  16%|█▌        | 5/32 [00:17<01:32,  3.44s/it][A[A2025-12-24 11:29:53,468 - INFO - Found 2 injuries for Raul Gustavo
+
+
+New York City FC:  19%|█▉        | 6/32 [00:20<01:28,  3.42s/it][A[A2025-12-24 11:29:57,058 - INFO - Found 1 injuries for Strahinja Tanasijević
+
+
+New York City FC:  22%|██▏       | 7/32 [00:24<01:26,  3.47s/it][A[A
+
+New York City FC:  25%|██▌       | 8/32 [00:27<01:21,  3.40s/it][A[A
+
+New York City FC:  28%|██▊       | 9/32 [00:31<01:17,  3.39s/it][A[A
+
+New York City FC:  31%|███▏      | 10/32 [00:34<01:14,  3.40s/it][A[A2025-12-24 11:30:10,510 - INFO - Found 3 injuries for Kevin O'Toole
+
+
+New York City FC:  34%|███▍      | 11/32 [00:37<01:11,  3.40s/it][A[A2025-12-24 11:30:13,877 - INFO - Found 1 injuries for Nico Cavallo
+
+
+New York City FC:  38%|███▊      | 12/32 [00:41<01:07,  3.39s/it][A[A2025-12-24 11:30:17,389 - INFO - Found 3 injuries for Tayvon Gray
+
+
+New York City FC:  41%|████      | 13/32 [00:44<01:05,  3.43s/it][A[A2025-12-24 11:30:20,856 - INFO - Found 2 injuries for Mitja Ilenič
+
+
+New York City FC:  44%|████▍     | 14/32 [00:48<01:01,  3.44s/it][A[A
+
+New York City FC:  47%|████▋     | 15/32 [00:51<00:59,  3.48s/it][A[A2025-12-24 11:30:27,877 - INFO - Found 3 injuries for Aiden O'Neill
+
+
+New York City FC:  50%|█████     | 16/32 [00:55<00:55,  3.47s/it][A[A2025-12-24 11:30:31,533 - INFO - Found 6 injuries for Keaton Parks
+
+
+New York City FC:  53%|█████▎    | 17/32 [00:58<00:52,  3.53s/it][A[A2025-12-24 11:30:34,980 - INFO - Found 3 injuries for Andrés Perea
+
+
+New York City FC:  56%|█████▋    | 18/32 [01:02<00:49,  3.50s/it][A[A
+
+New York City FC:  59%|█████▉    | 19/32 [01:05<00:44,  3.46s/it][A[A
+
+New York City FC:  62%|██████▎   | 20/32 [01:09<00:41,  3.44s/it][A[A
+
+New York City FC:  66%|██████▌   | 21/32 [01:12<00:37,  3.42s/it][A[A
+
+New York City FC:  69%|██████▉   | 22/32 [01:15<00:34,  3.41s/it][A[A2025-12-24 11:30:52,167 - INFO - Found 1 injuries for Jacob Arroyave
+
+
+New York City FC:  72%|███████▏  | 23/32 [01:19<00:31,  3.49s/it][A[A
+
+New York City FC:  75%|███████▌  | 24/32 [01:22<00:27,  3.45s/it][A[A2025-12-24 11:30:59,051 - INFO - Found 15 injuries for Maxi Moralez
+
+
+New York City FC:  78%|███████▊  | 25/32 [01:26<00:24,  3.47s/it][A[A
+
+New York City FC:  81%|████████▏ | 26/32 [01:29<00:20,  3.44s/it][A[A2025-12-24 11:31:05,776 - INFO - Found 1 injuries for Malachi Jones
+
+
+New York City FC:  84%|████████▍ | 27/32 [01:33<00:17,  3.42s/it][A[A2025-12-24 11:31:09,555 - INFO - Found 15 injuries for Hannes Wolf
+
+
+New York City FC:  88%|████████▊ | 28/32 [01:36<00:14,  3.52s/it][A[A
+
+New York City FC:  91%|█████████ | 29/32 [01:40<00:10,  3.54s/it][A[A2025-12-24 11:31:16,824 - INFO - Found 5 injuries for Alonso Martínez
+
+
+New York City FC:  94%|█████████▍| 30/32 [01:44<00:07,  3.59s/it][A[A
+
+New York City FC:  97%|█████████▋| 31/32 [01:47<00:03,  3.53s/it][A[A
+
+New York City FC: 100%|██████████| 32/32 [01:50<00:00,  3.48s/it][A[A
+
+                                                                 [A[A
+Teams (2024):  37%|███▋      | 11/30 [20:03<35:45, 112.94s/it][A2025-12-24 11:31:26,595 - INFO - Processing team: Chicago Fire FC
+2025-12-24 11:31:30,673 - INFO - Found 34 players
+
+
+Chicago Fire FC:   0%|          | 0/34 [00:00<?, ?it/s][A[A2025-12-24 11:31:34,054 - INFO - Found 2 injuries for Chris Brady
+
+
+Chicago Fire FC:   3%|▎         | 1/34 [00:03<01:51,  3.38s/it][A[A
+
+Chicago Fire FC:   6%|▌         | 2/34 [00:06<01:47,  3.37s/it][A[A2025-12-24 11:31:40,806 - INFO - Found 3 injuries for Jack Elliott
+
+
+Chicago Fire FC:   9%|▉         | 3/34 [00:10<01:44,  3.38s/it][A[A2025-12-24 11:31:44,184 - INFO - Found 1 injuries for Joel Waterman
+
+
+Chicago Fire FC:  12%|█▏        | 4/34 [00:13<01:41,  3.38s/it][A[A2025-12-24 11:31:47,569 - INFO - Found 4 injuries for Mauricio Pineda
+
+
+Chicago Fire FC:  15%|█▍        | 5/34 [00:16<01:38,  3.38s/it][A[A2025-12-24 11:31:51,068 - INFO - Found 5 injuries for Sam Rogers
+
+
+Chicago Fire FC:  18%|█▊        | 6/34 [00:20<01:35,  3.42s/it][A[A2025-12-24 11:31:54,466 - INFO - Found 2 injuries for Omar González
+
+
+Chicago Fire FC:  21%|██        | 7/34 [00:23<01:32,  3.41s/it][A[A2025-12-24 11:31:57,914 - INFO - Found 1 injuries for Christopher Cupps
+
+
+Chicago Fire FC:  24%|██▎       | 8/34 [00:27<01:29,  3.42s/it][A[A2025-12-24 11:32:01,278 - INFO - Found 1 injuries for Viktor Radojević
+
+
+Chicago Fire FC:  26%|██▋       | 9/34 [00:30<01:25,  3.41s/it][A[A2025-12-24 11:32:04,649 - INFO - Found 5 injuries for Andrew Gutman
+
+
+Chicago Fire FC:  29%|██▉       | 10/34 [00:33<01:21,  3.39s/it][A[A2025-12-24 11:32:08,098 - INFO - Found 5 injuries for Chase Gasper
+
+
+Chicago Fire FC:  32%|███▏      | 11/34 [00:37<01:18,  3.41s/it][A[A2025-12-24 11:32:11,474 - INFO - Found 4 injuries for Leonardo Barroso
+
+
+Chicago Fire FC:  35%|███▌      | 12/34 [00:40<01:14,  3.40s/it][A[A2025-12-24 11:32:14,832 - INFO - Found 2 injuries for Jonathan Dean
+
+
+Chicago Fire FC:  38%|███▊      | 13/34 [00:44<01:11,  3.39s/it][A[A
+
+Chicago Fire FC:  41%|████      | 14/34 [00:47<01:07,  3.38s/it][A[A
+
+Chicago Fire FC:  44%|████▍     | 15/34 [00:50<01:04,  3.37s/it][A[A2025-12-24 11:32:25,088 - INFO - Found 5 injuries for Kellyn Acosta
+
+
+Chicago Fire FC:  47%|████▋     | 16/34 [00:54<01:01,  3.42s/it][A[A
+
+Chicago Fire FC:  50%|█████     | 17/34 [00:57<00:57,  3.41s/it][A[A2025-12-24 11:32:31,882 - INFO - Found 5 injuries for Rominigue Kouamé
+
+
+Chicago Fire FC:  53%|█████▎    | 18/34 [01:01<00:54,  3.41s/it][A[A
+
+Chicago Fire FC:  56%|█████▌    | 19/34 [01:04<00:51,  3.46s/it][A[A
+
+Chicago Fire FC:  59%|█████▉    | 20/34 [01:08<00:48,  3.47s/it][A[A2025-12-24 11:32:42,432 - INFO - Found 4 injuries for Maren Haile-Selassie
+
+
+Chicago Fire FC:  62%|██████▏   | 21/34 [01:11<00:45,  3.47s/it][A[A
+
+Chicago Fire FC:  65%|██████▍   | 22/34 [01:15<00:41,  3.48s/it][A[A2025-12-24 11:32:49,296 - INFO - Found 1 injuries for Brian Gutiérrez
+
+
+Chicago Fire FC:  68%|██████▊   | 23/34 [01:18<00:37,  3.45s/it][A[A2025-12-24 11:32:52,758 - INFO - Found 2 injuries for André Franco
+
+
+Chicago Fire FC:  71%|███████   | 24/34 [01:22<00:34,  3.45s/it][A[A2025-12-24 11:32:56,092 - INFO - Found 1 injuries for David Poreba
+
+
+Chicago Fire FC:  74%|███████▎  | 25/34 [01:25<00:30,  3.42s/it][A[A
+
+Chicago Fire FC:  76%|███████▋  | 26/34 [01:28<00:27,  3.39s/it][A[A2025-12-24 11:33:02,875 - INFO - Found 3 injuries for Jonathan Bamba
+
+
+Chicago Fire FC:  79%|███████▉  | 27/34 [01:32<00:23,  3.41s/it][A[A2025-12-24 11:33:06,245 - INFO - Found 6 injuries for Philip Zinckernagel
+
+
+Chicago Fire FC:  82%|████████▏ | 28/34 [01:35<00:20,  3.40s/it][A[A2025-12-24 11:33:09,700 - INFO - Found 4 injuries for Chris Mueller
+
+
+Chicago Fire FC:  85%|████████▌ | 29/34 [01:39<00:17,  3.42s/it][A[A2025-12-24 11:33:13,065 - INFO - Found 1 injuries for Dylan Borso
+
+
+Chicago Fire FC:  88%|████████▊ | 30/34 [01:42<00:13,  3.40s/it][A[A2025-12-24 11:33:16,422 - INFO - Found 3 injuries for Hugo Cuypers
+
+
+Chicago Fire FC:  91%|█████████ | 31/34 [01:45<00:10,  3.39s/it][A[A2025-12-24 11:33:19,803 - INFO - Found 1 injuries for Tom Barlow
+
+
+Chicago Fire FC:  94%|█████████▍| 32/34 [01:49<00:06,  3.39s/it][A[A
+
+Chicago Fire FC:  97%|█████████▋| 33/34 [01:52<00:03,  3.51s/it][A[A
+
+Chicago Fire FC: 100%|██████████| 34/34 [01:56<00:00,  3.49s/it][A[A
+
+                                                                [A[A
+Teams (2024):  40%|████      | 12/30 [22:07<34:50, 116.14s/it][A2025-12-24 11:33:30,038 - INFO - Processing team: Charlotte FC
+2025-12-24 11:33:34,419 - INFO - Found 32 players
+
+
+Charlotte FC:   0%|          | 0/32 [00:00<?, ?it/s][A[A2025-12-24 11:33:38,000 - INFO - Found 2 injuries for Drake Callender
+
+
+Charlotte FC:   3%|▎         | 1/32 [00:03<01:51,  3.58s/it][A[A2025-12-24 11:33:41,405 - INFO - Found 1 injuries for Kristijan Kahlina
+
+
+Charlotte FC:   6%|▋         | 2/32 [00:06<01:44,  3.48s/it][A[A2025-12-24 11:33:45,015 - INFO - Found 1 injuries for David Bingham
+
+
+Charlotte FC:   9%|▉         | 3/32 [00:10<01:42,  3.54s/it][A[A
+
+Charlotte FC:  12%|█▎        | 4/32 [00:14<01:40,  3.59s/it][A[A
+
+Charlotte FC:  16%|█▌        | 5/32 [00:17<01:36,  3.59s/it][A[A2025-12-24 11:33:55,641 - INFO - Found 1 injuries for Adilson Malanda
+
+
+Charlotte FC:  19%|█▉        | 6/32 [00:21<01:31,  3.51s/it][A[A
+
+Charlotte FC:  22%|██▏       | 7/32 [00:24<01:26,  3.46s/it][A[A2025-12-24 11:34:02,465 - INFO - Found 5 injuries for Bill Tuiloma
+
+
+Charlotte FC:  25%|██▌       | 8/32 [00:28<01:23,  3.46s/it][A[A2025-12-24 11:34:05,810 - INFO - Found 6 injuries for Tim Ream
+
+
+Charlotte FC:  28%|██▊       | 9/32 [00:31<01:18,  3.43s/it][A[A
+
+Charlotte FC:  31%|███▏      | 10/32 [00:34<01:14,  3.40s/it][A[A2025-12-24 11:34:12,497 - INFO - Found 2 injuries for Harry Toffolo
+
+
+Charlotte FC:  34%|███▍      | 11/32 [00:38<01:11,  3.38s/it][A[A2025-12-24 11:34:16,022 - INFO - Found 1 injuries for Jahlane Forbes
+
+
+Charlotte FC:  38%|███▊      | 12/32 [00:41<01:08,  3.43s/it][A[A
+
+Charlotte FC:  41%|████      | 13/32 [00:44<01:04,  3.39s/it][A[A2025-12-24 11:34:22,699 - INFO - Found 2 injuries for Jahkeele Marshall-Rutty
+
+
+Charlotte FC:  44%|████▍     | 14/32 [00:48<01:00,  3.38s/it][A[A2025-12-24 11:34:26,098 - INFO - Found 1 injuries for Nathan Byrne
+
+
+Charlotte FC:  47%|████▋     | 15/32 [00:51<00:57,  3.39s/it][A[A
+
+Charlotte FC:  50%|█████     | 16/32 [00:55<00:54,  3.38s/it][A[A2025-12-24 11:34:32,881 - INFO - Found 1 injuries for Djibril Diani
+
+
+Charlotte FC:  53%|█████▎    | 17/32 [00:58<00:50,  3.39s/it][A[A2025-12-24 11:34:36,188 - INFO - Found 9 injuries for Ashley Westwood
+
+
+Charlotte FC:  56%|█████▋    | 18/32 [01:01<00:47,  3.37s/it][A[A
+
+Charlotte FC:  59%|█████▉    | 19/32 [01:05<00:43,  3.36s/it][A[A
+
+Charlotte FC:  62%|██████▎   | 20/32 [01:08<00:40,  3.37s/it][A[A2025-12-24 11:34:46,382 - INFO - Found 2 injuries for Nikola Petković
+
+
+Charlotte FC:  66%|██████▌   | 21/32 [01:11<00:37,  3.39s/it][A[A2025-12-24 11:34:49,864 - INFO - Found 5 injuries for Eryk Williamson
+
+
+Charlotte FC:  69%|██████▉   | 22/32 [01:15<00:34,  3.42s/it][A[A2025-12-24 11:34:53,263 - INFO - Found 6 injuries for Pep Biel
+
+
+Charlotte FC:  72%|███████▏  | 23/32 [01:18<00:30,  3.41s/it][A[A2025-12-24 11:34:56,708 - INFO - Found 15 injuries for Wilfried Zaha
+
+
+Charlotte FC:  75%|███████▌  | 24/32 [01:22<00:27,  3.42s/it][A[A
+
+Charlotte FC:  78%|███████▊  | 25/32 [01:25<00:23,  3.41s/it][A[A2025-12-24 11:35:03,492 - INFO - Found 2 injuries for Liel Abada
+
+
+Charlotte FC:  81%|████████▏ | 26/32 [01:29<00:20,  3.41s/it][A[A2025-12-24 11:35:06,814 - INFO - Found 1 injuries for Kerwin Vargas
+
+
+Charlotte FC:  84%|████████▍ | 27/32 [01:32<00:16,  3.38s/it][A[A2025-12-24 11:35:10,322 - INFO - Found 2 injuries for Tyger Smalls
+
+
+Charlotte FC:  88%|████████▊ | 28/32 [01:35<00:13,  3.42s/it][A[A2025-12-24 11:35:13,718 - INFO - Found 1 injuries for Brandon Cambridge
+
+
+Charlotte FC:  91%|█████████ | 29/32 [01:39<00:10,  3.41s/it][A[A
+
+Charlotte FC:  94%|█████████▍| 30/32 [01:42<00:06,  3.43s/it][A[A2025-12-24 11:35:20,622 - INFO - Found 1 injuries for Idan Toklomati
+
+
+Charlotte FC:  97%|█████████▋| 31/32 [01:46<00:03,  3.43s/it][A[A2025-12-24 11:35:23,929 - INFO - Found 3 injuries for Archie Goodwin
+
+
+Charlotte FC: 100%|██████████| 32/32 [01:49<00:00,  3.39s/it][A[A
+
+                                                             [A[A
+Teams (2024):  43%|████▎     | 13/30 [24:04<32:58, 116.37s/it][A2025-12-24 11:35:26,937 - INFO - Processing team: Austin FC
+2025-12-24 11:35:31,573 - INFO - Found 29 players
+
+
+Austin FC:   0%|          | 0/29 [00:00<?, ?it/s][A[A2025-12-24 11:35:34,871 - INFO - Found 3 injuries for Brad Stuver
+
+
+Austin FC:   3%|▎         | 1/29 [00:03<01:32,  3.30s/it][A[A2025-12-24 11:35:38,223 - INFO - Found 1 injuries for Damian Las
+
+
+Austin FC:   7%|▋         | 2/29 [00:06<01:29,  3.33s/it][A[A2025-12-24 11:35:41,642 - INFO - Found 5 injuries for Oleksandr Svatok
+
+
+Austin FC:  10%|█         | 3/29 [00:10<01:27,  3.37s/it][A[A2025-12-24 11:35:45,014 - INFO - Found 4 injuries for Julio Cascante
+
+
+Austin FC:  14%|█▍        | 4/29 [00:13<01:24,  3.37s/it][A[A2025-12-24 11:35:48,428 - INFO - Found 1 injuries for Mateja Djordjević
+
+
+Austin FC:  17%|█▋        | 5/29 [00:16<01:21,  3.39s/it][A[A2025-12-24 11:35:51,873 - INFO - Found 5 injuries for Brendan Hines-Ike
+
+
+Austin FC:  21%|██        | 6/29 [00:20<01:18,  3.41s/it][A[A
+
+Austin FC:  24%|██▍       | 7/29 [00:23<01:14,  3.38s/it][A[A2025-12-24 11:35:58,618 - INFO - Found 1 injuries for Joseph Rosales
+
+
+Austin FC:  28%|██▊       | 8/29 [00:27<01:11,  3.39s/it][A[A
+
+Austin FC:  31%|███       | 9/29 [00:30<01:07,  3.37s/it][A[A2025-12-24 11:36:05,489 - INFO - Found 2 injuries for Žan Kolmanič
+
+
+Austin FC:  34%|███▍      | 10/29 [00:33<01:05,  3.42s/it][A[A2025-12-24 11:36:08,936 - INFO - Found 11 injuries for Mikkel Desler
+
+
+Austin FC:  38%|███▊      | 11/29 [00:37<01:01,  3.43s/it][A[A2025-12-24 11:36:12,319 - INFO - Found 2 injuries for Jon Gallagher
+
+
+Austin FC:  41%|████▏     | 12/29 [00:40<00:58,  3.42s/it][A[A
+
+Austin FC:  45%|████▍     | 13/29 [00:44<00:55,  3.45s/it][A[A2025-12-24 11:36:19,250 - INFO - Found 4 injuries for Ilie Sánchez
+
+
+Austin FC:  48%|████▊     | 14/29 [00:47<00:51,  3.44s/it][A[A2025-12-24 11:36:22,610 - INFO - Found 1 injuries for Owen Wolff
+
+
+Austin FC:  52%|█████▏    | 15/29 [00:51<00:47,  3.41s/it][A[A2025-12-24 11:36:25,970 - INFO - Found 1 injuries for Daniel Pereira
+
+
+Austin FC:  55%|█████▌    | 16/29 [00:54<00:44,  3.40s/it][A[A2025-12-24 11:36:29,384 - INFO - Found 2 injuries for Besard Šabović
+
+
+Austin FC:  59%|█████▊    | 17/29 [00:57<00:40,  3.40s/it][A[A2025-12-24 11:36:32,748 - INFO - Found 4 injuries for Nicolás Dubersarsky
+
+
+Austin FC:  62%|██████▏   | 18/29 [01:01<00:37,  3.39s/it][A[A
+
+Austin FC:  66%|██████▌   | 19/29 [01:04<00:33,  3.39s/it][A[A2025-12-24 11:36:39,543 - INFO - Found 1 injuries for Micah Burton
+
+
+Austin FC:  69%|██████▉   | 20/29 [01:07<00:30,  3.40s/it][A[A2025-12-24 11:36:43,312 - INFO - Found 5 injuries for Myrto Uzuni
+
+
+Austin FC:  72%|███████▏  | 21/29 [01:11<00:28,  3.51s/it][A[A2025-12-24 11:36:46,797 - INFO - Found 3 injuries for Jayden Nelson
+
+
+Austin FC:  76%|███████▌  | 22/29 [01:15<00:24,  3.50s/it][A[A2025-12-24 11:36:50,268 - INFO - Found 4 injuries for Robert Taylor
+
+
+Austin FC:  79%|███████▉  | 23/29 [01:18<00:20,  3.49s/it][A[A2025-12-24 11:36:53,671 - INFO - Found 1 injuries for CJ Fodrey
+
+
+Austin FC:  83%|████████▎ | 24/29 [01:22<00:17,  3.47s/it][A[A2025-12-24 11:36:57,171 - INFO - Found 2 injuries for Osman Bukari
+
+
+Austin FC:  86%|████████▌ | 25/29 [01:25<00:13,  3.48s/it][A[A2025-12-24 11:37:00,435 - INFO - Found 1 injuries for Jáder Obrian
+
+
+Austin FC:  90%|████████▉ | 26/29 [01:28<00:10,  3.41s/it][A[A
+
+Austin FC:  93%|█████████▎| 27/29 [01:32<00:06,  3.40s/it][A[A2025-12-24 11:37:07,231 - INFO - Found 6 injuries for Brandon Vazquez
+
+
+Austin FC:  97%|█████████▋| 28/29 [01:35<00:03,  3.41s/it][A[A2025-12-24 11:37:10,734 - INFO - Found 12 injuries for Diego Rubio
+
+
+Austin FC: 100%|██████████| 29/29 [01:39<00:00,  3.44s/it][A[A
+
+                                                          [A[A
+Teams (2024):  47%|████▋     | 14/30 [25:50<30:15, 113.48s/it][A2025-12-24 11:37:13,742 - INFO - Processing team: Orlando City SC
+2025-12-24 11:37:18,113 - INFO - Found 27 players
+
+
+Orlando City SC:   0%|          | 0/27 [00:00<?, ?it/s][A[A2025-12-24 11:37:21,645 - INFO - Found 4 injuries for Pedro Gallese
+
+
+Orlando City SC:   4%|▎         | 1/27 [00:03<01:31,  3.53s/it][A[A
+
+Orlando City SC:   7%|▋         | 2/27 [00:06<01:24,  3.39s/it][A[A
+
+Orlando City SC:  11%|█         | 3/27 [00:10<01:21,  3.38s/it][A[A2025-12-24 11:37:31,672 - INFO - Found 4 injuries for David Brekalo
+
+
+Orlando City SC:  15%|█▍        | 4/27 [00:13<01:17,  3.38s/it][A[A
+
+Orlando City SC:  19%|█▊        | 5/27 [00:17<01:15,  3.42s/it][A[A2025-12-24 11:37:38,598 - INFO - Found 3 injuries for Robin Jansson
+
+
+Orlando City SC:  22%|██▏       | 6/27 [00:20<01:11,  3.42s/it][A[A2025-12-24 11:37:42,122 - INFO - Found 6 injuries for Adrián Marín
+
+
+Orlando City SC:  26%|██▌       | 7/27 [00:24<01:09,  3.46s/it][A[A
+
+Orlando City SC:  30%|██▉       | 8/27 [00:27<01:05,  3.45s/it][A[A
+
+Orlando City SC:  33%|███▎      | 9/27 [00:30<01:01,  3.44s/it][A[A
+
+Orlando City SC:  37%|███▋      | 10/27 [00:34<00:58,  3.43s/it][A[A2025-12-24 11:37:55,793 - INFO - Found 4 injuries for César Araújo
+
+
+Orlando City SC:  41%|████      | 11/27 [00:37<00:54,  3.42s/it][A[A2025-12-24 11:37:59,191 - INFO - Found 1 injuries for Wilder Cartagena
+
+
+Orlando City SC:  44%|████▍     | 12/27 [00:41<00:51,  3.42s/it][A[A2025-12-24 11:38:02,566 - INFO - Found 2 injuries for Joran Gerbet
+
+
+Orlando City SC:  48%|████▊     | 13/27 [00:44<00:47,  3.40s/it][A[A
+
+Orlando City SC:  52%|█████▏    | 14/27 [00:47<00:44,  3.39s/it][A[A
+
+Orlando City SC:  56%|█████▌    | 15/27 [00:51<00:40,  3.38s/it][A[A2025-12-24 11:38:12,660 - INFO - Found 5 injuries for Eduard Atuesta
+
+
+Orlando City SC:  59%|█████▉    | 16/27 [00:54<00:37,  3.38s/it][A[A
+
+Orlando City SC:  63%|██████▎   | 17/27 [00:57<00:33,  3.38s/it][A[A
+
+Orlando City SC:  67%|██████▋   | 18/27 [01:01<00:31,  3.48s/it][A[A2025-12-24 11:38:23,128 - INFO - Found 2 injuries for Tyrese Spicer
+
+
+Orlando City SC:  70%|███████   | 19/27 [01:05<00:27,  3.45s/it][A[A2025-12-24 11:38:26,471 - INFO - Found 1 injuries for Yutaro Tsukada
+
+
+Orlando City SC:  74%|███████▍  | 20/27 [01:08<00:23,  3.42s/it][A[A2025-12-24 11:38:29,879 - INFO - Found 5 injuries for Marco Pašalić
+
+
+Orlando City SC:  78%|███████▊  | 21/27 [01:11<00:20,  3.41s/it][A[A2025-12-24 11:38:33,318 - INFO - Found 2 injuries for Nicolás Rodríguez
+
+
+Orlando City SC:  81%|████████▏ | 22/27 [01:15<00:17,  3.42s/it][A[A2025-12-24 11:38:36,682 - INFO - Found 1 injuries for Gustavo Caraballo
+
+
+Orlando City SC:  85%|████████▌ | 23/27 [01:18<00:13,  3.40s/it][A[A
+
+Orlando City SC:  89%|████████▉ | 24/27 [01:21<00:10,  3.39s/it][A[A2025-12-24 11:38:43,849 - INFO - Found 5 injuries for Duncan McGuire
+
+
+Orlando City SC:  93%|█████████▎| 25/27 [01:25<00:07,  3.52s/it][A[A2025-12-24 11:38:47,269 - INFO - Found 13 injuries for Luis Muriel
+
+
+Orlando City SC:  96%|█████████▋| 26/27 [01:29<00:03,  3.49s/it][A[A2025-12-24 11:38:50,665 - INFO - Found 3 injuries for Favian Loyola
+
+
+Orlando City SC: 100%|██████████| 27/27 [01:32<00:00,  3.46s/it][A[A
+
+                                                                [A[A
+Teams (2024):  50%|█████     | 15/30 [27:30<27:20, 109.40s/it][A2025-12-24 11:38:53,673 - INFO - Processing team: Colorado Rapids
+2025-12-24 11:38:58,035 - INFO - Found 32 players
+
+
+Colorado Rapids:   0%|          | 0/32 [00:00<?, ?it/s][A[A2025-12-24 11:39:01,401 - INFO - Found 12 injuries for Zack Steffen
+
+
+Colorado Rapids:   3%|▎         | 1/32 [00:03<01:44,  3.37s/it][A[A
+
+Colorado Rapids:   6%|▋         | 2/32 [00:06<01:41,  3.37s/it][A[A2025-12-24 11:39:08,157 - INFO - Found 1 injuries for Adam Beaudry
+
+
+Colorado Rapids:   9%|▉         | 3/32 [00:10<01:37,  3.38s/it][A[A2025-12-24 11:39:12,180 - INFO - Found 7 injuries for Rob Holding
+
+
+Colorado Rapids:  12%|█▎        | 4/32 [00:14<01:41,  3.63s/it][A[A2025-12-24 11:39:15,535 - INFO - Found 3 injuries for Andreas Maxsø
+
+
+Colorado Rapids:  16%|█▌        | 5/32 [00:17<01:35,  3.53s/it][A[A2025-12-24 11:39:18,933 - INFO - Found 1 injuries for Ian Murphy
+
+
+Colorado Rapids:  19%|█▉        | 6/32 [00:20<01:30,  3.49s/it][A[A
+
+Colorado Rapids:  22%|██▏       | 7/32 [00:24<01:26,  3.45s/it][A[A
+
+Colorado Rapids:  25%|██▌       | 8/32 [00:27<01:21,  3.39s/it][A[A
+
+Colorado Rapids:  28%|██▊       | 9/32 [00:31<01:18,  3.42s/it][A[A2025-12-24 11:39:32,442 - INFO - Found 9 injuries for Sam Vines
+
+
+Colorado Rapids:  31%|███▏      | 10/32 [00:34<01:15,  3.41s/it][A[A
+
+Colorado Rapids:  34%|███▍      | 11/32 [00:37<01:10,  3.37s/it][A[A2025-12-24 11:39:39,129 - INFO - Found 2 injuries for Jackson Travis
+
+
+Colorado Rapids:  38%|███▊      | 12/32 [00:41<01:07,  3.38s/it][A[A2025-12-24 11:39:42,523 - INFO - Found 6 injuries for Reggie Cannon
+
+
+Colorado Rapids:  41%|████      | 13/32 [00:44<01:04,  3.38s/it][A[A2025-12-24 11:39:45,976 - INFO - Found 3 injuries for Keegan Rosenberry
+
+
+Colorado Rapids:  44%|████▍     | 14/32 [00:47<01:01,  3.40s/it][A[A2025-12-24 11:39:49,416 - INFO - Found 7 injuries for Josh Atencio
+
+
+Colorado Rapids:  47%|████▋     | 15/32 [00:51<00:58,  3.42s/it][A[A
+
+Colorado Rapids:  50%|█████     | 16/32 [00:54<00:54,  3.39s/it][A[A
+
+Colorado Rapids:  53%|█████▎    | 17/32 [00:58<00:50,  3.38s/it][A[A2025-12-24 11:39:59,507 - INFO - Found 1 injuries for Oliver Larraz
+
+
+Colorado Rapids:  56%|█████▋    | 18/32 [01:01<00:47,  3.39s/it][A[A2025-12-24 11:40:03,076 - INFO - Found 8 injuries for Connor Ronan
+
+
+Colorado Rapids:  59%|█████▉    | 19/32 [01:05<00:44,  3.44s/it][A[A2025-12-24 11:40:06,429 - INFO - Found 1 injuries for Wayne Frederick
+
+
+Colorado Rapids:  62%|██████▎   | 20/32 [01:08<00:40,  3.41s/it][A[A2025-12-24 11:40:09,756 - INFO - Found 1 injuries for Ali Fadal
+
+
+Colorado Rapids:  66%|██████▌   | 21/32 [01:11<00:37,  3.39s/it][A[A2025-12-24 11:40:13,176 - INFO - Found 1 injuries for Paxten Aaronson
+
+
+Colorado Rapids:  69%|██████▉   | 22/32 [01:15<00:33,  3.40s/it][A[A2025-12-24 11:40:16,569 - INFO - Found 4 injuries for Cole Bassett
+
+
+Colorado Rapids:  72%|███████▏  | 23/32 [01:18<00:30,  3.40s/it][A[A2025-12-24 11:40:20,112 - INFO - Found 5 injuries for Theodore Ku-DiPietro
+
+
+Colorado Rapids:  75%|███████▌  | 24/32 [01:22<00:27,  3.44s/it][A[A2025-12-24 11:40:23,532 - INFO - Found 1 injuries for Alexis Manyoma
+
+
+Colorado Rapids:  78%|███████▊  | 25/32 [01:25<00:24,  3.43s/it][A[A
+
+Colorado Rapids:  81%|████████▏ | 26/32 [01:29<00:20,  3.47s/it][A[A
+
+Colorado Rapids:  84%|████████▍ | 27/32 [01:32<00:17,  3.43s/it][A[A2025-12-24 11:40:33,772 - INFO - Found 1 injuries for Calvin Harris
+
+
+Colorado Rapids:  88%|████████▊ | 28/32 [01:35<00:13,  3.41s/it][A[A
+
+Colorado Rapids:  91%|█████████ | 29/32 [01:39<00:10,  3.40s/it][A[A
+
+Colorado Rapids:  94%|█████████▍| 30/32 [01:42<00:06,  3.39s/it][A[A2025-12-24 11:40:43,913 - INFO - Found 1 injuries for Rafael Navarro
+
+
+Colorado Rapids:  97%|█████████▋| 31/32 [01:45<00:03,  3.39s/it][A[A2025-12-24 11:40:47,323 - INFO - Found 1 injuries for Darren Yapi
+
+
+Colorado Rapids: 100%|██████████| 32/32 [01:49<00:00,  3.40s/it][A[A
+
+                                                                [A[A
+Teams (2024):  53%|█████▎    | 16/30 [29:27<26:02, 111.58s/it][A2025-12-24 11:40:50,331 - INFO - Processing team: Minnesota United FC
+2025-12-24 11:40:54,681 - INFO - Found 29 players
+
+
+Minnesota United FC:   0%|          | 0/29 [00:00<?, ?it/s][A[A2025-12-24 11:40:58,097 - INFO - Found 1 injuries for Dayne St. Clair
+
+
+Minnesota United FC:   3%|▎         | 1/29 [00:03<01:35,  3.42s/it][A[A
+
+Minnesota United FC:   7%|▋         | 2/29 [00:06<01:31,  3.39s/it][A[A2025-12-24 11:41:04,995 - INFO - Found 1 injuries for Nicolás Romero
+
+
+Minnesota United FC:  10%|█         | 3/29 [00:10<01:29,  3.45s/it][A[A
+
+Minnesota United FC:  14%|█▍        | 4/29 [00:13<01:27,  3.48s/it][A[A2025-12-24 11:41:11,888 - INFO - Found 1 injuries for Morris Duggan
+
+
+Minnesota United FC:  17%|█▋        | 5/29 [00:17<01:22,  3.44s/it][A[A2025-12-24 11:41:15,278 - INFO - Found 2 injuries for Kipp Keller
+
+
+Minnesota United FC:  21%|██        | 6/29 [00:20<01:18,  3.42s/it][A[A2025-12-24 11:41:18,665 - INFO - Found 1 injuries for Michael Boxall
+
+
+Minnesota United FC:  24%|██▍       | 7/29 [00:23<01:15,  3.41s/it][A[A
+
+Minnesota United FC:  28%|██▊       | 8/29 [00:27<01:14,  3.54s/it][A[A
+
+Minnesota United FC:  31%|███       | 9/29 [00:31<01:09,  3.48s/it][A[A
+
+Minnesota United FC:  34%|███▍      | 10/29 [00:34<01:05,  3.44s/it][A[A2025-12-24 11:41:32,571 - INFO - Found 5 injuries for D.J. Taylor
+
+
+Minnesota United FC:  38%|███▊      | 11/29 [00:37<01:01,  3.42s/it][A[A2025-12-24 11:41:36,321 - INFO - Found 6 injuries for Wil Trapp
+
+
+Minnesota United FC:  41%|████▏     | 12/29 [00:41<00:59,  3.52s/it][A[A2025-12-24 11:41:39,790 - INFO - Found 1 injuries for Carlos Harvey
+
+
+Minnesota United FC:  45%|████▍     | 13/29 [00:45<00:56,  3.51s/it][A[A
+
+Minnesota United FC:  48%|████▊     | 14/29 [00:48<00:52,  3.52s/it][A[A
+
+Minnesota United FC:  52%|█████▏    | 15/29 [00:52<00:48,  3.48s/it][A[A2025-12-24 11:41:50,120 - INFO - Found 1 injuries for Owen Gene
+
+
+Minnesota United FC:  55%|█████▌    | 16/29 [00:55<00:44,  3.45s/it][A[A2025-12-24 11:41:53,470 - INFO - Found 1 injuries for Peter Stroud
+
+
+Minnesota United FC:  59%|█████▊    | 17/29 [00:58<00:41,  3.42s/it][A[A2025-12-24 11:41:57,232 - INFO - Found 5 injuries for Robin Lod
+
+
+Minnesota United FC:  62%|██████▏   | 18/29 [01:02<00:38,  3.52s/it][A[A2025-12-24 11:42:00,582 - INFO - Found 1 injuries for Ho-yeon Jung
+
+
+Minnesota United FC:  66%|██████▌   | 19/29 [01:05<00:34,  3.47s/it][A[A2025-12-24 11:42:03,936 - INFO - Found 1 injuries for Julian Gressel
+
+
+Minnesota United FC:  69%|██████▉   | 20/29 [01:09<00:30,  3.44s/it][A[A2025-12-24 11:42:07,415 - INFO - Found 8 injuries for Dominik Fitz
+
+
+Minnesota United FC:  72%|███████▏  | 21/29 [01:12<00:27,  3.45s/it][A[A
+
+Minnesota United FC:  76%|███████▌  | 22/29 [01:16<00:24,  3.43s/it][A[A2025-12-24 11:42:14,218 - INFO - Found 5 injuries for Samuel Shashoua
+
+
+Minnesota United FC:  79%|███████▉  | 23/29 [01:19<00:20,  3.43s/it][A[A
+
+Minnesota United FC:  83%|████████▎ | 24/29 [01:22<00:16,  3.38s/it][A[A2025-12-24 11:42:20,875 - INFO - Found 2 injuries for Bongokuhle Hlongwane
+
+
+Minnesota United FC:  86%|████████▌ | 25/29 [01:26<00:13,  3.38s/it][A[A
+
+Minnesota United FC:  90%|████████▉ | 26/29 [01:29<00:10,  3.38s/it][A[A2025-12-24 11:42:27,896 - INFO - Found 4 injuries for Kelvin Yeboah
+
+
+Minnesota United FC:  93%|█████████▎| 27/29 [01:33<00:06,  3.46s/it][A[A
+
+Minnesota United FC:  97%|█████████▋| 28/29 [01:36<00:03,  3.42s/it][A[A
+
+Minnesota United FC: 100%|██████████| 29/29 [01:39<00:00,  3.40s/it][A[A
+
+                                                                    [A[A
+Teams (2024):  57%|█████▋    | 17/30 [31:14<23:53, 110.28s/it][A2025-12-24 11:42:37,574 - INFO - Processing team: Nashville SC
+2025-12-24 11:42:41,839 - INFO - Found 33 players
+
+
+Nashville SC:   0%|          | 0/33 [00:00<?, ?it/s][A[A2025-12-24 11:42:45,238 - INFO - Found 1 injuries for Joe Willis
+
+
+Nashville SC:   3%|▎         | 1/33 [00:03<01:48,  3.40s/it][A[A
+
+Nashville SC:   6%|▌         | 2/33 [00:06<01:48,  3.50s/it][A[A
+
+Nashville SC:   9%|▉         | 3/33 [00:10<01:43,  3.45s/it][A[A2025-12-24 11:42:55,808 - INFO - Found 1 injuries for Jack Maher
+
+
+Nashville SC:  12%|█▏        | 4/33 [00:13<01:41,  3.51s/it][A[A2025-12-24 11:42:59,498 - INFO - Found 8 injuries for Walker Zimmerman
+
+
+Nashville SC:  15%|█▌        | 5/33 [00:17<01:40,  3.58s/it][A[A
+
+Nashville SC:  18%|█▊        | 6/33 [00:20<01:34,  3.49s/it][A[A
+
+Nashville SC:  21%|██        | 7/33 [00:24<01:30,  3.47s/it][A[A
+
+Nashville SC:  24%|██▍       | 8/33 [00:27<01:26,  3.46s/it][A[A
+
+Nashville SC:  27%|██▋       | 9/33 [00:31<01:23,  3.46s/it][A[A
+
+Nashville SC:  30%|███       | 10/33 [00:34<01:18,  3.42s/it][A[A2025-12-24 11:43:19,963 - INFO - Found 5 injuries for Daniel Lovitz
+
+
+Nashville SC:  33%|███▎      | 11/33 [00:38<01:15,  3.44s/it][A[A2025-12-24 11:43:23,340 - INFO - Found 2 injuries for Tate Schmitt
+
+
+Nashville SC:  36%|███▋      | 12/33 [00:41<01:11,  3.42s/it][A[A2025-12-24 11:43:26,714 - INFO - Found 1 injuries for Taylor Washington
+
+
+Nashville SC:  39%|███▉      | 13/33 [00:44<01:08,  3.41s/it][A[A
+
+Nashville SC:  42%|████▏     | 14/33 [00:48<01:04,  3.39s/it][A[A2025-12-24 11:43:33,759 - INFO - Found 15 injuries for Andy Nájar
+
+
+Nashville SC:  45%|████▌     | 15/33 [00:51<01:02,  3.48s/it][A[A2025-12-24 11:43:37,153 - INFO - Found 3 injuries for Julian Gaines
+
+
+Nashville SC:  48%|████▊     | 16/33 [00:55<00:58,  3.45s/it][A[A2025-12-24 11:43:40,684 - INFO - Found 11 injuries for Gastón Brugman
+
+
+Nashville SC:  52%|█████▏    | 17/33 [00:58<00:55,  3.48s/it][A[A
+
+Nashville SC:  55%|█████▍    | 18/33 [01:02<00:51,  3.44s/it][A[A2025-12-24 11:43:47,506 - INFO - Found 2 injuries for Patrick Yazbek
+
+
+Nashville SC:  58%|█████▊    | 19/33 [01:05<00:48,  3.45s/it][A[A2025-12-24 11:43:50,776 - INFO - Found 2 injuries for Edvard Tagseth
+
+
+Nashville SC:  61%|██████    | 20/33 [01:08<00:44,  3.40s/it][A[A2025-12-24 11:43:54,165 - INFO - Found 7 injuries for Bryan Acosta
+
+
+Nashville SC:  64%|██████▎   | 21/33 [01:12<00:40,  3.39s/it][A[A
+
+Nashville SC:  67%|██████▋   | 22/33 [01:15<00:37,  3.43s/it][A[A2025-12-24 11:44:01,069 - INFO - Found 3 injuries for Hany Mukhtar
+
+
+Nashville SC:  70%|██████▉   | 23/33 [01:19<00:34,  3.42s/it][A[A2025-12-24 11:44:04,443 - INFO - Found 3 injuries for Jacob Shaffelburg
+
+
+Nashville SC:  73%|███████▎  | 24/33 [01:22<00:30,  3.40s/it][A[A2025-12-24 11:44:07,783 - INFO - Found 1 injuries for Jonathan Pérez
+
+
+Nashville SC:  76%|███████▌  | 25/33 [01:25<00:27,  3.39s/it][A[A2025-12-24 11:44:11,179 - INFO - Found 9 injuries for Tyler Boyd
+
+
+Nashville SC:  79%|███████▉  | 26/33 [01:29<00:23,  3.39s/it][A[A2025-12-24 11:44:14,553 - INFO - Found 1 injuries for Ahmed Qasem
+
+
+Nashville SC:  82%|████████▏ | 27/33 [01:32<00:20,  3.38s/it][A[A2025-12-24 11:44:17,929 - INFO - Found 3 injuries for Alex Muyl
+
+
+Nashville SC:  85%|████████▍ | 28/33 [01:36<00:16,  3.38s/it][A[A2025-12-24 11:44:21,325 - INFO - Found 5 injuries for Sam Surridge
+
+
+Nashville SC:  88%|████████▊ | 29/33 [01:39<00:13,  3.39s/it][A[A2025-12-24 11:44:24,885 - INFO - Found 1 injuries for Woobens Pacius
+
+
+Nashville SC:  91%|█████████ | 30/33 [01:43<00:10,  3.44s/it][A[A2025-12-24 11:44:28,298 - INFO - Found 4 injuries for Teal Bunbury
+
+
+Nashville SC:  94%|█████████▍| 31/33 [01:46<00:06,  3.43s/it][A[A
+
+Nashville SC:  97%|█████████▋| 32/33 [01:49<00:03,  3.40s/it][A[A2025-12-24 11:44:35,016 - INFO - Found 1 injuries for Maximus Ekk
+
+
+Nashville SC: 100%|██████████| 33/33 [01:53<00:00,  3.40s/it][A[A
+
+                                                             [A[A
+Teams (2024):  60%|██████    | 18/30 [33:15<22:40, 113.33s/it][A2025-12-24 11:44:38,023 - INFO - Processing team: Philadelphia Union
+2025-12-24 11:44:41,895 - INFO - Found 30 players
+
+
+Philadelphia Union:   0%|          | 0/30 [00:00<?, ?it/s][A[A2025-12-24 11:44:45,396 - INFO - Found 11 injuries for Andre Blake
+
+
+Philadelphia Union:   3%|▎         | 1/30 [00:03<01:41,  3.50s/it][A[A
+
+Philadelphia Union:   7%|▋         | 2/30 [00:06<01:36,  3.44s/it][A[A
+
+Philadelphia Union:  10%|█         | 3/30 [00:10<01:32,  3.44s/it][A[A2025-12-24 11:44:56,012 - INFO - Found 1 injuries for George Marks
+
+
+Philadelphia Union:  13%|█▎        | 4/30 [00:14<01:32,  3.57s/it][A[A2025-12-24 11:44:59,435 - INFO - Found 4 injuries for Ian Glavinovich
+
+
+Philadelphia Union:  17%|█▋        | 5/30 [00:17<01:27,  3.52s/it][A[A
+
+Philadelphia Union:  20%|██        | 6/30 [00:20<01:23,  3.47s/it][A[A
+
+Philadelphia Union:  23%|██▎       | 7/30 [00:24<01:19,  3.45s/it][A[A2025-12-24 11:45:09,527 - INFO - Found 7 injuries for Kai Wagner
+
+
+Philadelphia Union:  27%|██▋       | 8/30 [00:27<01:14,  3.41s/it][A[A2025-12-24 11:45:12,906 - INFO - Found 1 injuries for Isaiah LeFlore
+
+
+Philadelphia Union:  30%|███       | 9/30 [00:31<01:11,  3.40s/it][A[A2025-12-24 11:45:16,282 - INFO - Found 1 injuries for Nathan Harriel
+
+
+Philadelphia Union:  33%|███▎      | 10/30 [00:34<01:07,  3.39s/it][A[A2025-12-24 11:45:19,625 - INFO - Found 1 injuries for Frankie Westfield
+
+
+Philadelphia Union:  37%|███▋      | 11/30 [00:37<01:04,  3.38s/it][A[A2025-12-24 11:45:23,006 - INFO - Found 6 injuries for Olivier Mbaizo
+
+
+Philadelphia Union:  40%|████      | 12/30 [00:41<01:00,  3.38s/it][A[A
+
+Philadelphia Union:  43%|████▎     | 13/30 [00:44<00:57,  3.36s/it][A[A2025-12-24 11:45:29,882 - INFO - Found 3 injuries for Jesús Bueno
+
+
+Philadelphia Union:  47%|████▋     | 14/30 [00:47<00:54,  3.42s/it][A[A
+
+Philadelphia Union:  50%|█████     | 15/30 [00:51<00:51,  3.40s/it][A[A2025-12-24 11:45:36,560 - INFO - Found 2 injuries for Quinn Sullivan
+
+
+Philadelphia Union:  53%|█████▎    | 16/30 [00:54<00:47,  3.38s/it][A[A
+
+Philadelphia Union:  57%|█████▋    | 17/30 [00:58<00:44,  3.39s/it][A[A2025-12-24 11:45:43,538 - INFO - Found 5 injuries for Ben Bender
+
+
+Philadelphia Union:  60%|██████    | 18/30 [01:01<00:41,  3.44s/it][A[A2025-12-24 11:45:47,011 - INFO - Found 10 injuries for Alejandro Bedoya
+
+
+Philadelphia Union:  63%|██████▎   | 19/30 [01:05<00:37,  3.45s/it][A[A
+
+Philadelphia Union:  67%|██████▋   | 20/30 [01:08<00:34,  3.42s/it][A[A
+
+Philadelphia Union:  70%|███████   | 21/30 [01:11<00:30,  3.39s/it][A[A
+
+Philadelphia Union:  73%|███████▎  | 22/30 [01:15<00:26,  3.37s/it][A[A2025-12-24 11:46:00,420 - INFO - Found 4 injuries for Indiana Vassilev
+
+
+Philadelphia Union:  77%|███████▋  | 23/30 [01:18<00:23,  3.38s/it][A[A2025-12-24 11:46:04,033 - INFO - Found 1 injuries for Milan Iloski
+
+
+Philadelphia Union:  80%|████████  | 24/30 [01:22<00:20,  3.45s/it][A[A2025-12-24 11:46:07,405 - INFO - Found 6 injuries for Mikael Uhre
+
+
+Philadelphia Union:  83%|████████▎ | 25/30 [01:25<00:17,  3.43s/it][A[A
+
+Philadelphia Union:  87%|████████▋ | 26/30 [01:29<00:13,  3.48s/it][A[A
+
+Philadelphia Union:  90%|█████████ | 27/30 [01:32<00:10,  3.47s/it][A[A2025-12-24 11:46:17,849 - INFO - Found 1 injuries for Markus Anderson
+
+
+Philadelphia Union:  93%|█████████▎| 28/30 [01:35<00:06,  3.45s/it][A[A
+
+Philadelphia Union:  97%|█████████▋| 29/30 [01:39<00:03,  3.44s/it][A[A
+
+Philadelphia Union: 100%|██████████| 30/30 [01:42<00:00,  3.43s/it][A[A
+
+                                                                   [A[A
+Teams (2024):  63%|██████▎   | 19/30 [35:04<20:34, 112.23s/it][A2025-12-24 11:46:27,688 - INFO - Processing team: Real Salt Lake City
+2025-12-24 11:46:32,078 - INFO - Found 38 players
+
+
+Real Salt Lake City:   0%|          | 0/38 [00:00<?, ?it/s][A[A2025-12-24 11:46:35,442 - INFO - Found 2 injuries for Rafael Cabral
+
+
+Real Salt Lake City:   3%|▎         | 1/38 [00:03<02:04,  3.37s/it][A[A2025-12-24 11:46:38,771 - INFO - Found 2 injuries for Mason Stajduhar
+
+
+Real Salt Lake City:   5%|▌         | 2/38 [00:06<02:00,  3.34s/it][A[A2025-12-24 11:46:42,302 - INFO - Found 3 injuries for Zac MacMath
+
+
+Real Salt Lake City:   8%|▊         | 3/38 [00:10<02:00,  3.43s/it][A[A
+
+Real Salt Lake City:  11%|█         | 4/38 [00:13<01:55,  3.41s/it][A[A2025-12-24 11:46:49,091 - INFO - Found 7 injuries for Justen Glad
+
+
+Real Salt Lake City:  13%|█▎        | 5/38 [00:17<01:52,  3.41s/it][A[A2025-12-24 11:46:52,745 - INFO - Found 1 injuries for Philip Quinton
+
+
+Real Salt Lake City:  16%|█▌        | 6/38 [00:20<01:51,  3.49s/it][A[A2025-12-24 11:46:56,233 - INFO - Found 1 injuries for Kobi Henry
+
+
+Real Salt Lake City:  18%|█▊        | 7/38 [00:24<01:48,  3.49s/it][A[A2025-12-24 11:46:59,532 - INFO - Found 2 injuries for Zack Farnsworth
+
+
+Real Salt Lake City:  21%|██        | 8/38 [00:27<01:42,  3.43s/it][A[A2025-12-24 11:47:02,864 - INFO - Found 3 injuries for Alexandros Katranis
+
+
+Real Salt Lake City:  24%|██▎       | 9/38 [00:30<01:38,  3.40s/it][A[A2025-12-24 11:47:06,086 - INFO - Found 1 injuries for Sam Junqua
+
+
+Real Salt Lake City:  26%|██▋       | 10/38 [00:34<01:33,  3.34s/it][A[A
+
+Real Salt Lake City:  29%|██▉       | 11/38 [00:37<01:30,  3.35s/it][A[A
+
+Real Salt Lake City:  32%|███▏      | 12/38 [00:40<01:27,  3.36s/it][A[A2025-12-24 11:47:16,310 - INFO - Found 10 injuries for DeAndre Yedlin
+
+
+Real Salt Lake City:  34%|███▍      | 13/38 [00:44<01:24,  3.39s/it][A[A2025-12-24 11:47:19,677 - INFO - Found 1 injuries for Javain Brown
+
+
+Real Salt Lake City:  37%|███▋      | 14/38 [00:47<01:21,  3.39s/it][A[A
+
+Real Salt Lake City:  39%|███▉      | 15/38 [00:50<01:17,  3.37s/it][A[A2025-12-24 11:47:26,413 - INFO - Found 1 injuries for Emeka Eneli
+
+
+Real Salt Lake City:  42%|████▏     | 16/38 [00:54<01:14,  3.38s/it][A[A
+
+Real Salt Lake City:  45%|████▍     | 17/38 [00:57<01:10,  3.37s/it][A[A
+
+Real Salt Lake City:  47%|████▋     | 18/38 [01:00<01:06,  3.35s/it][A[A2025-12-24 11:47:36,435 - INFO - Found 5 injuries for Pablo Ruiz
+
+
+Real Salt Lake City:  50%|█████     | 19/38 [01:04<01:03,  3.36s/it][A[A
+
+Real Salt Lake City:  53%|█████▎    | 20/38 [01:07<01:00,  3.35s/it][A[A
+
+Real Salt Lake City:  55%|█████▌    | 21/38 [01:11<00:58,  3.42s/it][A[A
+
+Real Salt Lake City:  58%|█████▊    | 22/38 [01:14<00:54,  3.39s/it][A[A2025-12-24 11:47:50,194 - INFO - Found 1 injuries for Diego Luna
+
+
+Real Salt Lake City:  61%|██████    | 23/38 [01:18<00:51,  3.43s/it][A[A
+
+Real Salt Lake City:  63%|██████▎   | 24/38 [01:21<00:47,  3.42s/it][A[A2025-12-24 11:47:57,023 - INFO - Found 10 injuries for Diogo Gonçalves
+
+
+Real Salt Lake City:  66%|██████▌   | 25/38 [01:24<00:44,  3.42s/it][A[A2025-12-24 11:48:00,381 - INFO - Found 1 injuries for Matthew Bell
+
+
+Real Salt Lake City:  68%|██████▊   | 26/38 [01:28<00:40,  3.40s/it][A[A
+
+Real Salt Lake City:  71%|███████   | 27/38 [01:31<00:37,  3.42s/it][A[A2025-12-24 11:48:07,453 - INFO - Found 3 injuries for Tyler Wolff
+
+
+Real Salt Lake City:  74%|███████▎  | 28/38 [01:35<00:34,  3.48s/it][A[A2025-12-24 11:48:11,207 - INFO - Found 10 injuries for Johnny Russell
+
+
+Real Salt Lake City:  76%|███████▋  | 29/38 [01:39<00:32,  3.56s/it][A[A
+
+Real Salt Lake City:  79%|███████▉  | 30/38 [01:42<00:28,  3.61s/it][A[A
+
+Real Salt Lake City:  82%|████████▏ | 31/38 [01:46<00:24,  3.55s/it][A[A
+
+Real Salt Lake City:  84%|████████▍ | 32/38 [01:49<00:20,  3.48s/it][A[A2025-12-24 11:48:25,066 - INFO - Found 1 injuries for Victor Olatunji
+
+
+Real Salt Lake City:  87%|████████▋ | 33/38 [01:52<00:17,  3.46s/it][A[A2025-12-24 11:48:28,436 - INFO - Found 2 injuries for Willy Agada
+
+
+Real Salt Lake City:  89%|████████▉ | 34/38 [01:56<00:13,  3.43s/it][A[A2025-12-24 11:48:31,705 - INFO - Found 1 injuries for Ariath Piol
+
+
+Real Salt Lake City:  92%|█████████▏| 35/38 [01:59<00:10,  3.38s/it][A[A
+
+Real Salt Lake City:  95%|█████████▍| 36/38 [02:02<00:06,  3.37s/it][A[A
+
+Real Salt Lake City:  97%|█████████▋| 37/38 [02:06<00:03,  3.39s/it][A[A
+
+Real Salt Lake City: 100%|██████████| 38/38 [02:09<00:00,  3.38s/it][A[A
+
+                                                                    [A[A
+Teams (2024):  67%|██████▋   | 20/30 [37:22<19:57, 119.71s/it][A2025-12-24 11:48:44,839 - INFO - Processing team: New England Revolution
+2025-12-24 11:48:48,777 - INFO - Found 28 players
+
+
+New England Revoluti:   0%|          | 0/28 [00:00<?, ?it/s][A[A2025-12-24 11:48:52,255 - INFO - Found 3 injuries for Matt Turner
+
+
+New England Revoluti:   4%|▎         | 1/28 [00:03<01:33,  3.48s/it][A[A2025-12-24 11:48:55,599 - INFO - Found 2 injuries for Alex Bono
+
+
+New England Revoluti:   7%|▋         | 2/28 [00:06<01:28,  3.40s/it][A[A
+
+New England Revoluti:  11%|█         | 3/28 [00:10<01:32,  3.68s/it][A[A
+
+New England Revoluti:  14%|█▍        | 4/28 [00:14<01:25,  3.57s/it][A[A2025-12-24 11:49:06,509 - INFO - Found 3 injuries for Brayan Ceballos
+
+
+New England Revoluti:  18%|█▊        | 5/28 [00:17<01:21,  3.54s/it][A[A
+
+New England Revoluti:  21%|██▏       | 6/28 [00:21<01:16,  3.47s/it][A[A2025-12-24 11:49:13,204 - INFO - Found 4 injuries for Wyatt Omsberg
+
+
+New England Revoluti:  25%|██▌       | 7/28 [00:24<01:12,  3.44s/it][A[A2025-12-24 11:49:16,851 - INFO - Found 5 injuries for Andrew Farrell
+
+
+New England Revoluti:  29%|██▊       | 8/28 [00:28<01:10,  3.50s/it][A[A
+
+New England Revoluti:  32%|███▏      | 9/28 [00:31<01:05,  3.45s/it][A[A
+
+New England Revoluti:  36%|███▌      | 10/28 [00:34<01:01,  3.43s/it][A[A
+
+New England Revoluti:  39%|███▉      | 11/28 [00:38<00:59,  3.49s/it][A[A2025-12-24 11:49:30,559 - INFO - Found 3 injuries for Peyton Miller
+
+
+New England Revoluti:  43%|████▎     | 12/28 [00:41<00:55,  3.45s/it][A[A2025-12-24 11:49:33,952 - INFO - Found 5 injuries for Will Sands
+
+
+New England Revoluti:  46%|████▋     | 13/28 [00:45<00:51,  3.43s/it][A[A2025-12-24 11:49:37,513 - INFO - Found 2 injuries for Ilay Feingold
+
+
+New England Revoluti:  50%|█████     | 14/28 [00:48<00:48,  3.47s/it][A[A
+
+New England Revoluti:  54%|█████▎    | 15/28 [00:52<00:44,  3.43s/it][A[A2025-12-24 11:49:44,314 - INFO - Found 14 injuries for Matt Polster
+
+
+New England Revoluti:  57%|█████▋    | 16/28 [00:55<00:41,  3.44s/it][A[A2025-12-24 11:49:47,560 - INFO - Found 1 injuries for Alhassan Yusuf
+
+
+New England Revoluti:  61%|██████    | 17/28 [00:58<00:37,  3.38s/it][A[A2025-12-24 11:49:50,952 - INFO - Found 1 injuries for Jackson Yueill
+
+
+New England Revoluti:  64%|██████▍   | 18/28 [01:02<00:33,  3.38s/it][A[A
+
+New England Revoluti:  68%|██████▊   | 19/28 [01:05<00:30,  3.38s/it][A[A2025-12-24 11:49:57,863 - INFO - Found 1 injuries for Jack Panayotou
+
+
+New England Revoluti:  71%|███████▏  | 20/28 [01:09<00:27,  3.43s/it][A[A2025-12-24 11:50:01,614 - INFO - Found 14 injuries for Carles Gil
+
+
+New England Revoluti:  75%|███████▌  | 21/28 [01:12<00:24,  3.52s/it][A[A
+
+New England Revoluti:  79%|███████▊  | 22/28 [01:16<00:20,  3.47s/it][A[A2025-12-24 11:50:08,331 - INFO - Found 4 injuries for Tomás Chancalay
+
+
+New England Revoluti:  82%|████████▏ | 23/28 [01:19<00:17,  3.44s/it][A[A2025-12-24 11:50:12,058 - INFO - Found 6 injuries for Luca Langoni
+
+
+New England Revoluti:  86%|████████▌ | 24/28 [01:23<00:14,  3.53s/it][A[A
+
+New England Revoluti:  89%|████████▉ | 25/28 [01:26<00:10,  3.53s/it][A[A2025-12-24 11:50:19,397 - INFO - Found 1 injuries for Dor Turgeman
+
+
+New England Revoluti:  93%|█████████▎| 26/28 [01:30<00:07,  3.61s/it][A[A2025-12-24 11:50:22,877 - INFO - Found 10 injuries for Leonardo Campana
+
+
+New England Revoluti:  96%|█████████▋| 27/28 [01:34<00:03,  3.57s/it][A[A2025-12-24 11:50:26,396 - INFO - Found 15 injuries for Ignatius Ganago
+
+
+New England Revoluti: 100%|██████████| 28/28 [01:37<00:00,  3.56s/it][A[A
+
+                                                                     [A[A
+Teams (2024):  70%|███████   | 21/30 [39:06<17:16, 115.17s/it][A2025-12-24 11:50:29,403 - INFO - Processing team: St. Louis CITY SC
+2025-12-24 11:50:33,844 - INFO - Found 33 players
+
+
+St. Louis CITY SC:   0%|          | 0/33 [00:00<?, ?it/s][A[A2025-12-24 11:50:37,628 - INFO - Found 15 injuries for Roman Bürki
+
+
+St. Louis CITY SC:   3%|▎         | 1/33 [00:03<02:01,  3.79s/it][A[A
+
+St. Louis CITY SC:   6%|▌         | 2/33 [00:07<01:49,  3.55s/it][A[A
+
+St. Louis CITY SC:   9%|▉         | 3/33 [00:10<01:44,  3.47s/it][A[A2025-12-24 11:50:47,762 - INFO - Found 2 injuries for Fallou Fall
+
+
+St. Louis CITY SC:  12%|█▏        | 4/33 [00:13<01:39,  3.43s/it][A[A2025-12-24 11:50:51,344 - INFO - Found 9 injuries for Henry Kessler
+
+
+St. Louis CITY SC:  15%|█▌        | 5/33 [00:17<01:37,  3.49s/it][A[A2025-12-24 11:50:55,307 - INFO - Found 1 injuries for Kyle Hiebert
+
+
+St. Louis CITY SC:  18%|█▊        | 6/33 [00:21<01:38,  3.65s/it][A[A2025-12-24 11:50:58,747 - INFO - Found 15 injuries for Timo Baumgartl
+
+
+St. Louis CITY SC:  21%|██        | 7/33 [00:24<01:33,  3.58s/it][A[A2025-12-24 11:51:02,326 - INFO - Found 4 injuries for Joshua Yaro
+
+
+St. Louis CITY SC:  24%|██▍       | 8/33 [00:28<01:29,  3.58s/it][A[A2025-12-24 11:51:05,718 - INFO - Found 2 injuries for Michael Wentzel
+
+
+St. Louis CITY SC:  27%|██▋       | 9/33 [00:31<01:24,  3.52s/it][A[A
+
+St. Louis CITY SC:  30%|███       | 10/33 [00:35<01:19,  3.46s/it][A[A2025-12-24 11:51:12,404 - INFO - Found 1 injuries for Jayden Reid
+
+
+St. Louis CITY SC:  33%|███▎      | 11/33 [00:38<01:15,  3.43s/it][A[A2025-12-24 11:51:15,814 - INFO - Found 1 injuries for Tomas Totland
+
+
+St. Louis CITY SC:  36%|███▋      | 12/33 [00:41<01:11,  3.42s/it][A[A
+
+St. Louis CITY SC:  39%|███▉      | 13/33 [00:45<01:08,  3.40s/it][A[A
+
+St. Louis CITY SC:  42%|████▏     | 14/33 [00:48<01:04,  3.37s/it][A[A
+
+St. Louis CITY SC:  45%|████▌     | 15/33 [00:52<01:01,  3.41s/it][A[A
+
+St. Louis CITY SC:  48%|████▊     | 16/33 [00:55<00:57,  3.40s/it][A[A2025-12-24 11:51:32,757 - INFO - Found 5 injuries for Chris Durkin
+
+
+St. Louis CITY SC:  52%|█████▏    | 17/33 [00:58<00:54,  3.40s/it][A[A
+
+St. Louis CITY SC:  55%|█████▍    | 18/33 [01:02<00:50,  3.39s/it][A[A2025-12-24 11:51:39,631 - INFO - Found 4 injuries for Marcel Hartel
+
+
+St. Louis CITY SC:  58%|█████▊    | 19/33 [01:05<00:48,  3.43s/it][A[A2025-12-24 11:51:43,368 - INFO - Found 15 injuries for Eduard Löwen
+
+
+St. Louis CITY SC:  61%|██████    | 20/33 [01:09<00:45,  3.52s/it][A[A
+
+St. Louis CITY SC:  64%|██████▎   | 21/33 [01:12<00:41,  3.47s/it][A[A2025-12-24 11:51:50,313 - INFO - Found 11 injuries for Alfredo Morales
+
+
+St. Louis CITY SC:  67%|██████▋   | 22/33 [01:16<00:38,  3.51s/it][A[A2025-12-24 11:51:53,701 - INFO - Found 2 injuries for Conrad Wallem
+
+
+St. Louis CITY SC:  70%|██████▉   | 23/33 [01:19<00:34,  3.47s/it][A[A
+
+St. Louis CITY SC:  73%|███████▎  | 24/33 [01:23<00:31,  3.50s/it][A[A2025-12-24 11:52:00,717 - INFO - Found 1 injuries for Tomas Ostrák
+
+
+St. Louis CITY SC:  76%|███████▌  | 25/33 [01:26<00:27,  3.48s/it][A[A2025-12-24 11:52:04,112 - INFO - Found 2 injuries for Célio Pompeu
+
+
+St. Louis CITY SC:  79%|███████▉  | 26/33 [01:30<00:24,  3.46s/it][A[A2025-12-24 11:52:07,383 - INFO - Found 8 injuries for Rasmus Alm
+
+
+St. Louis CITY SC:  82%|████████▏ | 27/33 [01:33<00:20,  3.40s/it][A[A2025-12-24 11:52:10,806 - INFO - Found 4 injuries for João Klauss
+
+
+St. Louis CITY SC:  85%|████████▍ | 28/33 [01:36<00:17,  3.41s/it][A[A2025-12-24 11:52:14,319 - INFO - Found 15 injuries for Cedric Teuchert
+
+
+St. Louis CITY SC:  88%|████████▊ | 29/33 [01:40<00:13,  3.44s/it][A[A2025-12-24 11:52:17,862 - INFO - Found 7 injuries for Sang-bin Jeong
+
+
+St. Louis CITY SC:  91%|█████████ | 30/33 [01:44<00:10,  3.47s/it][A[A
+
+St. Louis CITY SC:  94%|█████████▍| 31/33 [01:47<00:06,  3.47s/it][A[A
+
+St. Louis CITY SC:  97%|█████████▋| 32/33 [01:50<00:03,  3.44s/it][A[A
+
+St. Louis CITY SC: 100%|██████████| 33/33 [01:54<00:00,  3.44s/it][A[A
+
+                                                                  [A[A
+Teams (2024):  73%|███████▎  | 22/30 [41:08<15:37, 117.14s/it][A2025-12-24 11:52:31,160 - INFO - Processing team: Houston Dynamo FC
+2025-12-24 11:52:35,396 - INFO - Found 35 players
+
+
+Houston Dynamo FC:   0%|          | 0/35 [00:00<?, ?it/s][A[A2025-12-24 11:52:38,795 - INFO - Found 1 injuries for Jonathan Bond
+
+
+Houston Dynamo FC:   3%|▎         | 1/35 [00:03<01:55,  3.40s/it][A[A2025-12-24 11:52:42,172 - INFO - Found 1 injuries for Andrew Tarbell
+
+
+Houston Dynamo FC:   6%|▌         | 2/35 [00:06<01:51,  3.39s/it][A[A
+
+Houston Dynamo FC:   9%|▊         | 3/35 [00:10<01:48,  3.38s/it][A[A2025-12-24 11:52:49,072 - INFO - Found 3 injuries for Jimmy Maurer
+
+
+Houston Dynamo FC:  11%|█▏        | 4/35 [00:13<01:46,  3.44s/it][A[A
+
+Houston Dynamo FC:  14%|█▍        | 5/35 [00:17<01:42,  3.40s/it][A[A
+
+Houston Dynamo FC:  17%|█▋        | 6/35 [00:20<01:38,  3.38s/it][A[A2025-12-24 11:52:59,183 - INFO - Found 4 injuries for Antônio Carlos
+
+
+Houston Dynamo FC:  20%|██        | 7/35 [00:23<01:35,  3.40s/it][A[A
+
+Houston Dynamo FC:  23%|██▎       | 8/35 [00:27<01:30,  3.37s/it][A[A2025-12-24 11:53:05,948 - INFO - Found 12 injuries for Erik Sviatchenko
+
+
+Houston Dynamo FC:  26%|██▌       | 9/35 [00:30<01:28,  3.40s/it][A[A2025-12-24 11:53:09,433 - INFO - Found 3 injuries for Ethan Bartlow
+
+
+Houston Dynamo FC:  29%|██▊       | 10/35 [00:34<01:25,  3.42s/it][A[A2025-12-24 11:53:12,788 - INFO - Found 2 injuries for Pablo Ortiz
+
+
+Houston Dynamo FC:  31%|███▏      | 11/35 [00:37<01:21,  3.40s/it][A[A2025-12-24 11:53:16,334 - INFO - Found 1 injuries for Damion Lowe
+
+
+Houston Dynamo FC:  34%|███▍      | 12/35 [00:40<01:19,  3.45s/it][A[A2025-12-24 11:53:19,701 - INFO - Found 3 injuries for Daniel Steres
+
+
+Houston Dynamo FC:  37%|███▋      | 13/35 [00:44<01:15,  3.42s/it][A[A
+
+Houston Dynamo FC:  40%|████      | 14/35 [00:47<01:12,  3.48s/it][A[A
+
+Houston Dynamo FC:  43%|████▎     | 15/35 [00:51<01:09,  3.45s/it][A[A2025-12-24 11:53:30,125 - INFO - Found 6 injuries for Franco Escobar
+
+
+Houston Dynamo FC:  46%|████▌     | 16/35 [00:54<01:05,  3.44s/it][A[A2025-12-24 11:53:33,543 - INFO - Found 4 injuries for Michael Halliday
+
+
+Houston Dynamo FC:  49%|████▊     | 17/35 [00:58<01:01,  3.44s/it][A[A2025-12-24 11:53:36,905 - INFO - Found 6 injuries for Artur
+
+
+Houston Dynamo FC:  51%|█████▏    | 18/35 [01:01<00:58,  3.41s/it][A[A2025-12-24 11:53:40,431 - INFO - Found 15 injuries for Diadié Samassékou
+
+
+Houston Dynamo FC:  54%|█████▍    | 19/35 [01:05<00:55,  3.45s/it][A[A
+
+Houston Dynamo FC:  57%|█████▋    | 20/35 [01:08<00:52,  3.51s/it][A[A2025-12-24 11:53:47,477 - INFO - Found 1 injuries for Jack McGlynn
+
+
+Houston Dynamo FC:  60%|██████    | 21/35 [01:12<00:48,  3.47s/it][A[A2025-12-24 11:53:50,876 - INFO - Found 2 injuries for Érik Dueñas
+
+
+Houston Dynamo FC:  63%|██████▎   | 22/35 [01:15<00:44,  3.45s/it][A[A2025-12-24 11:53:54,438 - INFO - Found 4 injuries for Júnior Urso
+
+
+Houston Dynamo FC:  66%|██████▌   | 23/35 [01:19<00:41,  3.48s/it][A[A
+
+Houston Dynamo FC:  69%|██████▊   | 24/35 [01:22<00:37,  3.45s/it][A[A2025-12-24 11:54:01,280 - INFO - Found 3 injuries for Duane Holmes
+
+
+Houston Dynamo FC:  71%|███████▏  | 25/35 [01:25<00:34,  3.46s/it][A[A2025-12-24 11:54:04,783 - INFO - Found 9 injuries for Ondrej Lingr
+
+
+Houston Dynamo FC:  74%|███████▍  | 26/35 [01:29<00:31,  3.47s/it][A[A2025-12-24 11:54:08,132 - INFO - Found 2 injuries for Amine Bassi
+
+
+Houston Dynamo FC:  77%|███████▋  | 27/35 [01:32<00:27,  3.43s/it][A[A
+
+Houston Dynamo FC:  80%|████████  | 28/35 [01:36<00:23,  3.39s/it][A[A2025-12-24 11:54:14,782 - INFO - Found 4 injuries for Lawrence Ennali
+
+
+Houston Dynamo FC:  83%|████████▎ | 29/35 [01:39<00:20,  3.38s/it][A[A2025-12-24 11:54:18,150 - INFO - Found 2 injuries for Nelson Quiñónes
+
+
+Houston Dynamo FC:  86%|████████▌ | 30/35 [01:42<00:16,  3.38s/it][A[A2025-12-24 11:54:21,778 - INFO - Found 1 injuries for Exon Arzú
+
+
+Houston Dynamo FC:  89%|████████▊ | 31/35 [01:46<00:13,  3.45s/it][A[A2025-12-24 11:54:25,300 - INFO - Found 7 injuries for Ezequiel Ponce
+
+
+Houston Dynamo FC:  91%|█████████▏| 32/35 [01:49<00:10,  3.47s/it][A[A2025-12-24 11:54:28,709 - INFO - Found 9 injuries for Sergio Santos
+
+
+Houston Dynamo FC:  94%|█████████▍| 33/35 [01:53<00:06,  3.45s/it][A[A2025-12-24 11:54:32,077 - INFO - Found 1 injuries for Gabriel Segal
+
+
+Houston Dynamo FC:  97%|█████████▋| 34/35 [01:56<00:03,  3.43s/it][A[A
+
+Houston Dynamo FC: 100%|██████████| 35/35 [02:00<00:00,  3.41s/it][A[A
+
+                                                                  [A[A
+Teams (2024):  77%|███████▋  | 23/30 [43:15<14:01, 120.19s/it][A2025-12-24 11:54:38,462 - INFO - Processing team: San Jose Earthquakes
+2025-12-24 11:54:42,453 - INFO - Found 32 players
+
+
+San Jose Earthquakes:   0%|          | 0/32 [00:00<?, ?it/s][A[A2025-12-24 11:54:45,871 - INFO - Found 6 injuries for Daniel
+
+
+San Jose Earthquakes:   3%|▎         | 1/32 [00:03<01:46,  3.42s/it][A[A2025-12-24 11:54:49,419 - INFO - Found 1 injuries for Earl Edwards Jr.
+
+
+San Jose Earthquakes:   6%|▋         | 2/32 [00:06<01:44,  3.49s/it][A[A
+
+San Jose Earthquakes:   9%|▉         | 3/32 [00:10<01:39,  3.44s/it][A[A2025-12-24 11:54:56,148 - INFO - Found 1 injuries for Daniel Munie
+
+
+San Jose Earthquakes:  12%|█▎        | 4/32 [00:13<01:35,  3.41s/it][A[A2025-12-24 11:55:00,279 - INFO - Found 1 injuries for Rodrigues
+
+
+San Jose Earthquakes:  16%|█▌        | 5/32 [00:17<01:39,  3.67s/it][A[A2025-12-24 11:55:03,773 - INFO - Found 8 injuries for Bruno Wilson
+
+
+San Jose Earthquakes:  19%|█▉        | 6/32 [00:21<01:33,  3.61s/it][A[A
+
+San Jose Earthquakes:  22%|██▏       | 7/32 [00:24<01:28,  3.52s/it][A[A2025-12-24 11:55:10,609 - INFO - Found 1 injuries for Reid Roberts
+
+
+San Jose Earthquakes:  25%|██▌       | 8/32 [00:28<01:24,  3.51s/it][A[A
+
+San Jose Earthquakes:  28%|██▊       | 9/32 [00:31<01:20,  3.50s/it][A[A2025-12-24 11:55:17,539 - INFO - Found 7 injuries for DeJuan Jones
+
+
+San Jose Earthquakes:  31%|███▏      | 10/32 [00:35<01:16,  3.49s/it][A[A2025-12-24 11:55:20,990 - INFO - Found 4 injuries for Vítor Costa
+
+
+San Jose Earthquakes:  34%|███▍      | 11/32 [00:38<01:12,  3.48s/it][A[A
+
+San Jose Earthquakes:  38%|███▊      | 12/32 [00:41<01:08,  3.44s/it][A[A2025-12-24 11:55:27,727 - INFO - Found 1 injuries for Nick Lima
+
+
+San Jose Earthquakes:  41%|████      | 13/32 [00:45<01:05,  3.42s/it][A[A
+
+San Jose Earthquakes:  44%|████▍     | 14/32 [00:48<01:01,  3.40s/it][A[A
+
+San Jose Earthquakes:  50%|█████     | 16/32 [00:52<00:41,  2.62s/it][A[A
+
+San Jose Earthquakes:  53%|█████▎    | 17/32 [00:55<00:42,  2.82s/it][A[A
+
+San Jose Earthquakes:  56%|█████▋    | 18/32 [00:58<00:41,  2.97s/it][A[A2025-12-24 11:55:44,739 - INFO - Found 4 injuries for Noel Buck
+
+
+San Jose Earthquakes:  59%|█████▉    | 19/32 [01:02<00:40,  3.09s/it][A[A2025-12-24 11:55:48,191 - INFO - Found 3 injuries for Niko Tsakiris
+
+
+San Jose Earthquakes:  62%|██████▎   | 20/32 [01:05<00:38,  3.19s/it][A[A2025-12-24 11:55:52,017 - INFO - Found 4 injuries for Ian Harkes
+
+
+San Jose Earthquakes:  66%|██████▌   | 21/32 [01:09<00:37,  3.37s/it][A[A2025-12-24 11:55:55,482 - INFO - Found 5 injuries for Mark-Anthony Kaye
+
+
+San Jose Earthquakes:  69%|██████▉   | 22/32 [01:13<00:33,  3.40s/it][A[A2025-12-24 11:55:59,296 - INFO - Found 13 injuries for Ronaldo Vieira
+
+
+San Jose Earthquakes:  72%|███████▏  | 23/32 [01:16<00:31,  3.52s/it][A[A
+
+San Jose Earthquakes:  75%|███████▌  | 24/32 [01:20<00:27,  3.47s/it][A[A2025-12-24 11:56:06,058 - INFO - Found 2 injuries for Jack Skahan
+
+
+San Jose Earthquakes:  78%|███████▊  | 25/32 [01:23<00:24,  3.45s/it][A[A
+
+San Jose Earthquakes:  81%|████████▏ | 26/32 [01:26<00:20,  3.42s/it][A[A2025-12-24 11:56:12,921 - INFO - Found 3 injuries for Benji Kikanović
+
+
+San Jose Earthquakes:  84%|████████▍ | 27/32 [01:30<00:17,  3.45s/it][A[A2025-12-24 11:56:16,291 - INFO - Found 3 injuries for Cristian Espinoza
+
+
+San Jose Earthquakes:  88%|████████▊ | 28/32 [01:33<00:13,  3.43s/it][A[A2025-12-24 11:56:19,652 - INFO - Found 2 injuries for Cristian Arango
+
+
+San Jose Earthquakes:  91%|█████████ | 29/32 [01:37<00:10,  3.41s/it][A[A2025-12-24 11:56:23,218 - INFO - Found 11 injuries for Josef Martínez
+
+
+San Jose Earthquakes:  94%|█████████▍| 30/32 [01:40<00:06,  3.45s/it][A[A2025-12-24 11:56:26,723 - INFO - Found 2 injuries for Ousseni Bouda
+
+
+San Jose Earthquakes:  97%|█████████▋| 31/32 [01:44<00:03,  3.47s/it][A[A
+
+San Jose Earthquakes: 100%|██████████| 32/32 [01:47<00:00,  3.48s/it][A[A
+
+                                                                     [A[A
+Teams (2024):  80%|████████  | 24/30 [45:10<11:51, 118.57s/it][A2025-12-24 11:56:33,240 - INFO - Processing team: Sporting Kansas City
+2025-12-24 11:56:37,155 - INFO - Found 28 players
+
+
+Sporting Kansas City:   0%|          | 0/28 [00:00<?, ?it/s][A[A
+
+Sporting Kansas City:   4%|▎         | 1/28 [00:03<01:31,  3.39s/it][A[A
+
+Sporting Kansas City:   7%|▋         | 2/28 [00:06<01:27,  3.36s/it][A[A
+
+Sporting Kansas City:  11%|█         | 3/28 [00:10<01:24,  3.38s/it][A[A
+
+Sporting Kansas City:  14%|█▍        | 4/28 [00:13<01:21,  3.38s/it][A[A
+
+Sporting Kansas City:  18%|█▊        | 5/28 [00:16<01:17,  3.36s/it][A[A2025-12-24 11:56:57,471 - INFO - Found 15 injuries for Joaquín Fernández
+
+
+Sporting Kansas City:  21%|██▏       | 6/28 [00:20<01:14,  3.40s/it][A[A2025-12-24 11:57:00,885 - INFO - Found 1 injuries for Robert Voloder
+
+
+Sporting Kansas City:  25%|██▌       | 7/28 [00:23<01:11,  3.40s/it][A[A2025-12-24 11:57:04,268 - INFO - Found 1 injuries for Jansen Miller
+
+
+Sporting Kansas City:  29%|██▊       | 8/28 [00:27<01:07,  3.40s/it][A[A2025-12-24 11:57:07,768 - INFO - Found 6 injuries for Logan Ndenbe
+
+
+Sporting Kansas City:  32%|███▏      | 9/28 [00:30<01:05,  3.43s/it][A[A2025-12-24 11:57:11,195 - INFO - Found 11 injuries for Tim Leibold
+
+
+Sporting Kansas City:  36%|███▌      | 10/28 [00:34<01:01,  3.43s/it][A[A2025-12-24 11:57:14,511 - INFO - Found 3 injuries for Jake Davis
+
+
+Sporting Kansas City:  39%|███▉      | 11/28 [00:37<00:57,  3.40s/it][A[A2025-12-24 11:57:17,963 - INFO - Found 4 injuries for Andrew Brody
+
+
+Sporting Kansas City:  43%|████▎     | 12/28 [00:40<00:54,  3.41s/it][A[A2025-12-24 11:57:21,298 - INFO - Found 1 injuries for Ian James
+
+
+Sporting Kansas City:  46%|████▋     | 13/28 [00:44<00:50,  3.39s/it][A[A
+
+Sporting Kansas City:  50%|█████     | 14/28 [00:47<00:46,  3.34s/it][A[A2025-12-24 11:57:27,941 - INFO - Found 13 injuries for Nemanja Radoja
+
+
+Sporting Kansas City:  54%|█████▎    | 15/28 [00:50<00:43,  3.36s/it][A[A
+
+Sporting Kansas City:  57%|█████▋    | 16/28 [00:54<00:40,  3.37s/it][A[A
+
+Sporting Kansas City:  61%|██████    | 17/28 [00:57<00:37,  3.42s/it][A[A
+
+Sporting Kansas City:  64%|██████▍   | 18/28 [01:01<00:34,  3.42s/it][A[A2025-12-24 11:57:41,890 - INFO - Found 8 injuries for Manu García
+
+
+Sporting Kansas City:  68%|██████▊   | 19/28 [01:04<00:31,  3.48s/it][A[A2025-12-24 11:57:45,652 - INFO - Found 14 injuries for Erik Thommy
+
+
+Sporting Kansas City:  71%|███████▏  | 20/28 [01:08<00:28,  3.56s/it][A[A2025-12-24 11:57:49,025 - INFO - Found 2 injuries for Memo Rodríguez
+
+
+Sporting Kansas City:  75%|███████▌  | 21/28 [01:11<00:24,  3.51s/it][A[A2025-12-24 11:57:52,511 - INFO - Found 4 injuries for Dániel Sallói
+
+
+Sporting Kansas City:  79%|███████▊  | 22/28 [01:15<00:21,  3.50s/it][A[A
+
+Sporting Kansas City:  82%|████████▏ | 23/28 [01:18<00:17,  3.46s/it][A[A2025-12-24 11:57:59,295 - INFO - Found 2 injuries for Shapi Suleymanov
+
+
+Sporting Kansas City:  86%|████████▌ | 24/28 [01:22<00:13,  3.45s/it][A[A2025-12-24 11:58:02,684 - INFO - Found 2 injuries for Dejan Joveljić
+
+
+Sporting Kansas City:  89%|████████▉ | 25/28 [01:25<00:10,  3.43s/it][A[A
+
+Sporting Kansas City:  93%|█████████▎| 26/28 [01:28<00:06,  3.41s/it][A[A2025-12-24 11:58:09,581 - INFO - Found 8 injuries for Mason Toye
+
+
+Sporting Kansas City:  96%|█████████▋| 27/28 [01:32<00:03,  3.45s/it][A[A2025-12-24 11:58:13,103 - INFO - Found 13 injuries for Khiry Shelton
+
+
+Sporting Kansas City: 100%|██████████| 28/28 [01:35<00:00,  3.47s/it][A[A
+
+                                                                     [A[A
+Teams (2024):  83%|████████▎ | 25/30 [46:53<09:29, 113.86s/it][A2025-12-24 11:58:16,111 - INFO - Processing team: FC Dallas
+2025-12-24 11:58:19,980 - INFO - Found 37 players
+
+
+FC Dallas:   0%|          | 0/37 [00:00<?, ?it/s][A[A2025-12-24 11:58:23,558 - INFO - Found 9 injuries for Maarten Paes
+
+
+FC Dallas:   3%|▎         | 1/37 [00:03<02:08,  3.58s/it][A[A
+
+FC Dallas:   5%|▌         | 2/37 [00:07<02:05,  3.60s/it][A[A2025-12-24 11:58:30,720 - INFO - Found 1 injuries for Jacob Jackson
+
+
+FC Dallas:   8%|▊         | 3/37 [00:10<02:01,  3.58s/it][A[A2025-12-24 11:58:34,137 - INFO - Found 1 injuries for Osaze Urhoghide
+
+
+FC Dallas:  11%|█         | 4/37 [00:14<01:55,  3.51s/it][A[A2025-12-24 11:58:37,537 - INFO - Found 4 injuries for Lalas Abubakar
+
+
+FC Dallas:  14%|█▎        | 5/37 [00:17<01:51,  3.47s/it][A[A2025-12-24 11:58:40,988 - INFO - Found 1 injuries for Sebastien Ibeagha
+
+
+FC Dallas:  16%|█▌        | 6/37 [00:21<01:47,  3.47s/it][A[A
+
+FC Dallas:  19%|█▉        | 7/37 [00:24<01:42,  3.42s/it][A[A
+
+FC Dallas:  22%|██▏       | 8/37 [00:27<01:39,  3.42s/it][A[A
+
+FC Dallas:  24%|██▍       | 9/37 [00:31<01:35,  3.40s/it][A[A2025-12-24 11:58:54,477 - INFO - Found 4 injuries for Shaq Moore
+
+
+FC Dallas:  27%|██▋       | 10/37 [00:34<01:31,  3.39s/it][A[A2025-12-24 11:58:58,105 - INFO - Found 3 injuries for Geovane Jesus
+
+
+FC Dallas:  30%|██▉       | 11/37 [00:38<01:30,  3.47s/it][A[A2025-12-24 11:59:01,477 - INFO - Found 1 injuries for Herbert Endeley
+
+
+FC Dallas:  32%|███▏      | 12/37 [00:41<01:25,  3.44s/it][A[A2025-12-24 11:59:04,817 - INFO - Found 1 injuries for Enzo Newman
+
+
+FC Dallas:  35%|███▌      | 13/37 [00:44<01:21,  3.41s/it][A[A
+
+FC Dallas:  38%|███▊      | 14/37 [00:48<01:18,  3.40s/it][A[A2025-12-24 11:59:11,635 - INFO - Found 1 injuries for Patrickson Delgado
+
+
+FC Dallas:  41%|████      | 15/37 [00:51<01:15,  3.41s/it][A[A
+
+FC Dallas:  43%|████▎     | 16/37 [00:55<01:11,  3.40s/it][A[A2025-12-24 11:59:18,858 - INFO - Found 10 injuries for Sebastian Lletget
+
+
+FC Dallas:  46%|████▌     | 17/37 [00:58<01:10,  3.54s/it][A[A2025-12-24 11:59:22,284 - INFO - Found 2 injuries for Christian Cappis
+
+
+FC Dallas:  49%|████▊     | 18/37 [01:02<01:06,  3.50s/it][A[A2025-12-24 11:59:25,668 - INFO - Found 4 injuries for Ramiro
+
+
+FC Dallas:  51%|█████▏    | 19/37 [01:05<01:02,  3.47s/it][A[A
+
+FC Dallas:  54%|█████▍    | 20/37 [01:09<00:58,  3.45s/it][A[A
+
+FC Dallas:  57%|█████▋    | 21/37 [01:12<00:57,  3.56s/it][A[A
+
+FC Dallas:  59%|█████▉    | 22/37 [01:16<00:52,  3.50s/it][A[A2025-12-24 11:59:39,891 - INFO - Found 12 injuries for Paxton Pomykal
+
+
+FC Dallas:  62%|██████▏   | 23/37 [01:19<00:49,  3.54s/it][A[A
+
+FC Dallas:  65%|██████▍   | 24/37 [01:23<00:45,  3.49s/it][A[A2025-12-24 11:59:46,647 - INFO - Found 1 injuries for Tarik Scott
+
+
+FC Dallas:  68%|██████▊   | 25/37 [01:26<00:41,  3.46s/it][A[A2025-12-24 11:59:50,238 - INFO - Found 2 injuries for Anderson Julio
+
+
+FC Dallas:  70%|███████   | 26/37 [01:30<00:38,  3.50s/it][A[A2025-12-24 11:59:53,649 - INFO - Found 2 injuries for Louicius Deedson
+
+
+FC Dallas:  73%|███████▎  | 27/37 [01:33<00:34,  3.47s/it][A[A2025-12-24 11:59:57,604 - INFO - Found 1 injuries for Bernard Kamungo
+
+
+FC Dallas:  76%|███████▌  | 28/37 [01:37<00:32,  3.62s/it][A[A
+
+FC Dallas:  78%|███████▊  | 29/37 [01:40<00:28,  3.54s/it][A[A
+
+FC Dallas:  81%|████████  | 30/37 [01:44<00:24,  3.47s/it][A[A
+
+FC Dallas:  84%|████████▍ | 31/37 [01:47<00:20,  3.45s/it][A[A
+
+FC Dallas:  86%|████████▋ | 32/37 [01:51<00:17,  3.42s/it][A[A2025-12-24 12:00:14,636 - INFO - Found 6 injuries for Petar Musa
+
+
+FC Dallas:  89%|████████▉ | 33/37 [01:54<00:13,  3.48s/it][A[A2025-12-24 12:00:18,049 - INFO - Found 1 injuries for Logan Farrington
+
+
+FC Dallas:  92%|█████████▏| 34/37 [01:58<00:10,  3.46s/it][A[A
+
+FC Dallas:  95%|█████████▍| 35/37 [02:01<00:06,  3.41s/it][A[A
+
+FC Dallas:  97%|█████████▋| 36/37 [02:04<00:03,  3.37s/it][A[A
+
+FC Dallas: 100%|██████████| 37/37 [02:08<00:00,  3.42s/it][A[A
+
+                                                          [A[A
+Teams (2024):  87%|████████▋ | 26/30 [49:08<08:00, 120.22s/it][A2025-12-24 12:00:31,178 - INFO - Processing team: D.C. United
+2025-12-24 12:00:35,074 - INFO - Found 33 players
+
+
+D.C. United:   0%|          | 0/33 [00:00<?, ?it/s][A[A
+
+D.C. United:   3%|▎         | 1/33 [00:03<01:47,  3.37s/it][A[A2025-12-24 12:00:41,885 - INFO - Found 6 injuries for Sean Johnson
+
+
+D.C. United:   6%|▌         | 2/33 [00:06<01:45,  3.41s/it][A[A2025-12-24 12:00:45,014 - ERROR - Failed to fetch https://www.transfermarkt.us/joon-hong-kim/verletzungen/spieler/709172: 403 Client Error: Forbidden for url: https://www.transfermarkt.us/joon-hong-kim/verletzungen/spieler/709172
+
+
+D.C. United:   9%|▉         | 3/33 [00:09<01:38,  3.28s/it][A[A
+
+D.C. United:  12%|█▏        | 4/33 [00:13<01:39,  3.42s/it][A[A2025-12-24 12:00:52,057 - INFO - Found 1 injuries for Sean Nealis
+
+
+D.C. United:  15%|█▌        | 5/33 [00:16<01:35,  3.42s/it][A[A2025-12-24 12:00:55,497 - INFO - Found 3 injuries for Lucas Bartlett
+
+
+D.C. United:  18%|█▊        | 6/33 [00:20<01:32,  3.42s/it][A[A2025-12-24 12:00:58,923 - INFO - Found 1 injuries for Kye Rowles
+
+
+D.C. United:  21%|██        | 7/33 [00:23<01:29,  3.43s/it][A[A2025-12-24 12:01:02,338 - INFO - Found 5 injuries for Lukas MacNaughton
+
+
+D.C. United:  24%|██▍       | 8/33 [00:27<01:25,  3.42s/it][A[A
+
+D.C. United:  27%|██▋       | 9/33 [00:30<01:21,  3.40s/it][A[A
+
+D.C. United:  30%|███       | 10/33 [00:33<01:17,  3.38s/it][A[A2025-12-24 12:01:12,468 - INFO - Found 4 injuries for David Schnegg
+
+
+D.C. United:  33%|███▎      | 11/33 [00:37<01:14,  3.40s/it][A[A2025-12-24 12:01:15,840 - INFO - Found 3 injuries for Aarón Herrera
+
+
+D.C. United:  36%|███▋      | 12/33 [00:40<01:11,  3.39s/it][A[A2025-12-24 12:01:19,505 - INFO - Found 1 injuries for Conner Antley
+
+
+D.C. United:  39%|███▉      | 13/33 [00:44<01:09,  3.47s/it][A[A
+
+D.C. United:  42%|████▏     | 14/33 [00:47<01:05,  3.43s/it][A[A2025-12-24 12:01:26,230 - INFO - Found 1 injuries for Matti Peltola
+
+
+D.C. United:  45%|████▌     | 15/33 [00:51<01:01,  3.42s/it][A[A
+
+D.C. United:  48%|████▊     | 16/33 [00:54<00:57,  3.40s/it][A[A2025-12-24 12:01:32,946 - INFO - Found 2 injuries for Boris Enow
+
+
+D.C. United:  52%|█████▏    | 17/33 [00:57<00:54,  3.39s/it][A[A2025-12-24 12:01:36,529 - INFO - Found 3 injuries for Brandon Servania
+
+
+D.C. United:  55%|█████▍    | 18/33 [01:01<00:51,  3.45s/it][A[A2025-12-24 12:01:39,921 - INFO - Found 1 injuries for Hosei Kijima
+
+
+D.C. United:  58%|█████▊    | 19/33 [01:04<00:48,  3.43s/it][A[A
+
+D.C. United:  61%|██████    | 20/33 [01:08<00:44,  3.41s/it][A[A2025-12-24 12:01:46,636 - INFO - Found 1 injuries for Gabriel Pirani
+
+
+D.C. United:  64%|██████▎   | 21/33 [01:11<00:40,  3.39s/it][A[A2025-12-24 12:01:50,244 - INFO - Found 3 injuries for Jackson Hopkins
+
+
+D.C. United:  67%|██████▋   | 22/33 [01:15<00:38,  3.46s/it][A[A2025-12-24 12:01:53,667 - INFO - Found 4 injuries for Caden Clark
+
+
+D.C. United:  70%|██████▉   | 23/33 [01:18<00:34,  3.45s/it][A[A
+
+D.C. United:  73%|███████▎  | 24/33 [01:21<00:30,  3.43s/it][A[A2025-12-24 12:02:00,455 - INFO - Found 3 injuries for Peglow
+
+
+D.C. United:  76%|███████▌  | 25/33 [01:25<00:27,  3.42s/it][A[A2025-12-24 12:02:04,043 - INFO - Found 9 injuries for Randall Leal
+
+
+D.C. United:  79%|███████▉  | 26/33 [01:28<00:24,  3.47s/it][A[A
+
+D.C. United:  82%|████████▏ | 27/33 [01:32<00:20,  3.44s/it][A[A2025-12-24 12:02:10,796 - INFO - Found 1 injuries for Hakim Karamoko
+
+
+D.C. United:  85%|████████▍ | 28/33 [01:35<00:17,  3.42s/it][A[A2025-12-24 12:02:14,136 - INFO - Found 4 injuries for Tai Baribo
+
+
+D.C. United:  88%|████████▊ | 29/33 [01:39<00:13,  3.40s/it][A[A2025-12-24 12:02:17,732 - INFO - Found 15 injuries for Christian Benteke
+
+
+D.C. United:  91%|█████████ | 30/33 [01:42<00:10,  3.46s/it][A[A2025-12-24 12:02:21,209 - INFO - Found 2 injuries for Kristian Fletcher
+
+
+D.C. United:  94%|█████████▍| 31/33 [01:46<00:06,  3.46s/it][A[A2025-12-24 12:02:24,566 - INFO - Found 1 injuries for Jacob Murrell
+
+
+D.C. United:  97%|█████████▋| 32/33 [01:49<00:03,  3.43s/it][A[A2025-12-24 12:02:28,180 - INFO - Found 7 injuries for Dominique Badji
+
+
+D.C. United: 100%|██████████| 33/33 [01:53<00:00,  3.49s/it][A[A
+
+                                                            [A[A
+Teams (2024):  90%|█████████ | 27/30 [51:08<06:00, 120.16s/it][A2025-12-24 12:02:31,185 - INFO - Processing team: New York Red Bulls
+2025-12-24 12:02:35,330 - INFO - Found 32 players
+
+
+New York Red Bulls:   0%|          | 0/32 [00:00<?, ?it/s][A[A
+
+New York Red Bulls:   3%|▎         | 1/32 [00:03<01:44,  3.39s/it][A[A2025-12-24 12:02:42,154 - INFO - Found 2 injuries for John McCarthy
+
+
+New York Red Bulls:   6%|▋         | 2/32 [00:06<01:42,  3.42s/it][A[A2025-12-24 12:02:45,557 - INFO - Found 1 injuries for AJ Marcucci
+
+
+New York Red Bulls:   9%|▉         | 3/32 [00:10<01:38,  3.41s/it][A[A
+
+New York Red Bulls:  12%|█▎        | 4/32 [00:13<01:36,  3.43s/it][A[A2025-12-24 12:02:52,422 - INFO - Found 1 injuries for Noah Eile
+
+
+New York Red Bulls:  16%|█▌        | 5/32 [00:17<01:32,  3.42s/it][A[A2025-12-24 12:02:56,149 - INFO - Found 10 injuries for Alexander Hack
+
+
+New York Red Bulls:  19%|█▉        | 6/32 [00:20<01:31,  3.52s/it][A[A2025-12-24 12:02:59,947 - INFO - Found 2 injuries for Tim Parker
+
+
+New York Red Bulls:  22%|██▏       | 7/32 [00:24<01:30,  3.61s/it][A[A2025-12-24 12:03:03,393 - INFO - Found 2 injuries for Marcelo Morales
+
+
+New York Red Bulls:  25%|██▌       | 8/32 [00:28<01:25,  3.56s/it][A[A2025-12-24 12:03:06,811 - INFO - Found 1 injuries for Omar Valencia
+
+
+New York Red Bulls:  28%|██▊       | 9/32 [00:31<01:20,  3.52s/it][A[A2025-12-24 12:03:10,389 - INFO - Found 2 injuries for Raheem Edwards
+
+
+New York Red Bulls:  31%|███▏      | 10/32 [00:35<01:17,  3.54s/it][A[A
+
+New York Red Bulls:  34%|███▍      | 11/32 [00:38<01:12,  3.47s/it][A[A2025-12-24 12:03:17,093 - INFO - Found 2 injuries for Dylan Nealis
+
+
+New York Red Bulls:  38%|███▊      | 12/32 [00:41<01:08,  3.44s/it][A[A2025-12-24 12:03:20,515 - INFO - Found 5 injuries for Kyle Duncan
+
+
+New York Red Bulls:  41%|████      | 13/32 [00:45<01:05,  3.44s/it][A[A
+
+New York Red Bulls:  44%|████▍     | 14/32 [00:48<01:02,  3.46s/it][A[A2025-12-24 12:03:27,394 - INFO - Found 1 injuries for Gustav Berggren
+
+
+New York Red Bulls:  47%|████▋     | 15/32 [00:52<00:58,  3.43s/it][A[A2025-12-24 12:03:30,878 - INFO - Found 2 injuries for Daniel Edelman
+
+
+New York Red Bulls:  50%|█████     | 16/32 [00:55<00:55,  3.45s/it][A[A
+
+New York Red Bulls:  53%|█████▎    | 17/32 [00:58<00:51,  3.42s/it][A[A2025-12-24 12:03:37,601 - INFO - Found 1 injuries for Ronald Donkor
+
+
+New York Red Bulls:  56%|█████▋    | 18/32 [01:02<00:47,  3.40s/it][A[A2025-12-24 12:03:40,958 - INFO - Found 1 injuries for Adri Mehmeti
+
+
+New York Red Bulls:  59%|█████▉    | 19/32 [01:05<00:44,  3.39s/it][A[A2025-12-24 12:03:44,514 - INFO - Found 2 injuries for Wikelman Carmona
+
+
+New York Red Bulls:  62%|██████▎   | 20/32 [01:09<00:41,  3.44s/it][A[A2025-12-24 12:03:48,092 - INFO - Found 15 injuries for Emil Forsberg
+
+
+New York Red Bulls:  66%|██████▌   | 21/32 [01:12<00:38,  3.48s/it][A[A2025-12-24 12:03:51,496 - INFO - Found 3 injuries for Mohammed Sofo
+
+
+New York Red Bulls:  69%|██████▉   | 22/32 [01:16<00:34,  3.46s/it][A[A2025-12-24 12:03:54,918 - INFO - Found 3 injuries for Andy Rojas
+
+
+New York Red Bulls:  72%|███████▏  | 23/32 [01:19<00:31,  3.45s/it][A[A
+
+New York Red Bulls:  75%|███████▌  | 24/32 [01:22<00:27,  3.43s/it][A[A
+
+New York Red Bulls:  78%|███████▊  | 25/32 [01:26<00:24,  3.44s/it][A[A2025-12-24 12:04:05,195 - INFO - Found 3 injuries for Cameron Harper
+
+
+New York Red Bulls:  81%|████████▏ | 26/32 [01:29<00:20,  3.44s/it][A[A2025-12-24 12:04:08,753 - INFO - Found 7 injuries for Serge Ngoma Jr.
+
+
+New York Red Bulls:  84%|████████▍ | 27/32 [01:33<00:17,  3.47s/it][A[A2025-12-24 12:04:12,141 - INFO - Found 5 injuries for Wiktor Bogacz
+
+
+New York Red Bulls:  88%|████████▊ | 28/32 [01:36<00:13,  3.45s/it][A[A2025-12-24 12:04:15,783 - INFO - Found 15 injuries for Eric-Maxim Choupo-Moting
+
+
+New York Red Bulls:  91%|█████████ | 29/32 [01:40<00:10,  3.51s/it][A[A
+
+New York Red Bulls:  94%|█████████▍| 30/32 [01:44<00:07,  3.54s/it][A[A2025-12-24 12:04:22,813 - INFO - Found 1 injuries for Roald Mitchell
+
+
+New York Red Bulls:  97%|█████████▋| 31/32 [01:47<00:03,  3.50s/it][A[A
+
+New York Red Bulls: 100%|██████████| 32/32 [01:50<00:00,  3.47s/it][A[A
+
+                                                                   [A[A
+Teams (2024):  93%|█████████▎| 28/30 [53:06<03:59, 119.52s/it][A2025-12-24 12:04:29,227 - INFO - Processing team: CF Montréal
+2025-12-24 12:04:33,086 - INFO - Found 27 players
+
+
+CF Montréal:   0%|          | 0/27 [00:00<?, ?it/s][A[A2025-12-24 12:04:36,462 - INFO - Found 1 injuries for Thomas Gillier
+
+
+CF Montréal:   4%|▎         | 1/27 [00:03<01:27,  3.38s/it][A[A
+
+CF Montréal:   7%|▋         | 2/27 [00:06<01:24,  3.37s/it][A[A2025-12-24 12:04:43,197 - INFO - Found 2 injuries for Sébastian Breza
+
+
+CF Montréal:  11%|█         | 3/27 [00:10<01:20,  3.37s/it][A[A2025-12-24 12:04:46,560 - INFO - Found 5 injuries for Brayan Vera
+
+
+CF Montréal:  15%|█▍        | 4/27 [00:13<01:17,  3.37s/it][A[A2025-12-24 12:04:50,365 - INFO - Found 7 injuries for Jalen Neal
+
+
+CF Montréal:  19%|█▊        | 5/27 [00:17<01:17,  3.53s/it][A[A
+
+CF Montréal:  22%|██▏       | 6/27 [00:20<01:13,  3.49s/it][A[A2025-12-24 12:04:57,427 - INFO - Found 1 injuries for Brandan Craig
+
+
+CF Montréal:  26%|██▌       | 7/27 [00:24<01:10,  3.54s/it][A[A2025-12-24 12:05:01,160 - INFO - Found 1 injuries for Efraín Morales
+
+
+CF Montréal:  30%|██▉       | 8/27 [00:28<01:08,  3.60s/it][A[A
+
+CF Montréal:  33%|███▎      | 9/27 [00:31<01:03,  3.53s/it][A[A2025-12-24 12:05:07,891 - INFO - Found 2 injuries for Luca Petrasso
+
+
+CF Montréal:  37%|███▋      | 10/27 [00:34<00:59,  3.48s/it][A[A2025-12-24 12:05:11,282 - INFO - Found 1 injuries for Dagur Dan Thórhallsson
+
+
+CF Montréal:  41%|████      | 11/27 [00:38<00:55,  3.45s/it][A[A2025-12-24 12:05:14,880 - INFO - Found 1 injuries for Bode Hidalgo
+
+
+CF Montréal:  44%|████▍     | 12/27 [00:41<00:52,  3.49s/it][A[A
+
+CF Montréal:  48%|████▊     | 13/27 [00:45<00:48,  3.47s/it][A[A2025-12-24 12:05:21,844 - INFO - Found 1 injuries for Dawid Bugaj
+
+
+CF Montréal:  52%|█████▏    | 14/27 [00:48<00:45,  3.49s/it][A[A2025-12-24 12:05:25,432 - INFO - Found 8 injuries for Samuel Piette
+
+
+CF Montréal:  56%|█████▌    | 15/27 [00:52<00:42,  3.52s/it][A[A2025-12-24 12:05:29,117 - INFO - Found 7 injuries for Matty Longstaff
+
+
+CF Montréal:  59%|█████▉    | 16/27 [00:56<00:39,  3.57s/it][A[A
+
+CF Montréal:  63%|██████▎   | 17/27 [00:59<00:36,  3.64s/it][A[A2025-12-24 12:05:36,313 - INFO - Found 2 injuries for Iván Jaime
+
+
+CF Montréal:  67%|██████▋   | 18/27 [01:03<00:32,  3.57s/it][A[A2025-12-24 12:05:39,734 - INFO - Found 3 injuries for Bryce Duke
+
+
+CF Montréal:  70%|███████   | 19/27 [01:06<00:28,  3.52s/it][A[A2025-12-24 12:05:43,142 - INFO - Found 1 injuries for Olger Escobar
+
+
+CF Montréal:  74%|███████▍  | 20/27 [01:10<00:24,  3.49s/it][A[A2025-12-24 12:05:46,532 - INFO - Found 2 injuries for Gennadiy Synchuk
+
+
+CF Montréal:  78%|███████▊  | 21/27 [01:13<00:20,  3.46s/it][A[A2025-12-24 12:05:50,177 - INFO - Found 10 injuries for Fabian Herbers
+
+
+CF Montréal:  81%|████████▏ | 22/27 [01:17<00:17,  3.52s/it][A[A2025-12-24 12:05:53,605 - INFO - Found 4 injuries for Mahala Opoku
+
+
+CF Montréal:  85%|████████▌ | 23/27 [01:20<00:13,  3.49s/it][A[A2025-12-24 12:05:57,003 - INFO - Found 6 injuries for Prince Owusu
+
+
+CF Montréal:  89%|████████▉ | 24/27 [01:23<00:10,  3.46s/it][A[A2025-12-24 12:06:00,477 - INFO - Found 9 injuries for Giacomo Vrioni
+
+
+CF Montréal:  93%|█████████▎| 25/27 [01:27<00:06,  3.47s/it][A[A2025-12-24 12:06:03,916 - INFO - Found 1 injuries for Sunusi Ibrahim
+
+
+CF Montréal:  96%|█████████▋| 26/27 [01:30<00:03,  3.46s/it][A[A
+
+CF Montréal: 100%|██████████| 27/27 [01:34<00:00,  3.40s/it][A[A
+
+                                                            [A[A
+Teams (2024):  97%|█████████▋| 29/30 [54:47<01:53, 113.95s/it][A2025-12-24 12:06:10,181 - INFO - Processing team: Toronto FC
+2025-12-24 12:06:14,036 - INFO - Found 25 players
+
+
+Toronto FC:   0%|          | 0/25 [00:00<?, ?it/s][A[A
+
+Toronto FC:   4%|▍         | 1/25 [00:03<01:20,  3.35s/it][A[A2025-12-24 12:06:20,635 - INFO - Found 2 injuries for Adisa De Rosario
+
+
+Toronto FC:   8%|▊         | 2/25 [00:06<01:15,  3.29s/it][A[A2025-12-24 12:06:24,033 - INFO - Found 5 injuries for Sigurd Rosted
+
+
+Toronto FC:  12%|█▏        | 3/25 [00:09<01:13,  3.34s/it][A[A2025-12-24 12:06:27,476 - INFO - Found 6 injuries for Nicksoen Gomis
+
+
+Toronto FC:  16%|█▌        | 4/25 [00:13<01:10,  3.38s/it][A[A2025-12-24 12:06:30,811 - INFO - Found 2 injuries for Zane Monlouis
+
+
+Toronto FC:  20%|██        | 5/25 [00:16<01:07,  3.36s/it][A[A
+
+Toronto FC:  24%|██▍       | 6/25 [00:20<01:03,  3.36s/it][A[A2025-12-24 12:06:37,639 - INFO - Found 9 injuries for Kevin Long
+
+
+Toronto FC:  28%|██▊       | 7/25 [00:23<01:01,  3.40s/it][A[A2025-12-24 12:06:41,593 - INFO - Found 15 injuries for Raoul Petretta
+
+
+Toronto FC:  32%|███▏      | 8/25 [00:27<01:00,  3.58s/it][A[A2025-12-24 12:06:44,973 - INFO - Found 3 injuries for Richie Laryea
+
+
+Toronto FC:  36%|███▌      | 9/25 [00:30<00:56,  3.51s/it][A[A
+
+Toronto FC:  40%|████      | 10/25 [00:34<00:52,  3.48s/it][A[A2025-12-24 12:06:51,806 - INFO - Found 9 injuries for Henry Wingo
+
+
+Toronto FC:  44%|████▍     | 11/25 [00:37<00:48,  3.47s/it][A[A2025-12-24 12:06:55,448 - INFO - Found 1 injuries for Kobe Franklin
+
+
+Toronto FC:  48%|████▊     | 12/25 [00:41<00:45,  3.52s/it][A[A2025-12-24 12:06:58,817 - INFO - Found 3 injuries for José Cifuentes
+
+
+Toronto FC:  52%|█████▏    | 13/25 [00:44<00:41,  3.47s/it][A[A2025-12-24 12:07:02,245 - INFO - Found 11 injuries for Jonathan Osorio
+
+
+Toronto FC:  56%|█████▌    | 14/25 [00:48<00:38,  3.46s/it][A[A2025-12-24 12:07:06,027 - INFO - Found 6 injuries for Maxime Dominguez
+
+
+Toronto FC:  60%|██████    | 15/25 [00:51<00:35,  3.56s/it][A[A2025-12-24 12:07:09,728 - INFO - Found 2 injuries for Alonso Coello
+
+
+Toronto FC:  64%|██████▍   | 16/25 [00:55<00:32,  3.60s/it][A[A
+
+Toronto FC:  68%|██████▊   | 17/25 [00:59<00:28,  3.52s/it][A[A
+
+Toronto FC:  72%|███████▏  | 18/25 [01:02<00:24,  3.45s/it][A[A
+
+Toronto FC:  76%|███████▌  | 19/25 [01:05<00:20,  3.42s/it][A[A2025-12-24 12:07:23,121 - INFO - Found 5 injuries for Djordje Mihailovic
+
+
+Toronto FC:  80%|████████  | 20/25 [01:09<00:17,  3.42s/it][A[A2025-12-24 12:07:26,574 - INFO - Found 5 injuries for Derrick Etienne Jr.
+
+
+Toronto FC:  84%|████████▍ | 21/25 [01:12<00:13,  3.43s/it][A[A2025-12-24 12:07:29,927 - INFO - Found 2 injuries for Theo Corbeanu
+
+
+Toronto FC:  88%|████████▊ | 22/25 [01:15<00:10,  3.41s/it][A[A2025-12-24 12:07:33,351 - INFO - Found 4 injuries for Deandre Kerr
+
+
+Toronto FC:  92%|█████████▏| 23/25 [01:19<00:06,  3.41s/it][A[A2025-12-24 12:07:36,704 - INFO - Found 5 injuries for Jules-Anthony Vilsaint
+
+
+Toronto FC:  96%|█████████▌| 24/25 [01:22<00:03,  3.40s/it][A[A
+
+Toronto FC: 100%|██████████| 25/25 [01:26<00:00,  3.39s/it][A[A
+
+                                                           [A[A
+Teams (2024): 100%|██████████| 30/30 [56:20<00:00, 107.64s/it][A
+                                                              [ASeasons:  50%|█████     | 1/2 [56:24<56:24, 3384.78s/it]2025-12-24 12:07:43,090 - INFO - Processing season 2025
+2025-12-24 12:07:50,031 - INFO - Found 30 MLS teams for 2025
+
+Teams (2025):   0%|          | 0/30 [00:00<?, ?it/s][A2025-12-24 12:07:50,031 - INFO - Processing team: Chicago Fire FC
+2025-12-24 12:07:53,516 - INFO - Found 0 players
+
+
+Chicago Fire FC: 0it [00:00, ?it/s][A[A
+
+                                   [A[A
+Teams (2025):   3%|▎         | 1/30 [00:06<03:08,  6.49s/it][A2025-12-24 12:07:56,527 - INFO - Processing team: Atlanta United FC
+2025-12-24 12:08:00,176 - INFO - Found 0 players
+
+
+Atlanta United FC: 0it [00:00, ?it/s][A[A
+
+                                     [A[A
+Teams (2025):   7%|▋         | 2/30 [00:13<03:04,  6.59s/it][A2025-12-24 12:08:03,184 - INFO - Processing team: Orlando City SC
+2025-12-24 12:08:06,709 - INFO - Found 0 players
+
+
+Orlando City SC: 0it [00:00, ?it/s][A[A
+
+                                   [A[A
+Teams (2025):  10%|█         | 3/30 [00:19<02:57,  6.57s/it][A2025-12-24 12:08:09,720 - INFO - Processing team: New York City FC
+2025-12-24 12:08:13,250 - INFO - Found 0 players
+
+
+New York City FC: 0it [00:00, ?it/s][A[A
+
+                                    [A[A
+Teams (2025):  13%|█▎        | 4/30 [00:26<02:50,  6.56s/it][A2025-12-24 12:08:16,261 - INFO - Processing team: Philadelphia Union
+2025-12-24 12:08:19,918 - INFO - Found 0 players
+
+
+Philadelphia Union: 0it [00:00, ?it/s][A[A
+
+                                      [A[A
+Teams (2025):  17%|█▋        | 5/30 [00:32<02:44,  6.59s/it][A2025-12-24 12:08:22,920 - INFO - Processing team: Toronto FC
+2025-12-24 12:08:26,355 - INFO - Found 0 players
+
+
+Toronto FC: 0it [00:00, ?it/s][A[A
+
+                              [A[A
+Teams (2025):  20%|██        | 6/30 [00:39<02:37,  6.54s/it][A2025-12-24 12:08:29,366 - INFO - Processing team: FC Cincinnati
+2025-12-24 12:08:32,754 - INFO - Found 0 players
+
+
+FC Cincinnati: 0it [00:00, ?it/s][A[A
+
+                                 [A[A
+Teams (2025):  23%|██▎       | 7/30 [00:45<02:29,  6.50s/it][A2025-12-24 12:08:35,765 - INFO - Processing team: Nashville SC
+2025-12-24 12:08:39,135 - INFO - Found 0 players
+
+
+Nashville SC: 0it [00:00, ?it/s][A[A
+
+                                [A[A
+Teams (2025):  27%|██▋       | 8/30 [00:52<02:22,  6.46s/it][A2025-12-24 12:08:42,146 - INFO - Processing team: Inter Miami CF
+2025-12-24 12:08:45,728 - INFO - Found 0 players
+
+
+Inter Miami CF: 0it [00:00, ?it/s][A[A
+
+                                  [A[A
+Teams (2025):  30%|███       | 9/30 [00:58<02:16,  6.50s/it][A2025-12-24 12:08:48,739 - INFO - Processing team: Charlotte FC
+2025-12-24 12:08:52,110 - INFO - Found 0 players
+
+
+Charlotte FC: 0it [00:00, ?it/s][A[A
+
+                                [A[A
+Teams (2025):  33%|███▎      | 10/30 [01:05<02:09,  6.46s/it][A2025-12-24 12:08:55,121 - INFO - Processing team: CF Montréal
+2025-12-24 12:08:59,219 - INFO - Found 0 players
+
+
+CF Montréal: 0it [00:00, ?it/s][A[A
+
+                               [A[A
+Teams (2025):  37%|███▋      | 11/30 [01:12<02:06,  6.66s/it][A2025-12-24 12:09:02,230 - INFO - Processing team: D.C. United
+2025-12-24 12:09:06,061 - INFO - Found 0 players
+
+
+D.C. United: 0it [00:00, ?it/s][A[A
+
+                               [A[A
+Teams (2025):  40%|████      | 12/30 [01:19<02:00,  6.72s/it][A2025-12-24 12:09:09,072 - INFO - Processing team: Columbus Crew
+2025-12-24 12:09:12,482 - INFO - Found 0 players
+
+
+Columbus Crew: 0it [00:00, ?it/s][A[A
+
+                                 [A[A
+Teams (2025):  43%|████▎     | 13/30 [01:25<01:52,  6.63s/it][A2025-12-24 12:09:15,489 - INFO - Processing team: New England Revolution
+2025-12-24 12:09:19,054 - INFO - Found 0 players
+
+
+New England Revoluti: 0it [00:00, ?it/s][A[A
+
+                                        [A[A
+Teams (2025):  47%|████▋     | 14/30 [01:32<01:45,  6.61s/it][A2025-12-24 12:09:22,060 - INFO - Processing team: New York Red Bulls
+2025-12-24 12:09:25,530 - INFO - Found 0 players
+
+
+New York Red Bulls: 0it [00:00, ?it/s][A[A
+
+                                      [A[A
+Teams (2025):  50%|█████     | 15/30 [01:38<01:38,  6.57s/it][A2025-12-24 12:09:28,539 - INFO - Processing team: Austin FC
+2025-12-24 12:09:31,896 - INFO - Found 0 players
+
+
+Austin FC: 0it [00:00, ?it/s][A[A
+
+                             [A[A
+Teams (2025):  53%|█████▎    | 16/30 [01:44<01:31,  6.51s/it][A2025-12-24 12:09:34,904 - INFO - Processing team: Minnesota United FC
+2025-12-24 12:09:38,263 - INFO - Found 0 players
+
+
+Minnesota United FC: 0it [00:00, ?it/s][A[A
+
+                                       [A[A
+Teams (2025):  57%|█████▋    | 17/30 [01:51<01:24,  6.47s/it][A2025-12-24 12:09:41,271 - INFO - Processing team: Los Angeles FC
+2025-12-24 12:09:44,623 - INFO - Found 0 players
+
+
+Los Angeles FC: 0it [00:00, ?it/s][A[A
+
+                                  [A[A
+Teams (2025):  60%|██████    | 18/30 [01:57<01:17,  6.43s/it][A2025-12-24 12:09:47,630 - INFO - Processing team: St. Louis CITY SC
+2025-12-24 12:09:50,881 - INFO - Found 0 players
+
+
+St. Louis CITY SC: 0it [00:00, ?it/s][A[A
+
+                                     [A[A
+Teams (2025):  63%|██████▎   | 19/30 [02:03<01:10,  6.38s/it][A2025-12-24 12:09:53,888 - INFO - Processing team: San Jose Earthquakes
+2025-12-24 12:09:57,323 - INFO - Found 0 players
+
+
+San Jose Earthquakes: 0it [00:00, ?it/s][A[A
+
+                                        [A[A
+Teams (2025):  67%|██████▋   | 20/30 [02:10<01:03,  6.40s/it][A2025-12-24 12:10:00,329 - INFO - Processing team: San Diego FC
+2025-12-24 12:10:03,766 - INFO - Found 0 players
+
+
+San Diego FC: 0it [00:00, ?it/s][A[A
+
+                                [A[A
+Teams (2025):  70%|███████   | 21/30 [02:16<00:57,  6.41s/it][A2025-12-24 12:10:06,772 - INFO - Processing team: Seattle Sounders FC
+2025-12-24 12:10:10,229 - INFO - Found 0 players
+
+
+Seattle Sounders FC: 0it [00:00, ?it/s][A[A
+
+                                       [A[A
+Teams (2025):  73%|███████▎  | 22/30 [02:23<00:51,  6.43s/it][A2025-12-24 12:10:13,235 - INFO - Processing team: Houston Dynamo FC
+2025-12-24 12:10:16,645 - INFO - Found 0 players
+
+
+Houston Dynamo FC: 0it [00:00, ?it/s][A[A
+
+                                     [A[A
+Teams (2025):  77%|███████▋  | 23/30 [02:29<00:44,  6.42s/it][A2025-12-24 12:10:19,651 - INFO - Processing team: FC Dallas
+2025-12-24 12:10:23,212 - INFO - Found 0 players
+
+
+FC Dallas: 0it [00:00, ?it/s][A[A
+
+                             [A[A
+Teams (2025):  80%|████████  | 24/30 [02:36<00:38,  6.47s/it][A2025-12-24 12:10:26,218 - INFO - Processing team: Real Salt Lake City
+2025-12-24 12:10:29,686 - INFO - Found 0 players
+
+
+Real Salt Lake City: 0it [00:00, ?it/s][A[A
+
+                                       [A[A
+Teams (2025):  83%|████████▎ | 25/30 [02:42<00:32,  6.47s/it][A2025-12-24 12:10:32,692 - INFO - Processing team: Vancouver Whitecaps FC
+2025-12-24 12:10:36,472 - INFO - Found 0 players
+
+
+Vancouver Whitecaps : 0it [00:00, ?it/s][A[A
+
+                                        [A[A
+Teams (2025):  87%|████████▋ | 26/30 [02:49<00:26,  6.56s/it][A2025-12-24 12:10:39,478 - INFO - Processing team: Portland Timbers
+2025-12-24 12:10:42,894 - INFO - Found 0 players
+
+
+Portland Timbers: 0it [00:00, ?it/s][A[A
+
+                                    [A[A
+Teams (2025):  90%|█████████ | 27/30 [02:55<00:19,  6.52s/it][A2025-12-24 12:10:45,901 - INFO - Processing team: Sporting Kansas City
+2025-12-24 12:10:49,290 - INFO - Found 0 players
+
+
+Sporting Kansas City: 0it [00:00, ?it/s][A[A
+
+                                        [A[A
+Teams (2025):  93%|█████████▎| 28/30 [03:02<00:12,  6.48s/it][A2025-12-24 12:10:52,296 - INFO - Processing team: Colorado Rapids
+2025-12-24 12:10:55,911 - INFO - Found 0 players
+
+
+Colorado Rapids: 0it [00:00, ?it/s][A[A
+
+                                   [A[A
+Teams (2025):  97%|█████████▋| 29/30 [03:08<00:06,  6.53s/it][A2025-12-24 12:10:58,917 - INFO - Processing team: Los Angeles Galaxy
+2025-12-24 12:11:02,470 - INFO - Found 0 players
+
+
+Los Angeles Galaxy: 0it [00:00, ?it/s][A[A
+
+                                      [A[A
+Teams (2025): 100%|██████████| 30/30 [03:15<00:00,  6.54s/it][A
+                                                             [ASeasons: 100%|██████████| 2/2 [59:47<00:00, 1512.78s/it]Seasons: 100%|██████████| 2/2 [59:47<00:00, 1793.58s/it]
+2025-12-24 12:11:05,497 - INFO - Saved 2584 injury records to mls_injuries_2025_update.csv
+
+✓ Saved 2584 injury records to mls_injuries_2025_update.csv
+
+======================================================================
+UPDATE SUMMARY
+======================================================================
+✓ New injuries collected: 2584
+✓ Latest injury date: Sep 9, 2024
+
+Merging with existing data...
+
+✓ Previous total: 28,811 injuries
+✓ New total: 8,482 injuries
+✓ Added: -20,329 new injuries
+✓ Updated file: mls_player_injuries.csv
+======================================================================
