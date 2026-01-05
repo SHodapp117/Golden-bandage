@@ -1,0 +1,37 @@
+team,start_year,end_year,stadium_name,surface_type,city,state,altitude_ft,climate_zone
+Atlanta United FC,2017,2025,Mercedes-Benz Stadium,FieldTurf,Atlanta,GA,1050,Humid Subtropical
+Austin FC,2021,2025,Q2 Stadium,Natural Grass,Austin,TX,489,Humid Subtropical
+Charlotte FC,2022,2025,Bank of America Stadium,Natural Grass,Charlotte,NC,751,Humid Subtropical
+Chicago Fire FC,2015,2019,Toyota Park,Natural Grass,Bridgeview,IL,594,Continental
+Chicago Fire FC,2020,2025,Soldier Field,Natural Grass,Chicago,IL,594,Continental
+FC Cincinnati,2019,2020,Nippert Stadium,FieldTurf,Cincinnati,OH,550,Humid Continental
+FC Cincinnati,2021,2025,TQL Stadium,Natural Grass,Cincinnati,OH,482,Humid Continental
+Colorado Rapids,2015,2025,Dick's Sporting Goods Park,Natural Grass,Commerce City,CO,5200,Semi-Arid
+Columbus Crew,2015,2021,MAPFRE Stadium,Natural Grass,Columbus,OH,902,Humid Continental
+Columbus Crew,2021,2025,Lower.com Field,Natural Grass,Columbus,OH,760,Humid Continental
+D.C. United,2015,2017,RFK Stadium,Natural Grass,Washington,DC,25,Humid Subtropical
+D.C. United,2018,2025,Audi Field,Natural Grass,Washington,DC,10,Humid Subtropical
+FC Dallas,2015,2025,Toyota Stadium,Natural Grass,Frisco,TX,682,Humid Subtropical
+Houston Dynamo FC,2015,2025,BBVA Stadium,Natural Grass,Houston,TX,50,Humid Subtropical
+Inter Miami CF,2020,2025,DRV PNK Stadium,Natural Grass,Fort Lauderdale,FL,10,Tropical
+LA Galaxy,2015,2025,Dignity Health Sports Park,Natural Grass,Carson,CA,78,Mediterranean
+Los Angeles FC,2018,2025,BMO Stadium,Natural Grass,Los Angeles,CA,184,Mediterranean
+Minnesota United FC,2017,2018,TCF Bank Stadium,FieldTurf,Minneapolis,MN,830,Continental
+Minnesota United FC,2019,2025,Allianz Field,Natural Grass,St. Paul,MN,820,Continental
+CF Montréal,2015,2025,Saputo Stadium,Natural Grass,Montreal,QC,118,Humid Continental
+Nashville SC,2020,2025,GEODIS Park,Natural Grass,Nashville,TN,597,Humid Subtropical
+New England Revolution,2015,2025,Gillette Stadium,FieldTurf,Foxborough,MA,157,Humid Continental
+New York City FC,2015,2023,Yankee Stadium,Natural Grass,Bronx,NY,55,Humid Subtropical
+New York City FC,2024,2025,Citi Field,Natural Grass,Queens,NY,20,Humid Subtropical
+New York Red Bulls,2015,2025,Red Bull Arena,FieldTurf,Harrison,NJ,10,Humid Subtropical
+Orlando City SC,2015,2016,Orlando Citrus Bowl,Natural Grass,Orlando,FL,106,Humid Subtropical
+Orlando City SC,2017,2025,Exploria Stadium,Natural Grass,Orlando,FL,82,Humid Subtropical
+Philadelphia Union,2015,2025,Subaru Park,Natural Grass,Chester,PA,23,Humid Subtropical
+Portland Timbers,2015,2025,Providence Park,FieldTurf,Portland,OR,50,Oceanic
+Real Salt Lake,2015,2025,Rio Tinto Stadium,Natural Grass,Sandy,UT,4450,Semi-Arid
+San Jose Earthquakes,2015,2025,PayPal Park,Natural Grass,San Jose,CA,10,Mediterranean
+Seattle Sounders FC,2015,2025,Lumen Field,FieldTurf,Seattle,WA,10,Oceanic
+Sporting Kansas City,2015,2025,Children's Mercy Park,Natural Grass,Kansas City,KS,910,Humid Continental
+St. Louis City SC,2023,2025,CITYPARK,Natural Grass,St. Louis,MO,466,Humid Continental
+Toronto FC,2015,2025,BMO Field,Natural Grass,Toronto,ON,249,Humid Continental
+Vancouver Whitecaps FC,2015,2025,BC Place,FieldTurf,Vancouver,BC,10,Oceanic
