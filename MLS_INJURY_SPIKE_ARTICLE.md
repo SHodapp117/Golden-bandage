@@ -6,9 +6,9 @@
 
 Major League Soccer has an injury problem—and it's getting worse.
 
-In 2015, MLS recorded 411 player injuries. By 2023, that number had ballooned to 991—a 141% increase that far outpaces the league's expansion from 20 to 29 teams. Even accounting for growth, injuries per team jumped from 20.6 to 34.2, a 40% increase that signals something beyond simple math.
+In 2015, MLS recorded 411 player injuries. By 2025, that number reached 1,018—a 148% increase that far outpaces the league's expansion from 20 to 30 teams. Even accounting for growth, injuries per team jumped from 20.6 to 33.9, a 65% increase that signals something beyond simple math. The problem isn't stabilizing—2025 marks the highest injury count in league history.
 
-I built a dataset of 8,497 injuries spanning 2008 to 2024 to understand what's driving this spike. The findings point to structural problems in how the league schedules games, how teams manage player recovery, and how playing surfaces interact with the compressed calendar—problems that manifest in predictable seasonal patterns and disproportionately affect soft-tissue injuries.
+I built a dataset of 8,497 injuries spanning 2008 to 2025 to understand what's driving this spike. The findings point to structural problems in how the league schedules games, how teams manage player recovery, and how playing surfaces interact with the compressed calendar—problems that manifest in predictable seasonal patterns and disproportionately affect soft-tissue injuries.
 
 ## The Seasonal Pattern
 
@@ -22,7 +22,7 @@ This pattern suggests that cumulative fatigue builds throughout the season, but 
 
 ## The Leagues Cup Effect
 
-The clearest inflection point in recent years is 2023, when the Leagues Cup expanded to include all MLS teams. From 2015 to 2022, MLS averaged 608 injuries per season. In 2023-2024, that average jumped to 905—a 48.9% increase.
+The clearest inflection point in recent years is 2023, when the Leagues Cup expanded to include all MLS teams. From 2015 to 2022, MLS averaged 608 injuries per season. In 2023-2025, that average jumped to 943—a 55% increase. The 2025 season alone recorded 1,018 injuries—the highest in league history.
 
 This isn't just about adding games. It's about when they're added. The Leagues Cup compresses into late July and August, creating a fixture pileup that leaves no room for rest. Teams that advance deep into the tournament can play three games in seven days, then immediately return to league play. The cumulative load is showing up in the injury data, with August injuries increasing from historical averages.
 
@@ -78,7 +78,7 @@ What's clear: when Seattle's muscle injuries occurred on FieldTurf, they average
 
 The numbers tell a simple story: MLS is asking players to do more with less recovery time.
 
-From 2015 to 2023, the league added nine teams, expanded from 34 to 34 regular-season games per team, and introduced the Leagues Cup as a mandatory mid-season tournament. Elite players now face 50+ competitive matches per year when accounting for playoffs, CONCACAF competitions, and international duty.
+From 2015 to 2025, the league added ten teams, maintained 34 regular-season games per team, and introduced the Leagues Cup as a mandatory mid-season tournament. Elite players now face 50+ competitive matches per year when accounting for playoffs, CONCACAF competitions, and international duty.
 
 European leagues manage similar fixture loads with 25-30 player rosters and winter breaks that provide 4-6 weeks of recovery. MLS rosters max out at 20-22 senior players under salary cap constraints, and the league's split-calendar season (February-November) leaves minimal off-season recovery before preseason begins in January.
 
@@ -86,7 +86,7 @@ The early-season injury spike (March-May accounting for 35.9% of annual injuries
 
 The Leagues Cup intensifies this problem. Introduced league-wide in 2023, the tournament compresses into late July and August, forcing teams to play 3-4 games in two weeks, then immediately return to league play. Teams advancing deep into the tournament can face Saturday-Tuesday-Saturday schedules with cross-country travel between matches.
 
-The data shows the impact: August injuries jumped from historical averages, and the 2023-2024 seasons saw a 48.9% increase in average annual injuries compared to 2015-2022. The injury spike coincides precisely with the Leagues Cup's expansion.
+The data shows the impact: August injuries jumped from historical averages, and the 2023-2025 seasons saw a 55% increase in average annual injuries compared to 2015-2022. The injury spike coincides precisely with the Leagues Cup's expansion, with 2025 setting a new record at 1,018 injuries.
 
 ## Geography as a Risk Factor
 
@@ -121,22 +121,22 @@ These aren't random occurrences. They're patterns—and patterns can be changed.
 
 ## Methodology
 
-**Data**: Analysis of 8,497 player injuries from Transfermarkt.us (2008-2024), including 2,828 injuries (33.3%) matched to specific stadiums and playing surfaces with climate data. Dataset validated against peer-reviewed MLS injury surveillance literature and available at github.com/SHodapp117/Golden-bandage.
+**Data**: Analysis of 8,497 player injuries from Transfermarkt.us (2008-2025), including 2,828 injuries (33.3%) matched to specific stadiums and playing surfaces with climate data. Dataset validated against peer-reviewed MLS injury surveillance literature and available at github.com/SHodapp117/Golden-bandage.
 
 **Analysis**: Compared injury rates across seasons, playing surfaces, timing patterns, and climate zones. Injury timing analyzed by day of week based on reported injury dates from Transfermarkt.us. Note: These dates represent when injuries were documented/reported, not necessarily when they occurred, meaning the day-of-week pattern captures injury discovery and reporting timing (acute match injuries typically reported same day; delayed-onset injuries surface 1-2 days later). Statistical testing included Welch's t-test for group differences. Seasonal patterns analyzed by month and competition phase.
 
 **Limitations**: Stadium surface data available for 33% of injuries. Cannot control for all confounding variables (player fitness, medical protocols, rehabilitation quality, training methodologies). Correlation analysis cannot prove causation. Day-of-week injury patterns infer match timing without definitive fixture linkage for all records. Climate zone assignments based on stadium location, not injury location. Seattle's training practices inferred from public reporting, not verified internal data. Transfermarkt.us data coverage may have improved over time, potentially affecting year-over-year comparisons (Seattle 2024-2025 spike may partly reflect better reporting).
 
 **Key Findings Verified**:
-- Injuries increased from 411 (2015) to 991 (2023): 141% growth
-- Injuries per team increased 40% (20.6 → 34.2) accounting for expansion
+- Injuries increased from 411 (2015) to 1,018 (2025): 148% growth
+- Injuries per team increased 65% (20.6 → 33.9) accounting for expansion
 - Early season (Mar-May) accounts for 35.9% of injuries; March is peak month (13.1%)
 - 73.4% of injuries occur within 48-hour match windows (Wed-Mon)
 - 42.7% occur day-after matches vs 30.7% during matches
 - FieldTurf muscle injuries: 74.6 days mean recovery vs 43.8 days on grass (not statistically significant, p=0.26)
 - Overall surface difference: 3.8 days (64.0 vs 60.2)
 - Continental climate FieldTurf: 104.6 days vs 52.8 days on grass
-- Leagues Cup era (2023-2024): 48.9% increase in average annual injuries
+- Leagues Cup era (2023-2025): 55% increase in average annual injuries; 2025 sets record at 1,018
 - Seattle Sounders (2015-2023): 1.7 injuries/season (15 total); (2024-2025): 24 injuries/season (48 total)
 - Seattle soft-tissue recovery on FieldTurf: 131.7 days vs 42.6 days league average
 
