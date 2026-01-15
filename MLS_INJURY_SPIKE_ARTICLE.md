@@ -68,7 +68,7 @@ Eight MLS stadiums currently use FieldTurf: Mercedes-Benz Stadium (Atlanta), BC 
 
 Seattle Sounders FC presents an instructive outlier. Between 2015 and 2023, the club recorded just 15 injuries—an average of 1.7 per season, far below Toronto FC's 17.4 or Portland's 8.7. This made Seattle appear nearly immune to injury despite playing on FieldTurf.
 
-But the few injuries that did occur were severe. Six of 15 (40%) required more than 90 days recovery. Two hamstring injuries each sidelined players for 395 days. Soft-tissue injuries averaged 131.7 days recovery—triple the league average of 42.6 days for similar injuries.
+But the few injuries that did occur were severe. Six of 15 (40%) required more than 90 days recovery. Two hamstring injuries each sidelined players for 395 days. Muscle injuries averaged 131.7 days recovery—triple the league average of 42.6 days for similar injuries.
 
 Then the pattern reversed. Seattle recorded 48 injuries in 2024-2025 alone—a rate of 24 per season, well above historical norms. Whether this reflects roster turnover (the aging out of veteran core players), increased fixture load from Leagues Cup participation, changes in training patterns, or improved data collection remains unclear.
 
@@ -92,7 +92,7 @@ The data shows the impact: August injuries jumped from historical averages, and 
 
 MLS teams cover more ground than any other domestic league. A Wednesday night trip from New England to Vancouver means crossing three time zones in each direction within 72 hours. Portland to Orlando is 2,900 miles. Seattle to Miami is 3,300 miles.
 
-The physiological toll of this travel compounds injury risk in ways that don't appear in match statistics. Research on European teams shows that travel-related sleep disruption, dehydration, and circadian rhythm disruption increase injury risk by 15-25%[^7]. For MLS, the distances are far greater and recovery windows far shorter.
+The physiological toll of this travel compounds injury risk in ways that don't appear in match statistics. Research on professional soccer shows that travel-related sleep disruption, dehydration, and circadian rhythm disruption can significantly increase injury risk. For MLS, the distances are far greater and recovery windows far shorter than in European leagues.
 
 When a player boards a red-eye flight from Seattle to New York on Thursday, arrives Friday morning, trains Friday afternoon, and plays Saturday evening, the muscle soreness from Wednesday's match hasn't fully resolved. Add FieldTurf to that equation—with its higher ground reaction forces—and the cumulative microtrauma becomes significant.
 
@@ -113,7 +113,7 @@ Those solutions might include:
 - **Surface transition guidelines** for teams moving from grass to turf, with load monitoring
 - **Climate-adjusted training loads** for teams in extreme temperature markets
 
-The current trajectory is unsustainable. Injuries per team have increased 40% in less than a decade. Players are breaking down the day after matches at rates that suggest recovery windows are too short. Soft-tissue injuries on synthetic surfaces are taking 70% longer to heal. The early season accounts for more than one-third of all injuries.
+The current trajectory is unsustainable. Injuries per team have increased 65% in less than a decade. Players are breaking down the day after matches at rates that suggest recovery windows are too short. Soft-tissue injuries on synthetic surfaces are taking 70% longer to heal. The early season accounts for more than one-third of all injuries.
 
 These aren't random occurrences. They're patterns—and patterns can be changed.
 
