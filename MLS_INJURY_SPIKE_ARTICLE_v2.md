@@ -34,11 +34,19 @@ Muscle injuries—the largest category at 8.6% of all injuries—show a mean rec
 
 Adductor injuries, another common groin/hip muscle injury, average 42.8 days recovery in this data. A 2025 study of adductor injuries in MLS found position-specific return-to-play variations, with defenders averaging longer absences than midfielders[^6]. The consistency between this independent dataset and the official MLS Injury Surveillance Database validates the methodology and suggests these patterns are robust.
 
-## What Seattle's Recent Data Tells Us
+## Seattle's Best-Case Scenario: Managing Injuries on FieldTurf
 
-Seattle Sounders FC provides a useful case study for what teams on FieldTurf should expect in 2026. The club recorded 48 injuries in 2024-2025—a rate of 24 per season, which aligns with the league-wide trend of 30-35 injuries per team. When Seattle's muscle injuries occurred on FieldTurf, they averaged 131.7 days recovery versus 42.6 days league-wide—triple the average.
+Seattle Sounders FC recorded 48 injuries across 2024-2025—exactly 24 per season—placing them at the favorable end of the 30-35 injury range teams should expect in 2026. What makes Seattle instructive isn't just the volume, but how they've managed the inevitable FieldTurf recovery penalty through roster depth and strategic planning.
 
-The key insight: the surface doesn't necessarily cause more total injuries, but when muscle tissue fails, recovery takes significantly longer. This severity penalty appears consistent, suggesting teams playing on FieldTurf should plan for extended absences when muscle injuries occur—even in temperate climates like Seattle's.
+The roster absorbed waves of absences while maintaining competitiveness. Pedro de la Vega sustained five separate injuries spanning 15 months—including two muscle injuries in spring 2024 (75 and 40 days), a hamstring strain in March 2025 (32 days), and most recently a broken kneecap in October 2025. Jordan Morris dealt with three injuries in 2025 alone: muscle injury (28 days), hamstring (47 days), and shoulder (52 days). João Paulo cycled through hip, calf, and meniscus injuries totaling 154 days across three separate spells.
+
+Yet Seattle's average recovery time of 41.1 days came in below the league-wide 47.2-day average for 2024-2025. The key: half of Seattle's injuries (50%) resolved in under 30 days, with 13 players returning within two weeks. When Álex Roldán and Albert Rusnák both went down with muscle injuries on April 7, 2025, both returned within 10 days. Paul Rothrock recovered from a broken hand in 6 days, while multiple players managed 7-8 day returns from minor knocks.
+
+The FieldTurf penalty still appeared in muscle-specific injuries—9 muscle injuries averaged 60.1 days, 5 hamstring injuries averaged 40.8 days—but Seattle's temperate Oceanic climate moderated the extremes seen in Continental zones (Minneapolis: 104.6 days on turf). When muscle tissue failed, recovery took longer than grass equivalents, but not catastrophically so.
+
+The outliers tell the planning story. Four injuries (8.3%) exceeded 90 days: Paul Arriola's ACL tear (287 days, still recovering), Braudílio Rodrigues' muscle injury (183 days), Danny Musovski's thigh problems (104 days), and Paul Rothrock's hamstring (99 days). These long-term absences—roughly 2-3 per season—required roster depth of 25-28 players to absorb without derailing the campaign.
+
+**The Seattle takeaway for 2026**: Playing on FieldTurf in favorable climate conditions doesn't prevent injuries, but it creates a manageable baseline. Expect 24-35 injuries per season, with roughly 8-10% requiring long-term absence (90+ days). Muscle injuries will take 10-20% longer to heal than grass equivalents. The margin between "managing injuries" and "injury crisis" is 3-4 roster spots—teams operating with 20-22 senior players will struggle; those carrying 25-28 can absorb the load. Seattle represents the best-case scenario: below-league injury volume, temperate climate moderating turf penalties, but still needing strategic depth to weather the inevitable long-term absences that hit every team.
 
 ## Expect High Injury Rates in March-May
 
